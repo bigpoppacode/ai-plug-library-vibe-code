@@ -1,0 +1,13 @@
+<%- include('../partials/header') %>
+
+<div class="container">
+    <div class="course-layout">
+        <%- include('partials/sidebar', { pages, currentPageSlug }) %>
+        <div class="course-content page-content">
+            <h1><%= title %></h1>
+            <%- content %>
+        </div>
+    </div>
+</div>
+
+<%- include('../partials/footer') %>

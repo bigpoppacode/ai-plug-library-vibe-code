@@ -1,0 +1,7 @@
+node_modules
+.env
+SOCIAL_MEDIA.md
+.readme-progress.json
+.promptdocs-progress.json
+convert_prompts.sh
+readme-progress.json

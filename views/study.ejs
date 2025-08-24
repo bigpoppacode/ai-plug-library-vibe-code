@@ -1,0 +1,19 @@
+<%- include('partials/header') %>
+
+<div class="container">
+    <div class="page-content">
+        <h1>Study Guide: Jeopardy</h1>
+        <%- content.replace(/<table>/g, '<table class="responsive-table">').replace(/<td>/g, (match, offset, string) => {
+            // This is a bit complex, but it injects the data-label attribute for the responsive CSS
+            let headers = string.substring(0, offset).match(/<th>(.*?)<\/th>/g);
+            if (headers) {
+                let headerIndex = (string.substring(0, offset).match(/<td>/g) || []).length % headers.length;
+                let headerText = headers[headerIndex].replace(/<\/?th>/g, '');
+                return `<td data-label="${headerText}">`;
+            }
+            return match;
+        }) %>
+    </div>
+</div>
+
+<%- include('partials/footer') %>

@@ -1,0 +1,54 @@
+<%- include('partials/header') %>
+
+<div class="container">
+    <div class="workflow-detail-header">
+        <h1><%= title %></h1>
+        <div class="detail-page-actions">
+            <a href="/workflows" class="btn btn-secondary">&larr; Back to Workflows</a>
+            <a href="<%= downloadLink %>" class="btn btn-download">Download Workflow</a>
+        </div>
+    </div>
+    <div class="blockchain-bg page-content">
+    <div class="workflow-detail-grid">
+        <div class="workflow-column-main">
+            <!-- README Section -->
+            <div class="detail-section">
+                <h2>Workflow Overview</h2>
+                <div class="page-content">
+                    <%- readme %>
+                </div>
+            </div>
+
+            <!-- Explanation Section -->
+            <div class="detail-section">
+                <h2>Node-by-Node Explanation</h2>
+                <div class="explanations">
+                    <% explanations.forEach(explanation => { %>
+                        <div class="explanation-item page-content">
+                            <%- explanation %>
+                        </div>
+                    <% }); %>
+                </div>
+            </div>
+        </div>
+        <div class="workflow-column-side">
+            <!-- Diagram Section -->
+            <div class="detail-section">
+                <h2>Visual Flowchart</h2>
+                <div class="mermaid">
+                    <%= diagram %>
+                </div>
+            </div>
+
+            <!-- JSON Section -->
+            <div class="detail-section">
+                <h2>Workflow JSON</h2>
+                <div class="page-content">
+                    <pre><code><%- json %></code></pre>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<%- include('partials/footer') %>

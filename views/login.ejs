@@ -1,0 +1,21 @@
+<%- include('partials/header') %>
+
+<div class="container">
+    <div class="lead-card" style="margin-top: 4rem;">
+        <h2>Welcome Back</h2>
+        <% if (locals.error) { %>
+            <div class="error-message"><%= error %></div>
+        <% } %>
+        <form action="/auth/login" method="POST">
+            <input class="form-input" type="email" placeholder="Enter your email..." name="email" required />
+            <input class="form-input" type="password" placeholder="Enter your password..." name="password" required />
+            <button type="submit" class="form-submit">Login</button>
+        </form>
+        <div class="auth-links">
+            <a href="/" style="color: var(--primary-color) !important;">Create an account</a>
+            <a href="/auth/forgot-password" style="color: var(--secondary-color) !important;">Forgot Password?</a>
+        </div>
+    </div>
+</div>
+
+<%- include('partials/footer') %>

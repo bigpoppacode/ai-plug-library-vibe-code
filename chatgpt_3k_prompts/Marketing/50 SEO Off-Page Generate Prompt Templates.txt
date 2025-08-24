@@ -1,0 +1,52 @@
+  50 SEO Off-Page Generate Prompt Templates:
+ Best social media platform(s) for [target audience].
+ Best forum(s) for [topic].
+ Best blog(s) for [topic].
+ Best influencer(s) for [topic].
+ Best directory submission(s) for [topic].
+ Best article submission(s) for [topic].
+ Best press release distribution(s) for [topic].
+ Best guest posting opportunity for [topic].
+ Best broken link building opportunity for [topic].
+ Best competitor backlink analysis for [topic].
+ Best influencer outreach opportunity for [topic].
+ Best social media engagement opportunity for [topic].
+ Best content syndication opportunity for [topic].
+ Best infographic submission opportunity for [topic].
+ Best video submission opportunity for [topic].
+ Best podcast submission opportunity for [topic].
+ Best local business listing(s) for [topic].
+ Best niche directory submission(s) for [topic].
+ Best review site(s) for [topic].
+ Best business citation(s) for [topic].
+ Best blog commenting opportunity for [topic].
+ Best Q&A site(s) for [topic].
+ Best document sharing site(s) for [topic].
+ Best image sharing site(s) for [topic].
+ Best infographic sharing site(s) for [topic].
+ Best social bookmarking site(s) for [topic].
+ Best social media bookmarking site(s) for [topic].
+ Best PDF sharing site(s) for [topic].
+ Best wiki site(s) for [topic].
+ Best web 2.0 site(s) for [topic].
+ Best press release submission site(s) for [topic].
+ Best web directory submission(s) for [topic].
+ Best podcast directory submission(s) for [topic].
+ Best video directory submission(s) for [topic].
+ Best social media profile optimization tactics for [topic].
+ Best backlink profile analysis for [topic].
+ Best anchor text optimization for [topic].
+ Best link building outreach tactics for [topic].
+ Best link building tools for [topic].
+ Best link building practices for [topic].
+ Best link building tips for [topic].
+ Best link building strategies for [topic].
+ Best link building techniques for [topic].
+ Best link building guidelines for [topic].
+ Best link building checklist for [topic].
+ Best off-page optimization audit for [topic].
+ Best off-page optimization error fixing tactics for [topic].
+ Best off-page optimization practices for [topic].
+ Best off-page optimization tips for [topic].
+ Best off-page optimization strategies for [topic].
+

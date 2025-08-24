@@ -1,0 +1,26 @@
+<%- include('../partials/header') %>
+
+<div class="container">
+    <h1><%= title %></h1>
+    <p>An exclusive collection of advanced, production-ready automations.</p>
+
+    <div class="workflow-list">
+        <% workflows.forEach(workflow => { %>
+            <div class="workflow-item">
+                <h3><%= workflow.title %></h3>
+                <p class="workflow-synopsis">Type: <%= workflow.type %> | Size: <%= (workflow.size_bytes / 1024).toFixed(2) %> KB</p>
+                <div class="workflow-links">
+                    <a href="/premium/<%= workflow.id %>" class="btn btn-secondary">
+                        View Details
+                    </a>
+                    <a href="/download/Premium Automations/<%= path.basename(workflow.path) %>" class="btn btn-download">
+                        Download
+                    </a>
+                </div>
+            </div>
+        <% }); %>
+    </div>
+</div>
+
+<%- include('../partials/footer') %>
+

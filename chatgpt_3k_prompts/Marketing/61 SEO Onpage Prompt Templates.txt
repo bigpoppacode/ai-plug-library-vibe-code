@@ -1,0 +1,63 @@
+  61 SEO Onpage Prompt Templates
+ Find the best [adjective] [Product/Service/Keyword] for [specific audience/persona]
+ Tips for creating [adjective] [Product/Service/Keyword] content that ranks high on search engines
+ How to optimize [specific page or content] for [specific keyword]
+ What are the best practices for building high-quality backlinks for [specific industry/niche] websites
+ How to improve the [specific metric] of your website's SEO performance
+ [Number] common mistakes to avoid in your SEO strategy for [specific industry/niche]
+ How to conduct effective keyword research for [specific topic/industry]
+ [Number] actionable tips for creating a successful local SEO strategy
+ How to perform a technical SEO audit for [specific website or page]
+ [Number] tips for creating SEO-friendly content for [specific platform/channel]
+ Best primary keyword for [topic].
+ Best secondary keyword for [topic].
+ Best long-tail keyword for [topic].
+ Best title tag for [keyword].
+ Best meta description for [keyword].
+ Best H1 tag for [keyword].
+ Best H2 tags for [keyword].
+ Best H3 tags for [keyword].
+ Best image alt text for [keyword].
+ Best internal link anchor text for [keyword].
+ Best external link anchor text for [keyword].
+ Best URL structure for [topic].
+ Best website speed optimization tactics for [topic].
+ Best mobile responsiveness optimization tactics for [topic].
+ Best website design elements for [topic].
+ Best website content structure for [topic].
+ Best website readability tactics for [topic].
+ Best website accessibility tactics for [topic].
+ Best website security tactics for [topic].
+ Best website user experience tactics for [topic].
+ Best website conversion optimization tactics for [topic].
+ Best website header optimization tactics for [topic].
+ Best website footer optimization tactics for [topic].
+ Best website sidebar optimization tactics for [topic].
+ Best website navigation optimization tactics for [topic].
+ Best website footer optimization tactics for [topic].
+ Best website schema markup for [topic].
+ Best website keyword density for [topic].
+ Best website multimedia optimization for [topic].
+ Best website content formatting for [topic].
+ Best website header tag optimization for [topic].
+ Best website meta keyword optimization for [topic].
+ Best website meta robots optimization for [topic].
+ Best website sitemap optimization for [topic].
+ Best website breadcrumb optimization for [topic].
+ Best website canonical tag optimization for [topic].
+ Best website robots.txt optimization for [topic].
+ Best website analytics tracking optimization for [topic].
+ Best website keyword research for [topic].
+ Best website competitor analysis for [topic].
+ Best website content optimization for [topic].
+ Best website on-page audit for [topic].
+ Best website on-page error fixing tactics for [topic].
+ Best website on-page optimization tools for [topic].
+ Best website on-page optimization practices for [topic].
+ Best website on-page optimization tips for [topic].
+ Best website on-page optimization strategies for [topic].
+ Best website on-page optimization techniques for [topic].
+ Best website on-page optimization guidelines for [topic].
+ Best website on-page optimization checklist for [topic].
+ [Number] tips for creating [specific type of content] that ranks on [specific search engine]
+

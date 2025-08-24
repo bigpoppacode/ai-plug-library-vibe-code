@@ -1,0 +1,2982 @@
+[
+  {
+    "id": "airesearchraganddataanalysis-analyze-tradingviewcom-charts-with-chrome-extension-n8n-and-openai",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Analyze tradingview.com charts with Chrome extension, N8N and OpenAI.json",
+    "title": "Analyze tradingview.com charts with Chrome extension, N8N and OpenAI",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 2990
+  },
+  {
+    "id": "airesearchraganddataanalysis-automated-hugging-face-paper-summary-fetching-categorization-workflow",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Automated Hugging Face Paper Summary Fetching & Categorization Workflow.json",
+    "title": "Automated Hugging Face Paper Summary Fetching & Categorization Workflow",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 12452
+  },
+  {
+    "id": "airesearchraganddataanalysis-autonomous-ai-crawler",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Autonomous AI crawler.json",
+    "title": "Autonomous AI crawler",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 28621
+  },
+  {
+    "id": "airesearchraganddataanalysis-build-your-own-image-search-using-ai-object-detection-cdn-and-elasticsearchbuild-your-own-image-search-using-ai-object-detection-cdn-and-elasticsearch",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Build Your Own Image Search Using AI Object Detection, CDN and ElasticSearchBuild Your Own Image Search Using AI Object Detection, CDN and ElasticSearch.json",
+    "title": "Build Your Own Image Search Using AI Object Detection, CDN and ElasticSearchBuild Your Own Image Search Using AI Object Detection, CDN and ElasticSearch",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 10684
+  },
+  {
+    "id": "airesearchraganddataanalysis-build-a-financial-documents-assistant-using-qdrant-and-mistralai",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Build a Financial Documents Assistant using Qdrant and Mistral.ai.json",
+    "title": "Build a Financial Documents Assistant using Qdrant and Mistral.ai",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 19038
+  },
+  {
+    "id": "airesearchraganddataanalysis-build-a-tax-code-assistant-with-qdrant-mistralai-and-openai",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Build a Tax Code Assistant with Qdrant, Mistral.ai and OpenAI.json",
+    "title": "Build a Tax Code Assistant with Qdrant, Mistral.ai and OpenAI",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 23251
+  },
+  {
+    "id": "airesearchraganddataanalysis-building-rag-chatbot-for-movie-recommendations-with-qdrant-and-open-ai",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI.json",
+    "title": "Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 15163
+  },
+  {
+    "id": "airesearchraganddataanalysis-chat-with-github-api-documentation-rag-powered-chatbot-with-pinecone-openai",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Chat with GitHub API Documentation_ RAG-Powered Chatbot with Pinecone & OpenAI.json",
+    "title": "Chat with GitHub API Documentation  RAG Powered Chatbot with Pinecone & OpenAI",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 8239
+  },
+  {
+    "id": "airesearchraganddataanalysis-create-a-google-analytics-data-report-with-ai-and-sent-it-to-e-mail-and-telegram",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Create a Google Analytics Data Report with AI and sent it to E-Mail and Telegram.json",
+    "title": "Create a Google Analytics Data Report with AI and sent it to E Mail and Telegram",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 14971
+  },
+  {
+    "id": "airesearchraganddataanalysis-customer-insights-with-qdrant-python-and-information-extractor",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Customer Insights with Qdrant, Python and Information Extractor.json",
+    "title": "Customer Insights with Qdrant, Python and Information Extractor",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 27743
+  },
+  {
+    "id": "airesearchraganddataanalysis-deduplicate-scraping-ai-grants-for-eligibility-using-ai",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Deduplicate Scraping AI Grants for Eligibility using AI.json",
+    "title": "Deduplicate Scraping AI Grants for Eligibility using AI",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 35090
+  },
+  {
+    "id": "airesearchraganddataanalysis-enrich-property-inventory-survey-with-image-recognition-and-ai-agent",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Enrich Property Inventory Survey with Image Recognition and AI Agent.json",
+    "title": "Enrich Property Inventory Survey with Image Recognition and AI Agent",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 21638
+  },
+  {
+    "id": "airesearchraganddataanalysis-extract-insights-analyse-youtube-comments-via-ai-agent-chat",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Extract insights & analyse YouTube comments via AI Agent chat.json",
+    "title": "Extract insights & analyse YouTube comments via AI Agent chat",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 28091
+  },
+  {
+    "id": "airesearchraganddataanalysis-generate-seo-seed-keywords-using-ai",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Generate SEO Seed Keywords Using AI.json",
+    "title": "Generate SEO Seed Keywords Using AI",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 9009
+  },
+  {
+    "id": "airesearchraganddataanalysis-hacker-news-job-listing-scraper-and-parser",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Hacker News Job Listing Scraper and Parser.json",
+    "title": "Hacker News Job Listing Scraper and Parser",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 18506
+  },
+  {
+    "id": "airesearchraganddataanalysis-hacker-news-to-video-content",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Hacker News to Video Content.json",
+    "title": "Hacker News to Video Content",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 30092
+  },
+  {
+    "id": "airesearchraganddataanalysis-host-your-own-ai-deep-research-agent-with-n8n-apify-and-openai-o3",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3.json",
+    "title": "Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 150314
+  },
+  {
+    "id": "airesearchraganddataanalysis-host-your-own-ai-deep-research-agent-with-n8n-apify-and-openai-o3part1",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3_part1.json",
+    "title": "Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3 part1",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 75157
+  },
+  {
+    "id": "airesearchraganddataanalysis-host-your-own-ai-deep-research-agent-with-n8n-apify-and-openai-o3part2",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3_part2.json",
+    "title": "Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3 part2",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 75157
+  },
+  {
+    "id": "airesearchraganddataanalysis-intelligent-web-query-and-semantic-re-ranking-flow-using-brave-and-google-gemini",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Intelligent Web Query and Semantic Re-Ranking Flow using Brave and Google Gemini.json",
+    "title": "Intelligent Web Query and Semantic Re Ranking Flow using Brave and Google Gemini",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 35424
+  },
+  {
+    "id": "airesearchraganddataanalysis-learn-anything-from-hn---get-top-resource-recommendations-from-hacker-news",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Learn Anything from HN - Get Top Resource Recommendations from Hacker News.json",
+    "title": "Learn Anything from HN   Get Top Resource Recommendations from Hacker News",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 6486
+  },
+  {
+    "id": "airesearchraganddataanalysis-make-openai-citation-for-file-retrieval-rag",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Make OpenAI Citation for File Retrieval RAG.json",
+    "title": "Make OpenAI Citation for File Retrieval RAG",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 10834
+  },
+  {
+    "id": "airesearchraganddataanalysis-open-deep-research---ai-powered-autonomous-research-workflow",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Open Deep Research - AI-Powered Autonomous Research Workflow.json",
+    "title": "Open Deep Research   AI Powered Autonomous Research Workflow",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 10743
+  },
+  {
+    "id": "airesearchraganddataanalysis-query-perplexity-ai-from-your-n8n-workflows",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Query Perplexity AI from your n8n workflows.json",
+    "title": "Query Perplexity AI from your n8n workflows",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 3890
+  },
+  {
+    "id": "airesearchraganddataanalysis-recipe-recommendations-with-qdrant-and-mistral",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Recipe Recommendations with Qdrant and Mistral.json",
+    "title": "Recipe Recommendations with Qdrant and Mistral",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 22221
+  },
+  {
+    "id": "airesearchraganddataanalysis-reconcile-rent-payments-with-local-excel-spreadsheet-and-openai",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Reconcile Rent Payments with Local Excel Spreadsheet and OpenAI.json",
+    "title": "Reconcile Rent Payments with Local Excel Spreadsheet and OpenAI",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 13037
+  },
+  {
+    "id": "airesearchraganddataanalysis-scrape-trustpilot-reviews-with-deepseek-analyze-sentiment-with-openai",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI.json",
+    "title": "Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 16333
+  },
+  {
+    "id": "airesearchraganddataanalysis-scrape-and-summarize-posts-of-a-news-site-without-rss-feed-using-ai-and-save-them-to-a-nocodb",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Scrape and summarize posts of a news site without RSS feed using AI and save them to a NocoDB.json",
+    "title": "Scrape and summarize posts of a news site without RSS feed using AI and save them to a NocoDB",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 17766
+  },
+  {
+    "id": "airesearchraganddataanalysis-scrape-and-summarize-webpages-with-ai",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Scrape and summarize webpages with AI.json",
+    "title": "Scrape and summarize webpages with AI",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 5989
+  },
+  {
+    "id": "airesearchraganddataanalysis-send-google-analytics-data-to-ai-to-analyze-then-save-results-in-baserow",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Send Google analytics data to A.I. to analyze then save results in Baserow.json",
+    "title": "Send Google analytics data to A.I. to analyze then save results in Baserow",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 24195
+  },
+  {
+    "id": "airesearchraganddataanalysis-send-google-analytics-data-to-ai-to-analyze-then-save-results-in-baserowsend-google-analytics-data-to-ai-to-analyze-then-save-results-in-baserow",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Send Google analytics data to A.I. to analyze then save results in BaserowSend Google analytics data to A.I. to analyze then save results in Baserow.json",
+    "title": "Send Google analytics data to A.I. to analyze then save results in BaserowSend Google analytics data to A.I. to analyze then save results in Baserow",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 24195
+  },
+  {
+    "id": "airesearchraganddataanalysis-spot-workplace-discrimination-patterns-with-ai",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Spot Workplace Discrimination Patterns with AI.json",
+    "title": "Spot Workplace Discrimination Patterns with AI",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 59976
+  },
+  {
+    "id": "airesearchraganddataanalysis-summarize-serpbear-data-with-ai-via-openrouter-and-save-it-to-baserow",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Summarize SERPBear data with AI (via Openrouter) and save it to Baserow.json",
+    "title": "Summarize SERPBear data with AI (via Openrouter) and save it to Baserow",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 7046
+  },
+  {
+    "id": "airesearchraganddataanalysis-summarize-umami-data-with-ai-via-openrouter-and-save-it-to-baserow",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Summarize Umami data with AI (via Openrouter) and save it to Baserow.json",
+    "title": "Summarize Umami data with AI (via Openrouter) and save it to Baserow",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 11904
+  },
+  {
+    "id": "airesearchraganddataanalysis-survey-insights-with-qdrant-python-and-information-extractor",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Survey Insights with Qdrant, Python and Information Extractor.json",
+    "title": "Survey Insights with Qdrant, Python and Information Extractor",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 29256
+  },
+  {
+    "id": "airesearchraganddataanalysis-ultimate-scraper-workflow-for-n8n",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Ultimate Scraper Workflow for n8n.json",
+    "title": "Ultimate Scraper Workflow for n8n",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 41103
+  },
+  {
+    "id": "airesearchraganddataanalysis-vector-database-as-a-big-data-analysis-tool-for-ai-agents-13-anomaly12-knn",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [1_3 anomaly][1_2 KNN].json",
+    "title": "Vector Database as a Big Data Analysis Tool for AI Agents [1 3 anomaly][1 2 KNN]",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 18757
+  },
+  {
+    "id": "airesearchraganddataanalysis-vector-database-as-a-big-data-analysis-tool-for-ai-agents-22-knn-1",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [2_2 KNN] (1).json",
+    "title": "Vector Database as a Big Data Analysis Tool for AI Agents [2 2 KNN] (1)",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 13098
+  },
+  {
+    "id": "airesearchraganddataanalysis-vector-database-as-a-big-data-analysis-tool-for-ai-agents-22-knn",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [2_2 KNN].json",
+    "title": "Vector Database as a Big Data Analysis Tool for AI Agents [2 2 KNN]",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 13098
+  },
+  {
+    "id": "airesearchraganddataanalysis-vector-database-as-a-big-data-analysis-tool-for-ai-agents-23---anomaly",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [2_3 - anomaly].json",
+    "title": "Vector Database as a Big Data Analysis Tool for AI Agents [2 3   anomaly]",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 34969
+  },
+  {
+    "id": "airesearchraganddataanalysis-vector-database-as-a-big-data-analysis-tool-for-ai-agents-33---anomaly",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [3_3 - anomaly].json",
+    "title": "Vector Database as a Big Data Analysis Tool for AI Agents [3 3   anomaly]",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 12452
+  },
+  {
+    "id": "airesearchraganddataanalysis-visual-regression-testing-with-apify-and-ai-vision-model",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/Visual Regression Testing with Apify and AI Vision Model.json",
+    "title": "Visual Regression Testing with Apify and AI Vision Model",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 23496
+  },
+  {
+    "id": "airesearchraganddataanalysis--perplexity-research-to-html-ai-powered-content-creationpart1",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/🔍 Perplexity Research to HTML_ AI-Powered Content Creation_part1.json",
+    "title": "🔍 Perplexity Research to HTML  AI Powered Content Creation part1",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 35369
+  },
+  {
+    "id": "airesearchraganddataanalysis--perplexity-research-to-html-ai-powered-content-creationpart2",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/🔍 Perplexity Research to HTML_ AI-Powered Content Creation_part2.json",
+    "title": "🔍 Perplexity Research to HTML  AI Powered Content Creation part2",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 35369
+  },
+  {
+    "id": "airesearchraganddataanalysis--perplexity-research-to-html-ai-powered-content-creationpart3",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/🔍 Perplexity Research to HTML_ AI-Powered Content Creation_part3.json",
+    "title": "🔍 Perplexity Research to HTML  AI Powered Content Creation part3",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 35369
+  },
+  {
+    "id": "airesearchraganddataanalysis--perplexity-research-to-html-ai-powered-content-creationpart4",
+    "path": "workflows/Premium Automations/AI_Research_RAG_and_Data_Analysis/🔍 Perplexity Research to HTML_ AI-Powered Content Creation_part4.json",
+    "title": "🔍 Perplexity Research to HTML  AI Powered Content Creation part4",
+    "type": "workflow",
+    "tags": [
+      "AI_Research_RAG_and_Data_Analysis"
+    ],
+    "size_bytes": 35369
+  },
+  {
+    "id": "airtable-ai-agent-for-project-management-and-meetings-with-airtable-and-fireflies",
+    "path": "workflows/Premium Automations/Airtable/AI Agent for project management and meetings with Airtable and Fireflies.json",
+    "title": "AI Agent for project management and meetings with Airtable and Fireflies",
+    "type": "workflow",
+    "tags": [
+      "Airtable"
+    ],
+    "size_bytes": 14513
+  },
+  {
+    "id": "airtable-ai-agent-to-chat-with-airtable-and-analyze-data",
+    "path": "workflows/Premium Automations/Airtable/AI Agent to chat with Airtable and analyze data.json",
+    "title": "AI Agent to chat with Airtable and analyze data",
+    "type": "workflow",
+    "tags": [
+      "Airtable"
+    ],
+    "size_bytes": 33388
+  },
+  {
+    "id": "airtable-get-airtable-data-via-ai-and-obsidian-notes",
+    "path": "workflows/Premium Automations/Airtable/Get Airtable data via AI and Obsidian Notes.json",
+    "title": "Get Airtable data via AI and Obsidian Notes",
+    "type": "workflow",
+    "tags": [
+      "Airtable"
+    ],
+    "size_bytes": 4220
+  },
+  {
+    "id": "airtable-handling-job-application-submissions-with-ai-and-n8n-forms",
+    "path": "workflows/Premium Automations/Airtable/Handling Job Application Submissions with AI and n8n Forms.json",
+    "title": "Handling Job Application Submissions with AI and n8n Forms",
+    "type": "workflow",
+    "tags": [
+      "Airtable"
+    ],
+    "size_bytes": 27018
+  },
+  {
+    "id": "airtable-vassistant-for-hubspot-chat-using-openai-and-airtable",
+    "path": "workflows/Premium Automations/Airtable/vAssistant for Hubspot Chat using OpenAi and Airtable.json",
+    "title": "vAssistant for Hubspot Chat using OpenAi and Airtable",
+    "type": "workflow",
+    "tags": [
+      "Airtable"
+    ],
+    "size_bytes": 22013
+  },
+  {
+    "id": "databaseandstorage-chat-with-postgresql-database",
+    "path": "workflows/Premium Automations/Database_and_Storage/Chat with Postgresql Database.json",
+    "title": "Chat with Postgresql Database",
+    "type": "workflow",
+    "tags": [
+      "Database_and_Storage"
+    ],
+    "size_bytes": 7006
+  },
+  {
+    "id": "databaseandstorage-generate-sql-queries-from-schema-only---ai-powered",
+    "path": "workflows/Premium Automations/Database_and_Storage/Generate SQL queries from schema only - AI-powered.json",
+    "title": "Generate SQL queries from schema only   AI powered",
+    "type": "workflow",
+    "tags": [
+      "Database_and_Storage"
+    ],
+    "size_bytes": 16702
+  },
+  {
+    "id": "databaseandstorage-mongodb-ai-agent---intelligent-movie-recommendations",
+    "path": "workflows/Premium Automations/Database_and_Storage/MongoDB AI Agent - Intelligent Movie Recommendations.json",
+    "title": "MongoDB AI Agent   Intelligent Movie Recommendations",
+    "type": "workflow",
+    "tags": [
+      "Database_and_Storage"
+    ],
+    "size_bytes": 5427
+  },
+  {
+    "id": "databaseandstorage-supabase-insertion-upsertion-retrieval",
+    "path": "workflows/Premium Automations/Database_and_Storage/Supabase Insertion & Upsertion & Retrieval.json",
+    "title": "Supabase Insertion & Upsertion & Retrieval",
+    "type": "workflow",
+    "tags": [
+      "Database_and_Storage"
+    ],
+    "size_bytes": 11389
+  },
+  {
+    "id": "databaseandstorage-talk-to-your-sqlite-database-with-a-langchain-ai-agent",
+    "path": "workflows/Premium Automations/Database_and_Storage/Talk to your SQLite database with a LangChain AI Agent.json",
+    "title": "Talk to your SQLite database with a LangChain AI Agent",
+    "type": "workflow",
+    "tags": [
+      "Database_and_Storage"
+    ],
+    "size_bytes": 5713
+  },
+  {
+    "id": "discord-discord-ai-powered-bot",
+    "path": "workflows/Premium Automations/Discord/Discord AI-powered bot.json",
+    "title": "Discord AI powered bot",
+    "type": "workflow",
+    "tags": [
+      "Discord"
+    ],
+    "size_bytes": 5273
+  },
+  {
+    "id": "discord-send-daily-translated-calvin-and-hobbes-comics-to-discord",
+    "path": "workflows/Premium Automations/Discord/Send daily translated Calvin and Hobbes Comics to Discord.json",
+    "title": "Send daily translated Calvin and Hobbes Comics to Discord",
+    "type": "workflow",
+    "tags": [
+      "Discord"
+    ],
+    "size_bytes": 5806
+  },
+  {
+    "id": "discord-share-youtube-videos-with-ai-summaries-on-discord",
+    "path": "workflows/Premium Automations/Discord/Share YouTube Videos with AI Summaries on Discord.json",
+    "title": "Share YouTube Videos with AI Summaries on Discord",
+    "type": "workflow",
+    "tags": [
+      "Discord"
+    ],
+    "size_bytes": 5214
+  },
+  {
+    "id": "formsandsurveys-conversational-interviews-with-ai-agents-and-n8n-forms",
+    "path": "workflows/Premium Automations/Forms_and_Surveys/Conversational Interviews with AI Agents and n8n Forms.json",
+    "title": "Conversational Interviews with AI Agents and n8n Forms",
+    "type": "workflow",
+    "tags": [
+      "Forms_and_Surveys"
+    ],
+    "size_bytes": 40263
+  },
+  {
+    "id": "formsandsurveys-email-subscription-service-with-n8n-forms-airtable-and-ai-1",
+    "path": "workflows/Premium Automations/Forms_and_Surveys/Email Subscription Service with n8n Forms, Airtable and AI (1).json",
+    "title": "Email Subscription Service with n8n Forms, Airtable and AI (1)",
+    "type": "workflow",
+    "tags": [
+      "Forms_and_Surveys"
+    ],
+    "size_bytes": 28842
+  },
+  {
+    "id": "formsandsurveys-email-subscription-service-with-n8n-forms-airtable-and-ai",
+    "path": "workflows/Premium Automations/Forms_and_Surveys/Email Subscription Service with n8n Forms, Airtable and AI.json",
+    "title": "Email Subscription Service with n8n Forms, Airtable and AI",
+    "type": "workflow",
+    "tags": [
+      "Forms_and_Surveys"
+    ],
+    "size_bytes": 28842
+  },
+  {
+    "id": "formsandsurveys-qualifying-appointment-requests-with-ai-n8n-forms",
+    "path": "workflows/Premium Automations/Forms_and_Surveys/Qualifying Appointment Requests with AI & n8n Forms.json",
+    "title": "Qualifying Appointment Requests with AI & n8n Forms",
+    "type": "workflow",
+    "tags": [
+      "Forms_and_Surveys"
+    ],
+    "size_bytes": 20266
+  },
+  {
+    "id": "gmailandemailautomation-a-very-simple-human-in-the-loop-email-response-system-using-ai-and-imap",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/A Very Simple _Human in the Loop_ Email Response System Using AI and IMAP.json",
+    "title": "A Very Simple  Human in the Loop  Email Response System Using AI and IMAP",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 8171
+  },
+  {
+    "id": "gmailandemailautomation-ai-powered-email-processing-autoresponder-and-response-approval-yesno",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/AI-powered email processing autoresponder and response approval (Yes_No).json",
+    "title": "AI powered email processing autoresponder and response approval (Yes No)",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 9829
+  },
+  {
+    "id": "gmailandemailautomation-analyze-sort-suspicious-email-contents-with-chatgpt",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Analyze & Sort Suspicious Email Contents with ChatGPT.json",
+    "title": "Analyze & Sort Suspicious Email Contents with ChatGPT",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 19769
+  },
+  {
+    "id": "gmailandemailautomation-analyze-suspicious-email-contents-with-chatgpt-vision",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Analyze Suspicious Email Contents with ChatGPT Vision.json",
+    "title": "Analyze Suspicious Email Contents with ChatGPT Vision",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 14315
+  },
+  {
+    "id": "gmailandemailautomation-auto-categorise-outlook-emails-with-ai",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Auto Categorise Outlook Emails with AI.json",
+    "title": "Auto Categorise Outlook Emails with AI",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 26364
+  },
+  {
+    "id": "gmailandemailautomation-auto-label-incoming-gmail-messages-with-ai-nodes",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Auto-label incoming Gmail messages with AI nodes.json",
+    "title": "Auto label incoming Gmail messages with AI nodes",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 9484
+  },
+  {
+    "id": "gmailandemailautomation-basic-automatic-gmail-email-labelling-with-openai-and-gmail-api",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Basic Automatic Gmail Email Labelling with OpenAI and Gmail API.json",
+    "title": "Basic Automatic Gmail Email Labelling with OpenAI and Gmail API",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 10475
+  },
+  {
+    "id": "gmailandemailautomation-classify-lemlist-replies-using-openai-and-automate-reply-handling",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Classify lemlist replies using OpenAI and automate reply handling.json",
+    "title": "Classify lemlist replies using OpenAI and automate reply handling",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 10840
+  },
+  {
+    "id": "gmailandemailautomation-compose-reply-draft-in-gmail-with-openai-assistant",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Compose reply draft in Gmail with OpenAI Assistant.json",
+    "title": "Compose reply draft in Gmail with OpenAI Assistant",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 11780
+  },
+  {
+    "id": "gmailandemailautomation-effortless-email-management-with-ai-powered-summarization-review",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Effortless Email Management with AI-Powered Summarization & Review.json",
+    "title": "Effortless Email Management with AI Powered Summarization & Review",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 16999
+  },
+  {
+    "id": "gmailandemailautomation-email-summary-agent",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Email Summary Agent.json",
+    "title": "Email Summary Agent",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 9257
+  },
+  {
+    "id": "gmailandemailautomation-extract-spending-history-from-gmail-to-google-sheet",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Extract spending history from gmail to google sheet.json",
+    "title": "Extract spending history from gmail to google sheet",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 25813
+  },
+  {
+    "id": "gmailandemailautomation-gmail-ai-auto-responder-create-draft-replies-to-incoming-emails",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Gmail AI Auto-Responder_ Create Draft Replies to incoming emails.json",
+    "title": "Gmail AI Auto Responder  Create Draft Replies to incoming emails",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 6952
+  },
+  {
+    "id": "gmailandemailautomation-microsoft-outlook-ai-email-assistant-with-contact-support-from-monday-and-airtable",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Microsoft Outlook AI Email Assistant with contact support from Monday and Airtable.json",
+    "title": "Microsoft Outlook AI Email Assistant with contact support from Monday and Airtable",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 20747
+  },
+  {
+    "id": "gmailandemailautomation-modular-customizable-ai-powered-email-routing-text-classifier-for-ecommerce",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Modular & Customizable AI-Powered Email Routing_ Text Classifier for eCommerce.json",
+    "title": "Modular & Customizable AI Powered Email Routing  Text Classifier for eCommerce",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 18495
+  },
+  {
+    "id": "gmailandemailautomation-send-a-chatgpt-email-reply-and-save-responses-to-google-sheets",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Send a ChatGPT email reply and save responses to Google Sheets.json",
+    "title": "Send a ChatGPT email reply and save responses to Google Sheets",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 74895
+  },
+  {
+    "id": "gmailandemailautomation-send-specific-pdf-attachments-from-gmail-to-google-drive-using-openai",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Send specific PDF attachments from Gmail to Google Drive using OpenAI.json",
+    "title": "Send specific PDF attachments from Gmail to Google Drive using OpenAI",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 9479
+  },
+  {
+    "id": "gmailandemailautomation-summarize-your-emails-with-ai-via-openrouter-and-send-to-line-messenger-1",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Summarize your emails with A.I. (via Openrouter) and send to Line messenger (1).json",
+    "title": "Summarize your emails with A.I. (via Openrouter) and send to Line messenger (1)",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 4976
+  },
+  {
+    "id": "gmailandemailautomation-summarize-your-emails-with-ai-via-openrouter-and-send-to-line-messenger",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/Summarize your emails with A.I. (via Openrouter) and send to Line messenger.json",
+    "title": "Summarize your emails with A.I. (via Openrouter) and send to Line messenger",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 4976
+  },
+  {
+    "id": "gmailandemailautomation-create-e-mail-responses-with-fastmail-and-openai",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/create e-mail responses with fastmail and OpenAI.json",
+    "title": "create e mail responses with fastmail and OpenAI",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 10760
+  },
+  {
+    "id": "gmailandemailautomation--receive-daily-market-news-from-ftcom-to-your-microsoft-outlook-inbox",
+    "path": "workflows/Premium Automations/Gmail_and_Email_Automation/📈 Receive Daily Market News from FT.com to your Microsoft outlook inbox.json",
+    "title": "📈 Receive Daily Market News from FT.com to your Microsoft outlook inbox",
+    "type": "workflow",
+    "tags": [
+      "Gmail_and_Email_Automation"
+    ],
+    "size_bytes": 7289
+  },
+  {
+    "id": "googledriveandgooglesheets-author-and-publish-blog-posts-from-google-sheets",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Author and Publish Blog Posts From Google Sheets.json",
+    "title": "Author and Publish Blog Posts From Google Sheets",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 36265
+  },
+  {
+    "id": "googledriveandgooglesheets-automated-end-to-end-fine-tuning-of-openai-models-with-google-drive-integration",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Automated End-to-End Fine-Tuning of OpenAI Models with Google Drive Integration.json",
+    "title": "Automated End to End Fine Tuning of OpenAI Models with Google Drive Integration",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 5709
+  },
+  {
+    "id": "googledriveandgooglesheets-automatic-background-removal-for-images-in-google-drive",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Automatic Background Removal for Images in Google Drive.json",
+    "title": "Automatic Background Removal for Images in Google Drive",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 10984
+  },
+  {
+    "id": "googledriveandgooglesheets-build-an-openai-assistant-with-google-drive-integration",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Build an OpenAI Assistant with Google Drive Integration.json",
+    "title": "Build an OpenAI Assistant with Google Drive Integration",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 6641
+  },
+  {
+    "id": "googledriveandgooglesheets-chat-with-a-google-sheet-using-ai",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Chat with a Google Sheet using AI.json",
+    "title": "Chat with a Google Sheet using AI",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 11040
+  },
+  {
+    "id": "googledriveandgooglesheets-chat-with-your-event-schedule-from-google-sheets-in-telegram",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Chat with your event schedule from Google Sheets in Telegram.json",
+    "title": "Chat with your event schedule from Google Sheets in Telegram",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 12700
+  },
+  {
+    "id": "googledriveandgooglesheets-extract-information-from-a-logo-sheet-using-forms-ai-google-sheet-and-airtable",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Extract Information from a Logo Sheet using forms, AI, Google Sheet and Airtable.json",
+    "title": "Extract Information from a Logo Sheet using forms, AI, Google Sheet and Airtable",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 36511
+  },
+  {
+    "id": "googledriveandgooglesheets-flux-dev-image-generation-falai-to-google-drive",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Flux Dev Image Generation (Fal.ai) to Google Drive.json",
+    "title": "Flux Dev Image Generation (Fal.ai) to Google Drive",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 6668
+  },
+  {
+    "id": "googledriveandgooglesheets-qualify-new-leads-in-google-sheets-via-openais-gpt-4",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Qualify new leads in Google Sheets via OpenAI_s GPT-4.json",
+    "title": "Qualify new leads in Google Sheets via OpenAI s GPT 4",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 8560
+  },
+  {
+    "id": "googledriveandgooglesheets-rag-chatbot-for-company-documents-using-google-drive-and-gemini",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/RAG Chatbot for Company Documents using Google Drive and Gemini.json",
+    "title": "RAG Chatbot for Company Documents using Google Drive and Gemini",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 10484
+  },
+  {
+    "id": "googledriveandgooglesheets-ragcontext-aware-chunking-google-drive-to-pinecone-via-openrouter-gemini",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/RAG_Context-Aware Chunking _ Google Drive to Pinecone via OpenRouter & Gemini.json",
+    "title": "RAG Context Aware Chunking   Google Drive to Pinecone via OpenRouter & Gemini",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 8957
+  },
+  {
+    "id": "googledriveandgooglesheets-screen-applicants-with-ai-notify-hr-and-save-them-in-a-google-sheet",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Screen Applicants With AI, notify HR and save them in a Google Sheet.json",
+    "title": "Screen Applicants With AI, notify HR and save them in a Google Sheet",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 8678
+  },
+  {
+    "id": "googledriveandgooglesheets-simple-expense-tracker-with-n8n-chat-ai-agent-and-google-sheets",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Simple Expense Tracker with n8n Chat, AI Agent and Google Sheets.json",
+    "title": "Simple Expense Tracker with n8n Chat, AI Agent and Google Sheets",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 7812
+  },
+  {
+    "id": "googledriveandgooglesheets-summarize-google-sheets-form-feedback-via-openais-gpt-4",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Summarize Google Sheets form feedback via OpenAI_s GPT-4.json",
+    "title": "Summarize Google Sheets form feedback via OpenAI s GPT 4",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 6791
+  },
+  {
+    "id": "googledriveandgooglesheets-summarize-the-new-documents-from-google-drive-and-save-summary-in-google-sheet",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Summarize the New Documents from Google Drive and Save Summary in Google Sheet.json",
+    "title": "Summarize the New Documents from Google Drive and Save Summary in Google Sheet",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 7030
+  },
+  {
+    "id": "googledriveandgooglesheets-upload-to-instagram-and-tiktok-from-google-drive",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/Upload to Instagram and Tiktok from Google Drive.json",
+    "title": "Upload to Instagram and Tiktok from Google Drive",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 10277
+  },
+  {
+    "id": "googledriveandgooglesheets--vision-based-ai-agent-scraper---with-google-sheets-scrapingbee-and-gemini",
+    "path": "workflows/Premium Automations/Google_Drive_and_Google_Sheets/✨ Vision-Based AI Agent Scraper - with Google Sheets, ScrapingBee, and Gemini.json",
+    "title": "✨ Vision Based AI Agent Scraper   with Google Sheets, ScrapingBee, and Gemini",
+    "type": "workflow",
+    "tags": [
+      "Google_Drive_and_Google_Sheets"
+    ],
+    "size_bytes": 21118
+  },
+  {
+    "id": "hrandrecruitment-bamboohr-ai-powered-company-policies-and-benefits-chatbot",
+    "path": "workflows/Premium Automations/HR_and_Recruitment/BambooHR AI-Powered Company Policies and Benefits Chatbot.json",
+    "title": "BambooHR AI Powered Company Policies and Benefits Chatbot",
+    "type": "workflow",
+    "tags": [
+      "HR_and_Recruitment"
+    ],
+    "size_bytes": 26693
+  },
+  {
+    "id": "hrandrecruitment-cv-screening-with-openai",
+    "path": "workflows/Premium Automations/HR_and_Recruitment/CV Screening with OpenAI.json",
+    "title": "CV Screening with OpenAI",
+    "type": "workflow",
+    "tags": [
+      "HR_and_Recruitment"
+    ],
+    "size_bytes": 12323
+  },
+  {
+    "id": "hrandrecruitment-hr-it-helpdesk-chatbot-with-audio-transcription",
+    "path": "workflows/Premium Automations/HR_and_Recruitment/HR & IT Helpdesk Chatbot with Audio Transcription.json",
+    "title": "HR & IT Helpdesk Chatbot with Audio Transcription",
+    "type": "workflow",
+    "tags": [
+      "HR_and_Recruitment"
+    ],
+    "size_bytes": 16203
+  },
+  {
+    "id": "hrandrecruitment-hr-job-posting-and-evaluation-with-ai",
+    "path": "workflows/Premium Automations/HR_and_Recruitment/HR Job Posting and Evaluation with AI.json",
+    "title": "HR Job Posting and Evaluation with AI",
+    "type": "workflow",
+    "tags": [
+      "HR_and_Recruitment"
+    ],
+    "size_bytes": 62111
+  },
+  {
+    "id": "instagramtwittersocialmedia-ai-agent-for-instagram-dminbox-manychat-open-ai-integration",
+    "path": "workflows/Premium Automations/Instagram_Twitter_Social_Media/AI agent for Instagram DM_inbox. Manychat + Open AI integration.json",
+    "title": "AI agent for Instagram DM inbox. Manychat + Open AI integration",
+    "type": "workflow",
+    "tags": [
+      "Instagram_Twitter_Social_Media"
+    ],
+    "size_bytes": 6028
+  },
+  {
+    "id": "instagramtwittersocialmedia-create-dynamic-twitter-profile-banner",
+    "path": "workflows/Premium Automations/Instagram_Twitter_Social_Media/Create dynamic Twitter profile banner.json",
+    "title": "Create dynamic Twitter profile banner",
+    "type": "workflow",
+    "tags": [
+      "Instagram_Twitter_Social_Media"
+    ],
+    "size_bytes": 5015
+  },
+  {
+    "id": "instagramtwittersocialmedia-generate-instagram-content-from-top-trends-with-ai-image-generation",
+    "path": "workflows/Premium Automations/Instagram_Twitter_Social_Media/Generate Instagram Content from Top Trends with AI Image Generation.json",
+    "title": "Generate Instagram Content from Top Trends with AI Image Generation",
+    "type": "workflow",
+    "tags": [
+      "Instagram_Twitter_Social_Media"
+    ],
+    "size_bytes": 29271
+  },
+  {
+    "id": "instagramtwittersocialmedia-openai-powered-tweet-generator",
+    "path": "workflows/Premium Automations/Instagram_Twitter_Social_Media/OpenAI-powered tweet generator.json",
+    "title": "OpenAI powered tweet generator",
+    "type": "workflow",
+    "tags": [
+      "Instagram_Twitter_Social_Media"
+    ],
+    "size_bytes": 2264
+  },
+  {
+    "id": "instagramtwittersocialmedia-post-new-youtube-videos-to-x",
+    "path": "workflows/Premium Automations/Instagram_Twitter_Social_Media/Post New YouTube Videos to X.json",
+    "title": "Post New YouTube Videos to X",
+    "type": "workflow",
+    "tags": [
+      "Instagram_Twitter_Social_Media"
+    ],
+    "size_bytes": 3414
+  },
+  {
+    "id": "instagramtwittersocialmedia-reddit-ai-digest",
+    "path": "workflows/Premium Automations/Instagram_Twitter_Social_Media/Reddit AI digest.json",
+    "title": "Reddit AI digest",
+    "type": "workflow",
+    "tags": [
+      "Instagram_Twitter_Social_Media"
+    ],
+    "size_bytes": 8880
+  },
+  {
+    "id": "instagramtwittersocialmedia-social-media-analysis-and-automated-email-generation",
+    "path": "workflows/Premium Automations/Instagram_Twitter_Social_Media/Social Media Analysis and Automated Email Generation.json",
+    "title": "Social Media Analysis and Automated Email Generation",
+    "type": "workflow",
+    "tags": [
+      "Instagram_Twitter_Social_Media"
+    ],
+    "size_bytes": 17853
+  },
+  {
+    "id": "instagramtwittersocialmedia-speed-up-social-media-banners-with-bannerbearcom",
+    "path": "workflows/Premium Automations/Instagram_Twitter_Social_Media/Speed Up Social Media Banners With BannerBear.com.json",
+    "title": "Speed Up Social Media Banners With BannerBear.com",
+    "type": "workflow",
+    "tags": [
+      "Instagram_Twitter_Social_Media"
+    ],
+    "size_bytes": 11358
+  },
+  {
+    "id": "instagramtwittersocialmedia-twitter-virtual-ai-influencer",
+    "path": "workflows/Premium Automations/Instagram_Twitter_Social_Media/Twitter Virtual AI Influencer.json",
+    "title": "Twitter Virtual AI Influencer",
+    "type": "workflow",
+    "tags": [
+      "Instagram_Twitter_Social_Media"
+    ],
+    "size_bytes": 6769
+  },
+  {
+    "id": "instagramtwittersocialmedia-update-twitter-banner-using-http-request",
+    "path": "workflows/Premium Automations/Instagram_Twitter_Social_Media/Update Twitter banner using HTTP request.json",
+    "title": "Update Twitter banner using HTTP request",
+    "type": "workflow",
+    "tags": [
+      "Instagram_Twitter_Social_Media"
+    ],
+    "size_bytes": 1339
+  },
+  {
+    "id": "notion-add-positive-feedback-messages-to-a-table-in-notion",
+    "path": "workflows/Premium Automations/Notion/Add positive feedback messages to a table in Notion.json",
+    "title": "Add positive feedback messages to a table in Notion",
+    "type": "workflow",
+    "tags": [
+      "Notion"
+    ],
+    "size_bytes": 2873
+  },
+  {
+    "id": "notion-analyse-papers-from-hugging-face-with-ai-and-store-them-in-notion",
+    "path": "workflows/Premium Automations/Notion/Analyse papers from Hugging Face with AI and store them in Notion.json",
+    "title": "Analyse papers from Hugging Face with AI and store them in Notion",
+    "type": "workflow",
+    "tags": [
+      "Notion"
+    ],
+    "size_bytes": 9419
+  },
+  {
+    "id": "notion-automate-competitor-research-with-exaai-notion-and-ai-agents",
+    "path": "workflows/Premium Automations/Notion/Automate Competitor Research with Exa.ai, Notion and AI Agents.json",
+    "title": "Automate Competitor Research with Exa.ai, Notion and AI Agents",
+    "type": "workflow",
+    "tags": [
+      "Notion"
+    ],
+    "size_bytes": 36620
+  },
+  {
+    "id": "notion-automate-linkedin-outreach-with-notion-and-openai",
+    "path": "workflows/Premium Automations/Notion/Automate LinkedIn Outreach with Notion and OpenAI.json",
+    "title": "Automate LinkedIn Outreach with Notion and OpenAI",
+    "type": "workflow",
+    "tags": [
+      "Notion"
+    ],
+    "size_bytes": 6722
+  },
+  {
+    "id": "notion-notion-ai-assistant-generator",
+    "path": "workflows/Premium Automations/Notion/Notion AI Assistant Generator.json",
+    "title": "Notion AI Assistant Generator",
+    "type": "workflow",
+    "tags": [
+      "Notion"
+    ],
+    "size_bytes": 25747
+  },
+  {
+    "id": "notion-notion-knowledge-base-ai-assistant",
+    "path": "workflows/Premium Automations/Notion/Notion knowledge base AI assistant.json",
+    "title": "Notion knowledge base AI assistant",
+    "type": "workflow",
+    "tags": [
+      "Notion"
+    ],
+    "size_bytes": 10276
+  },
+  {
+    "id": "notion-notion-to-pinecone-vector-store-integration",
+    "path": "workflows/Premium Automations/Notion/Notion to Pinecone Vector Store Integration.json",
+    "title": "Notion to Pinecone Vector Store Integration",
+    "type": "workflow",
+    "tags": [
+      "Notion"
+    ],
+    "size_bytes": 5467
+  },
+  {
+    "id": "notion-store-notions-pages-as-vector-documents-into-supabase-with-openai",
+    "path": "workflows/Premium Automations/Notion/Store Notion_s Pages as Vector Documents into Supabase with OpenAI.json",
+    "title": "Store Notion s Pages as Vector Documents into Supabase with OpenAI",
+    "type": "workflow",
+    "tags": [
+      "Notion"
+    ],
+    "size_bytes": 6920
+  },
+  {
+    "id": "notion-turn-emails-into-ai-enhanced-tasks-in-notion-multi-user-support-with-gmail-airtable-and-softr",
+    "path": "workflows/Premium Automations/Notion/Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr.json",
+    "title": "Turn Emails into AI Enhanced Tasks in Notion (Multi User Support) with Gmail, Airtable and Softr",
+    "type": "workflow",
+    "tags": [
+      "Notion"
+    ],
+    "size_bytes": 25382
+  },
+  {
+    "id": "notion-upsert-huge-documents-in-a-vector-store-with-supabase-and-notion",
+    "path": "workflows/Premium Automations/Notion/Upsert huge documents in a vector store with Supabase and Notion.json",
+    "title": "Upsert huge documents in a vector store with Supabase and Notion",
+    "type": "workflow",
+    "tags": [
+      "Notion"
+    ],
+    "size_bytes": 15045
+  },
+  {
+    "id": "openaiandllms-ai-agent-to-chat-with-files-in-supabase-storage",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Agent To Chat With Files In Supabase Storage.json",
+    "title": "AI Agent To Chat With Files In Supabase Storage",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 17910
+  },
+  {
+    "id": "openaiandllms-ai-agent-google-calendar-assistant-using-openai",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Agent _ Google calendar assistant using OpenAI.json",
+    "title": "AI Agent   Google calendar assistant using OpenAI",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 11965
+  },
+  {
+    "id": "openaiandllms-ai-agent-for-realtime-insights-on-meetings",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Agent for realtime insights on meetings.json",
+    "title": "AI Agent for realtime insights on meetings",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 17217
+  },
+  {
+    "id": "openaiandllms-ai-agent-to-chat-with-supabasepostgresql-db",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Agent to chat with Supabase_PostgreSQL DB.json",
+    "title": "AI Agent to chat with Supabase PostgreSQL DB",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 7548
+  },
+  {
+    "id": "openaiandllms-ai-agent-to-chat-with-you-search-console-data-using-openai-and-postgres",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Agent to chat with you Search Console Data, using OpenAI and Postgres.json",
+    "title": "AI Agent to chat with you Search Console Data, using OpenAI and Postgres",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 24138
+  },
+  {
+    "id": "openaiandllms-ai-agent-with-ollama-for-current-weather-and-wiki",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Agent with Ollama for current weather and wiki.json",
+    "title": "AI Agent with Ollama for current weather and wiki",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 4335
+  },
+  {
+    "id": "openaiandllms-ai-automated-hr-workflow-for-cv-analysis-and-candidate-evaluation",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Automated HR Workflow for CV Analysis and Candidate Evaluation.json",
+    "title": "AI Automated HR Workflow for CV Analysis and Candidate Evaluation",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 14438
+  },
+  {
+    "id": "openaiandllms-ai-crew-to-automate-fundamental-stock-analysis---qa-workflow",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Crew to Automate Fundamental Stock Analysis - Q&A Workflow.json",
+    "title": "AI Crew to Automate Fundamental Stock Analysis   Q&A Workflow",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 7668
+  },
+  {
+    "id": "openaiandllms-ai-customer-feedback-sentiment-analysis",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Customer feedback sentiment analysis.json",
+    "title": "AI Customer feedback sentiment analysis",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 6590
+  },
+  {
+    "id": "openaiandllms-ai-data-extraction-with-dynamic-prompts-and-airtable",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Data Extraction with Dynamic Prompts and Airtable.json",
+    "title": "AI Data Extraction with Dynamic Prompts and Airtable",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 35914
+  },
+  {
+    "id": "openaiandllms-ai-data-extraction-with-dynamic-prompts-and-baserow",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Data Extraction with Dynamic Prompts and Baserow.json",
+    "title": "AI Data Extraction with Dynamic Prompts and Baserow",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 28924
+  },
+  {
+    "id": "openaiandllms-ai-fitness-coach-strava-data-analysis-and-personalized-training-insights",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Fitness Coach Strava Data Analysis and Personalized Training Insights.json",
+    "title": "AI Fitness Coach Strava Data Analysis and Personalized Training Insights",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 16542
+  },
+  {
+    "id": "openaiandllms-ai-powered-web-scraping-with-jina-google-sheets-and-openai-the-easy-way",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Powered Web Scraping with Jina, Google Sheets and OpenAI _ the EASY way.json",
+    "title": "AI Powered Web Scraping with Jina, Google Sheets and OpenAI   the EASY way",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 5365
+  },
+  {
+    "id": "openaiandllms-ai-social-media-caption-creator-creates-social-media-post-captions-in-airtable",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Social Media Caption Creator creates social media post captions in Airtable.json",
+    "title": "AI Social Media Caption Creator creates social media post captions in Airtable",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 21382
+  },
+  {
+    "id": "openaiandllms-ai-voice-chat-using-webhook-memory-manager-openai-google-gemini-elevenlabs",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs.json",
+    "title": "AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 8267
+  },
+  {
+    "id": "openaiandllms-ai-voice-chatbot-with-elevenlabs-openai-for-customer-service-and-restaurants",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants.json",
+    "title": "AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 12021
+  },
+  {
+    "id": "openaiandllms-ai-youtube-trend-finder-based-on-niche",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI Youtube Trend Finder Based On Niche.json",
+    "title": "AI Youtube Trend Finder Based On Niche",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 11743
+  },
+  {
+    "id": "openaiandllms-ai-agent-chat",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI agent chat.json",
+    "title": "AI agent chat",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 1945
+  },
+  {
+    "id": "openaiandllms-ai-agent-that-can-scrape-webpages",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI agent that can scrape webpages.json",
+    "title": "AI agent that can scrape webpages",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 11723
+  },
+  {
+    "id": "openaiandllms-ai-chat-with-any-data-source-using-the-n8n-workflow-tool",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI chat with any data source (using the n8n workflow tool).json",
+    "title": "AI chat with any data source (using the n8n workflow tool)",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 4736
+  },
+  {
+    "id": "openaiandllms-ai-chatbot-that-can-search-the-web",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI chatbot that can search the web.json",
+    "title": "AI chatbot that can search the web",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 3079
+  },
+  {
+    "id": "openaiandllms-ai-web-researcher-for-sales",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI web researcher for sales.json",
+    "title": "AI web researcher for sales",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 20242
+  },
+  {
+    "id": "openaiandllms-ai-driven-lead-management-and-inquiry-automation-with-erpnext-n8n",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI-Driven Lead Management and Inquiry Automation with ERPNext & n8n.json",
+    "title": "AI Driven Lead Management and Inquiry Automation with ERPNext & n8n",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 21457
+  },
+  {
+    "id": "openaiandllms-ai-generated-summary-block-for-wordpress-posts",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI-Generated Summary Block for WordPress Posts.json",
+    "title": "AI Generated Summary Block for WordPress Posts",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 34600
+  },
+  {
+    "id": "openaiandllms-ai-powered-candidate-shortlisting-automation-for-erpnext",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI-Powered Candidate Shortlisting Automation for ERPNext.json",
+    "title": "AI Powered Candidate Shortlisting Automation for ERPNext",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 24251
+  },
+  {
+    "id": "openaiandllms-ai-powered-email-automation-for-business-summarize-respond-with-rag",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI-Powered Email Automation for Business_ Summarize & Respond with RAG.json",
+    "title": "AI Powered Email Automation for Business  Summarize & Respond with RAG",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 23659
+  },
+  {
+    "id": "openaiandllms-ai-powered-rag-workflow-for-stock-earnings-report-analysis",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI-Powered RAG Workflow For Stock Earnings Report Analysis.json",
+    "title": "AI Powered RAG Workflow For Stock Earnings Report Analysis",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 17500
+  },
+  {
+    "id": "openaiandllms-ai-powered-social-media-amplifier",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI-Powered Social Media Amplifier.json",
+    "title": "AI Powered Social Media Amplifier",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 25469
+  },
+  {
+    "id": "openaiandllms-ai-powered-woocommerce-support-agent",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI-powered WooCommerce Support-Agent.json",
+    "title": "AI powered WooCommerce Support Agent",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 25852
+  },
+  {
+    "id": "openaiandllms-ai-ask-questions-about-any-data-source-using-the-n8n-workflow-retriever",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI_ Ask questions about any data source (using the n8n workflow retriever).json",
+    "title": "AI  Ask questions about any data source (using the n8n workflow retriever)",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 2981
+  },
+  {
+    "id": "openaiandllms-ai-summarize-podcast-episode-and-enhance-using-wikipedia",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/AI_ Summarize podcast episode and enhance using Wikipedia.json",
+    "title": "AI  Summarize podcast episode and enhance using Wikipedia",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 38201
+  },
+  {
+    "id": "openaiandllms-actioning-your-meeting-next-steps-using-transcripts-and-ai",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Actioning Your Meeting Next Steps using Transcripts and AI.json",
+    "title": "Actioning Your Meeting Next Steps using Transcripts and AI",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 18436
+  },
+  {
+    "id": "openaiandllms-advanced-ai-demo-presented-at-ai-developers-14-meetup",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Advanced AI Demo (Presented at AI Developers #14 meetup).json",
+    "title": "Advanced AI Demo (Presented at AI Developers #14 meetup)",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 18988
+  },
+  {
+    "id": "openaiandllms-ask-a-human-for-help-when-the-ai-doesnt-know-the-answer",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Ask a human for help when the AI doesn_t know the answer.json",
+    "title": "Ask a human for help when the AI doesn t know the answer",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 7094
+  },
+  {
+    "id": "openaiandllms-automate-customer-support-issue-resolution-using-ai-text-classifier",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Automate Customer Support Issue Resolution using AI Text Classifier.json",
+    "title": "Automate Customer Support Issue Resolution using AI Text Classifier",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 28228
+  },
+  {
+    "id": "openaiandllms-automate-image-validation-tasks-using-ai-vision",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Automate Image Validation Tasks using AI Vision.json",
+    "title": "Automate Image Validation Tasks using AI Vision",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 8817
+  },
+  {
+    "id": "openaiandllms-automate-your-rfp-process-with-openai-assistants",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Automate Your RFP Process with OpenAI Assistants.json",
+    "title": "Automate Your RFP Process with OpenAI Assistants",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 14297
+  },
+  {
+    "id": "openaiandllms-chat-assistant-openai-assistant-with-postgres-memory-and-api-calling-capabalities",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Chat Assistant (OpenAI assistant) with Postgres Memory And API Calling Capabalities.json",
+    "title": "Chat Assistant (OpenAI assistant) with Postgres Memory And API Calling Capabalities",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 9881
+  },
+  {
+    "id": "openaiandllms-chat-with-openai-assistant-by-adding-a-memory",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Chat with OpenAI Assistant (by adding a memory).json",
+    "title": "Chat with OpenAI Assistant (by adding a memory)",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 5818
+  },
+  {
+    "id": "openaiandllms-chat-with-local-llms-using-n8n-and-ollama",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Chat with local LLMs using n8n and Ollama.json",
+    "title": "Chat with local LLMs using n8n and Ollama",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 2970
+  },
+  {
+    "id": "openaiandllms-configure-your-own-image-creation-api-using-openai-dalle-3",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Configure your own Image Creation API Using OpenAI DALLE-3.json",
+    "title": "Configure your own Image Creation API Using OpenAI DALLE 3",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 3061
+  },
+  {
+    "id": "openaiandllms-convert-text-to-speech-with-openai",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Convert text to speech with OpenAI.json",
+    "title": "Convert text to speech with OpenAI",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 4005
+  },
+  {
+    "id": "openaiandllms-create-a-branded-ai-powered-website-chatbot",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Create a Branded AI-Powered Website Chatbot.json",
+    "title": "Create a Branded AI Powered Website Chatbot",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 27600
+  },
+  {
+    "id": "openaiandllms-custom-langchain-agent-written-in-javascript",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Custom LangChain agent written in JavaScript.json",
+    "title": "Custom LangChain agent written in JavaScript",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 4524
+  },
+  {
+    "id": "openaiandllms-daily-podcast-summary",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Daily Podcast Summary.json",
+    "title": "Daily Podcast Summary",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 13164
+  },
+  {
+    "id": "openaiandllms-daily-meetings-summarization-with-gemini-ai",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Daily meetings summarization with Gemini AI.json",
+    "title": "Daily meetings summarization with Gemini AI",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 5172
+  },
+  {
+    "id": "openaiandllms-detect-hallucinations-using-specialised-ollama-model-bespoke-minicheck",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Detect hallucinations using specialised Ollama model bespoke-minicheck.json",
+    "title": "Detect hallucinations using specialised Ollama model bespoke minicheck",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 13099
+  },
+  {
+    "id": "openaiandllms-dynamically-generate-a-webpage-from-user-request-using-openai-structured-output-1",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Dynamically generate a webpage from user request using OpenAI Structured Output (1).json",
+    "title": "Dynamically generate a webpage from user request using OpenAI Structured Output (1)",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 7929
+  },
+  {
+    "id": "openaiandllms-dynamically-generate-a-webpage-from-user-request-using-openai-structured-output",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Dynamically generate a webpage from user request using OpenAI Structured Output.json",
+    "title": "Dynamically generate a webpage from user request using OpenAI Structured Output",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 7929
+  },
+  {
+    "id": "openaiandllms-easy-image-captioning-with-gemini-15-pro",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Easy Image Captioning with Gemini 1.5 Pro.json",
+    "title": "Easy Image Captioning with Gemini 1.5 Pro",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 10162
+  },
+  {
+    "id": "openaiandllms-enrich-faq-sections-on-your-website-pages-at-scale-with-ai",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Enrich FAQ sections on your website pages at scale with AI.json",
+    "title": "Enrich FAQ sections on your website pages at scale with AI",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 32816
+  },
+  {
+    "id": "openaiandllms-extract-personal-data-with-self-hosted-llm-mistral-nemo",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Extract personal data with self-hosted LLM Mistral NeMo.json",
+    "title": "Extract personal data with self hosted LLM Mistral NeMo",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 6489
+  },
+  {
+    "id": "openaiandllms-fetch-dynamic-prompts-from-github-and-auto-populate-n8n-expressions-in-prompt",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Fetch Dynamic Prompts from GitHub and Auto-Populate n8n Expressions in Prompt.json",
+    "title": "Fetch Dynamic Prompts from GitHub and Auto Populate n8n Expressions in Prompt",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 9656
+  },
+  {
+    "id": "openaiandllms-flux-ai-image-generator",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Flux AI Image Generator.json",
+    "title": "Flux AI Image Generator",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 17915
+  },
+  {
+    "id": "openaiandllms-force-ai-to-use-a-specific-output-format",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Force AI to use a specific output format.json",
+    "title": "Force AI to use a specific output format",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 4509
+  },
+  {
+    "id": "openaiandllms-generate-916-images-from-content-and-brand-guidelines",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Generate 9_16 Images from Content and Brand Guidelines.json",
+    "title": "Generate 9 16 Images from Content and Brand Guidelines",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 43027
+  },
+  {
+    "id": "openaiandllms-generate-text-to-speech-using-elevenlabs-via-api",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Generate Text-to-Speech Using Elevenlabs via API.json",
+    "title": "Generate Text to Speech Using Elevenlabs via API",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 3927
+  },
+  {
+    "id": "openaiandllms-generate-audio-from-text-using-openai-and-webhook-text-to-speech-workflow",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Generate audio from text using OpenAI and Webhook _ Text to Speech Workflow.json",
+    "title": "Generate audio from text using OpenAI and Webhook   Text to Speech Workflow",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 2905
+  },
+  {
+    "id": "openaiandllms-generating-image-embeddings-via-textual-summarisation",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Generating Image Embeddings via Textual Summarisation.json",
+    "title": "Generating Image Embeddings via Textual Summarisation",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 12048
+  },
+  {
+    "id": "openaiandllms-narrating-over-a-video-using-multimodal-ai",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Narrating over a Video using Multimodal AI.json",
+    "title": "Narrating over a Video using Multimodal AI",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 15883
+  },
+  {
+    "id": "openaiandllms-openai-assistant-workflow-upload-file-create-an-assistant-chat-with-it",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/OpenAI Assistant workflow_ upload file, create an Assistant, chat with it!.json",
+    "title": "OpenAI Assistant workflow  upload file, create an Assistant, chat with it!",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 6014
+  },
+  {
+    "id": "openaiandllms-openai-assistant-with-custom-tools",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/OpenAI assistant with custom tools.json",
+    "title": "OpenAI assistant with custom tools",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 7905
+  },
+  {
+    "id": "openaiandllms-openai-examples-chatgpt-dalle-2-whisper-1-5-in-1",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/OpenAI examples_ ChatGPT, DALLE-2, Whisper-1 – 5-in-1.json",
+    "title": "OpenAI examples  ChatGPT, DALLE 2, Whisper 1 – 5 in 1",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 15320
+  },
+  {
+    "id": "openaiandllms-organise-your-local-file-directories-with-ai",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Organise Your Local File Directories With AI.json",
+    "title": "Organise Your Local File Directories With AI",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 10485
+  },
+  {
+    "id": "openaiandllms-personal-shopper-chatbot-for-woocommerce-with-rag-using-google-drive-and-openai",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Personal Shopper Chatbot for WooCommerce with RAG using Google Drive and openAI.json",
+    "title": "Personal Shopper Chatbot for WooCommerce with RAG using Google Drive and openAI",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 14398
+  },
+  {
+    "id": "openaiandllms-prompt-based-object-detection-with-gemini-20",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Prompt-based Object Detection with Gemini 2.0.json",
+    "title": "Prompt based Object Detection with Gemini 2.0",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 11417
+  },
+  {
+    "id": "openaiandllms-proxmox-ai-agent-with-n8n-and-generative-ai-integration",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Proxmox AI Agent with n8n and Generative AI Integration.json",
+    "title": "Proxmox AI Agent with n8n and Generative AI Integration",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 28989
+  },
+  {
+    "id": "openaiandllms-query-n8n-credentials-with-ai-sql-agent",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Query n8n Credentials with AI SQL Agent.json",
+    "title": "Query n8n Credentials with AI SQL Agent",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 7821
+  },
+  {
+    "id": "openaiandllms-suggest-meeting-slots-using-ai",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Suggest meeting slots using AI.json",
+    "title": "Suggest meeting slots using AI",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 10997
+  },
+  {
+    "id": "openaiandllms-summarize-youtube-videos-from-transcript",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Summarize YouTube Videos from Transcript.json",
+    "title": "Summarize YouTube Videos from Transcript",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 4277
+  },
+  {
+    "id": "openaiandllms-transform-image-to-lego-style-using-line-and-dall-e",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Transform Image to Lego Style Using Line and Dall-E.json",
+    "title": "Transform Image to Lego Style Using Line and Dall E",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 3535
+  },
+  {
+    "id": "openaiandllms-translate-audio-using-ai",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Translate audio using AI.json",
+    "title": "Translate audio using AI",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 7430
+  },
+  {
+    "id": "openaiandllms-use-openrouter-in-n8n-versions-178",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/Use OpenRouter in n8n versions _1.78.json",
+    "title": "Use OpenRouter in n8n versions  1.78",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 3797
+  },
+  {
+    "id": "openaiandllms-lemlist-gpt-3-supercharge-your-sales-workflows",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/lemlist __ GPT-3_ Supercharge your sales workflows.json",
+    "title": "lemlist    GPT 3  Supercharge your sales workflows",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 7024
+  },
+  {
+    "id": "openaiandllms-ai-powered-youtube-video-summarization-analysis",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/⚡AI-Powered YouTube Video Summarization & Analysis.json",
+    "title": "⚡AI Powered YouTube Video Summarization & Analysis",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 6488
+  },
+  {
+    "id": "openaiandllms--interactive-image-editor-with-flux1-fill-tool-for-inpainting",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/🎨 Interactive Image Editor with FLUX.1 Fill Tool for Inpainting.json",
+    "title": "🎨 Interactive Image Editor with FLUX.1 Fill Tool for Inpainting",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 13001
+  },
+  {
+    "id": "openaiandllms-deepseek-v3-chat-r1-reasoning-quick-start",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/🐋DeepSeek V3 Chat & R1 Reasoning Quick Start.json",
+    "title": "🐋DeepSeek V3 Chat & R1 Reasoning Quick Start",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 7566
+  },
+  {
+    "id": "openaiandllms--auto-generate-documentation-for-n8n-workflows-with-gpt-and-docsify",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/📚 Auto-generate documentation for n8n workflows with GPT and Docsify.json",
+    "title": "📚 Auto generate documentation for n8n workflows with GPT and Docsify",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 45737
+  },
+  {
+    "id": "openaiandllms--private-local-ollama-self-hosted-ai-assistant",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/🔐🦙🤖 Private & Local Ollama Self-Hosted AI Assistant.json",
+    "title": "🔐🦙🤖 Private & Local Ollama Self Hosted AI Assistant",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 8206
+  },
+  {
+    "id": "openaiandllms--ai-agent-for-n8n-creators-leaderboard---find-popular-workflows",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/🔥📈🤖 AI Agent for n8n Creators Leaderboard - Find Popular Workflows.json",
+    "title": "🔥📈🤖 AI Agent for n8n Creators Leaderboard   Find Popular Workflows",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 27674
+  },
+  {
+    "id": "openaiandllms--local-multi-llm-testing-performance-tracker",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/🚀 Local Multi-LLM Testing & Performance Tracker.json",
+    "title": "🚀 Local Multi LLM Testing & Performance Tracker",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 19227
+  },
+  {
+    "id": "openaiandllms--ai-agent-for-top-n8n-creators-leaderboard-reporting",
+    "path": "workflows/Premium Automations/OpenAI_and_LLMs/🤖🧑_💻 AI Agent for Top n8n Creators Leaderboard Reporting.json",
+    "title": "🤖🧑 💻 AI Agent for Top n8n Creators Leaderboard Reporting",
+    "type": "workflow",
+    "tags": [
+      "OpenAI_and_LLMs"
+    ],
+    "size_bytes": 26823
+  },
+  {
+    "id": "other-alluniquenodes",
+    "path": "workflows/Premium Automations/Other/ALL_unique_nodes.json",
+    "title": "ALL unique nodes",
+    "type": "workflow",
+    "tags": [
+      "Other"
+    ],
+    "size_bytes": 0
+  },
+  {
+    "id": "otherintegrationsandusecases-api-schema-extractor",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/API Schema Extractor.json",
+    "title": "API Schema Extractor",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 73443
+  },
+  {
+    "id": "otherintegrationsandusecases-analyze-feedback-and-send-a-message-on-mattermost",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Analyze feedback and send a message on Mattermost.json",
+    "title": "Analyze feedback and send a message on Mattermost",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 2066
+  },
+  {
+    "id": "otherintegrationsandusecases-analyze-feedback-using-aws-comprehend-and-send-it-to-a-mattermost-channel",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Analyze feedback using AWS Comprehend and send it to a Mattermost channel.json",
+    "title": "Analyze feedback using AWS Comprehend and send it to a Mattermost channel",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 1811
+  },
+  {
+    "id": "otherintegrationsandusecases-automate-pinterest-analysis-ai-powered-content-suggestions-with-pinterest-api",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Automate Pinterest Analysis & AI-Powered Content Suggestions With Pinterest API.json",
+    "title": "Automate Pinterest Analysis & AI Powered Content Suggestions With Pinterest API",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 11073
+  },
+  {
+    "id": "otherintegrationsandusecases-automate-siem-alert-enrichment-with-mitre-attck-qdrant-zendesk-in-n8n",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Automate SIEM Alert Enrichment with MITRE ATT&CK, Qdrant & Zendesk in n8n.json",
+    "title": "Automate SIEM Alert Enrichment with MITRE ATT&CK, Qdrant & Zendesk in n8n",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 18190
+  },
+  {
+    "id": "otherintegrationsandusecases-automate-screenshots-with-urlbox-analyze-them-with-ai",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Automate Screenshots with URLbox & Analyze them with AI.json",
+    "title": "Automate Screenshots with URLbox & Analyze them with AI",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 4366
+  },
+  {
+    "id": "otherintegrationsandusecases-automate-testimonials-in-strapi-with-n8n",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Automate testimonials in Strapi with n8n.json",
+    "title": "Automate testimonials in Strapi with n8n",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 6310
+  },
+  {
+    "id": "otherintegrationsandusecases-bitrix24-chatbot-application-workflow-example-with-webhook-integration",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Bitrix24 Chatbot Application Workflow example with Webhook Integration.json",
+    "title": "Bitrix24 Chatbot Application Workflow example with Webhook Integration",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 15956
+  },
+  {
+    "id": "otherintegrationsandusecases-chatgpt-automatic-code-review-in-gitlab-mr",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/ChatGPT Automatic Code Review in Gitlab MR.json",
+    "title": "ChatGPT Automatic Code Review in Gitlab MR",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 8444
+  },
+  {
+    "id": "otherintegrationsandusecases-classify-new-bugs-in-linear-with-openais-gpt-4-and-move-them-to-the-right-team",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Classify new bugs in Linear with OpenAI_s GPT-4 and move them to the right team.json",
+    "title": "Classify new bugs in Linear with OpenAI s GPT 4 and move them to the right team",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 17220
+  },
+  {
+    "id": "otherintegrationsandusecases-create-update-and-get-a-profile-in-humantic-ai",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Create, update, and get a profile in Humantic AI.json",
+    "title": "Create, update, and get a profile in Humantic AI",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 1788
+  },
+  {
+    "id": "otherintegrationsandusecases-enhance-customer-chat-by-buffering-messages-with-twilio-and-redis",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Enhance Customer Chat by Buffering Messages with Twilio and Redis.json",
+    "title": "Enhance Customer Chat by Buffering Messages with Twilio and Redis",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 10234
+  },
+  {
+    "id": "otherintegrationsandusecases-hacker-news-throwback-machine---see-what-was-hot-on-this-day-every-year",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Hacker News Throwback Machine - See What Was Hot on This Day, Every Year!.json",
+    "title": "Hacker News Throwback Machine   See What Was Hot on This Day, Every Year!",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 8379
+  },
+  {
+    "id": "otherintegrationsandusecases-handling-appointment-leads-and-follow-up-with-twilio-calcom-and-ai",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Handling Appointment Leads and Follow-up With Twilio, Cal.com and AI.json",
+    "title": "Handling Appointment Leads and Follow up With Twilio, Cal.com and AI",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 44094
+  },
+  {
+    "id": "otherintegrationsandusecases-integrating-ai-with-open-meteo-api-for-enhanced-weather-forecasting",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Integrating AI with Open-Meteo API for Enhanced Weather Forecasting.json",
+    "title": "Integrating AI with Open Meteo API for Enhanced Weather Forecasting",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 8418
+  },
+  {
+    "id": "otherintegrationsandusecases-introduction-to-the-http-tool",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Introduction to the HTTP Tool.json",
+    "title": "Introduction to the HTTP Tool",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 6565
+  },
+  {
+    "id": "otherintegrationsandusecases-kb-tool---confluence-knowledge-base",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/KB Tool - Confluence Knowledge Base.json",
+    "title": "KB Tool   Confluence Knowledge Base",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 5845
+  },
+  {
+    "id": "otherintegrationsandusecases-line-assistant-with-google-calendar-and-gmail-integration",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/LINE Assistant with Google Calendar and Gmail Integration.json",
+    "title": "LINE Assistant with Google Calendar and Gmail Integration",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 10496
+  },
+  {
+    "id": "otherintegrationsandusecases-monthly-spotify-track-archiving-and-playlist-classification",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Monthly Spotify Track Archiving and Playlist Classification.json",
+    "title": "Monthly Spotify Track Archiving and Playlist Classification",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 41883
+  },
+  {
+    "id": "otherintegrationsandusecases-obsidian-notes-read-aloud-using-ai-available-as-a-podcast-feed",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Obsidian Notes Read Aloud using AI_ Available as a Podcast Feed.json",
+    "title": "Obsidian Notes Read Aloud using AI  Available as a Podcast Feed",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 19744
+  },
+  {
+    "id": "otherintegrationsandusecases-optimize-update-printify-title-and-description-workflow",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Optimize & Update Printify Title and Description Workflow.json",
+    "title": "Optimize & Update Printify Title and Description Workflow",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 22300
+  },
+  {
+    "id": "otherintegrationsandusecases-qualify-replies-from-pipedrive-persons-with-ai",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Qualify replies from Pipedrive persons with AI.json",
+    "title": "Qualify replies from Pipedrive persons with AI",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 6288
+  },
+  {
+    "id": "otherintegrationsandusecases-siri-ai-agent-apple-shortcuts-powered-voice-template",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Siri AI Agent_ Apple Shortcuts powered voice template.json",
+    "title": "Siri AI Agent  Apple Shortcuts powered voice template",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 4868
+  },
+  {
+    "id": "otherintegrationsandusecases-text-automations-using-apple-shortcuts-1",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Text automations using Apple Shortcuts (1).json",
+    "title": "Text automations using Apple Shortcuts (1)",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 10110
+  },
+  {
+    "id": "otherintegrationsandusecases-text-automations-using-apple-shortcuts",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Text automations using Apple Shortcuts.json",
+    "title": "Text automations using Apple Shortcuts",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 10110
+  },
+  {
+    "id": "otherintegrationsandusecases-utm-link-creator-qr-code-generator-with-scheduled-google-analytics-reports",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports.json",
+    "title": "UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 10084
+  },
+  {
+    "id": "otherintegrationsandusecases-use-ai-to-organize-your-todoist-inbox",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Use AI to organize your Todoist Inbox.json",
+    "title": "Use AI to organize your Todoist Inbox",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 5799
+  },
+  {
+    "id": "otherintegrationsandusecases-using-external-workflows-as-tools-in-n8n",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Using External Workflows as Tools in n8n.json",
+    "title": "Using External Workflows as Tools in n8n",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 2462
+  },
+  {
+    "id": "otherintegrationsandusecases-visualize-your-sql-agent-queries-with-openai-and-quickchartio",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Visualize your SQL Agent queries with OpenAI and Quickchart.io.json",
+    "title": "Visualize your SQL Agent queries with OpenAI and Quickchart.io",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 19685
+  },
+  {
+    "id": "otherintegrationsandusecases-zoom-ai-meeting-assistant-creates-mail-summary-clickup-tasks-and-follow-up-call",
+    "path": "workflows/Premium Automations/Other_Integrations_and_Use_Cases/Zoom AI Meeting Assistant creates mail summary, ClickUp tasks and follow-up call.json",
+    "title": "Zoom AI Meeting Assistant creates mail summary, ClickUp tasks and follow up call",
+    "type": "workflow",
+    "tags": [
+      "Other_Integrations_and_Use_Cases"
+    ],
+    "size_bytes": 20578
+  },
+  {
+    "id": "pdfanddocumentprocessing-ask-questions-about-a-pdf-using-ai",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Ask questions about a PDF using AI.json",
+    "title": "Ask questions about a PDF using AI",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 7340
+  },
+  {
+    "id": "pdfanddocumentprocessing-breakdown-documents-into-study-notes-using-templating-mistralai-and-qdrant",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Breakdown Documents into Study Notes using Templating MistralAI and Qdrant.json",
+    "title": "Breakdown Documents into Study Notes using Templating MistralAI and Qdrant",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 24212
+  },
+  {
+    "id": "pdfanddocumentprocessing-cv-resume-pdf-parsing-with-multimodal-vision-ai",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/CV Resume PDF Parsing with Multimodal Vision AI.json",
+    "title": "CV Resume PDF Parsing with Multimodal Vision AI",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 8721
+  },
+  {
+    "id": "pdfanddocumentprocessing-chat-with-pdf-docs-using-ai-quoting-sources",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Chat with PDF docs using AI (quoting sources).json",
+    "title": "Chat with PDF docs using AI (quoting sources)",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 11643
+  },
+  {
+    "id": "pdfanddocumentprocessing-convert-url-html-to-markdown-format-and-get-page-links",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Convert URL HTML to Markdown Format and Get Page Links.json",
+    "title": "Convert URL HTML to Markdown Format and Get Page Links",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 9246
+  },
+  {
+    "id": "pdfanddocumentprocessing-etl-pipeline-for-text-processing",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/ETL pipeline for text processing.json",
+    "title": "ETL pipeline for text processing",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 3285
+  },
+  {
+    "id": "pdfanddocumentprocessing-extract-and-process-information-directly-from-pdf-using-claude-and-gemini",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Extract and process information directly from PDF using Claude and Gemini.json",
+    "title": "Extract and process information directly from PDF using Claude and Gemini",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 7199
+  },
+  {
+    "id": "pdfanddocumentprocessing-extract-data-from-resume-and-create-pdf-with-gotenberg",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Extract data from resume and create PDF with Gotenberg.json",
+    "title": "Extract data from resume and create PDF with Gotenberg",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 25038
+  },
+  {
+    "id": "pdfanddocumentprocessing-extract-license-plate-number-from-image-uploaded-via-an-n8n-form",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Extract license plate number from image uploaded via an n8n form.json",
+    "title": "Extract license plate number from image uploaded via an n8n form",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 3156
+  },
+  {
+    "id": "pdfanddocumentprocessing-extract-text-from-pdf-and-image-using-vertex-ai-gemini-into-csv",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Extract text from PDF and image using Vertex AI (Gemini) into CSV.json",
+    "title": "Extract text from PDF and image using Vertex AI (Gemini) into CSV",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 10236
+  },
+  {
+    "id": "pdfanddocumentprocessing-invoice-data-extraction-with-llamaparse-and-openai-1",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Invoice data extraction with LlamaParse and OpenAI (1).json",
+    "title": "Invoice data extraction with LlamaParse and OpenAI (1)",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 22067
+  },
+  {
+    "id": "pdfanddocumentprocessing-invoice-data-extraction-with-llamaparse-and-openai",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Invoice data extraction with LlamaParse and OpenAI.json",
+    "title": "Invoice data extraction with LlamaParse and OpenAI",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 22067
+  },
+  {
+    "id": "pdfanddocumentprocessing-manipulate-pdf-with-adobe-developer-api",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Manipulate PDF with Adobe developer API.json",
+    "title": "Manipulate PDF with Adobe developer API",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 12624
+  },
+  {
+    "id": "pdfanddocumentprocessing-parse-pdf-with-llamaparse-and-save-to-airtable",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Parse PDF with LlamaParse and save to Airtable.json",
+    "title": "Parse PDF with LlamaParse and save to Airtable",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 14962
+  },
+  {
+    "id": "pdfanddocumentprocessing-prepare-csv-files-with-gpt-4prepare-csv-files-with-gpt-4",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Prepare CSV files with GPT-4Prepare CSV files with GPT-4.json",
+    "title": "Prepare CSV files with GPT 4Prepare CSV files with GPT 4",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 10039
+  },
+  {
+    "id": "pdfanddocumentprocessing-remove-personally-identifiable-information-pii-from-csv-files-with-openai",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Remove Personally Identifiable Information (PII) from CSV Files with OpenAI.json",
+    "title": "Remove Personally Identifiable Information (PII) from CSV Files with OpenAI",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 7748
+  },
+  {
+    "id": "pdfanddocumentprocessing-transcribe-audio-files-summarize-with-gpt-4-and-store-in-notion",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Transcribe Audio Files, Summarize with GPT-4, and Store in Notion.json",
+    "title": "Transcribe Audio Files, Summarize with GPT 4, and Store in Notion",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 6106
+  },
+  {
+    "id": "pdfanddocumentprocessing-transcribing-bank-statements-to-markdown-using-gemini-vision-ai",
+    "path": "workflows/Premium Automations/PDF_and_Document_Processing/Transcribing Bank Statements To Markdown Using Gemini Vision AI.json",
+    "title": "Transcribing Bank Statements To Markdown Using Gemini Vision AI",
+    "type": "workflow",
+    "tags": [
+      "PDF_and_Document_Processing"
+    ],
+    "size_bytes": 13303
+  },
+  {
+    "id": "slack-ai-powered-information-monitoring-with-openai-google-sheets-jina-ai-and-slack",
+    "path": "workflows/Premium Automations/Slack/AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack.json",
+    "title": "AI Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack",
+    "type": "workflow",
+    "tags": [
+      "Slack"
+    ],
+    "size_bytes": 34644
+  },
+  {
+    "id": "slack-creating-a-ai-slack-bot-with-google-gemini",
+    "path": "workflows/Premium Automations/Slack/Creating a AI Slack Bot with Google Gemini.json",
+    "title": "Creating a AI Slack Bot with Google Gemini",
+    "type": "workflow",
+    "tags": [
+      "Slack"
+    ],
+    "size_bytes": 5077
+  },
+  {
+    "id": "slack-customer-support-channel-and-ticketing-system-with-slack-and-linear",
+    "path": "workflows/Premium Automations/Slack/Customer Support Channel and Ticketing System with Slack and Linear.json",
+    "title": "Customer Support Channel and Ticketing System with Slack and Linear",
+    "type": "workflow",
+    "tags": [
+      "Slack"
+    ],
+    "size_bytes": 11640
+  },
+  {
+    "id": "slack-enhance-security-operations-with-the-qualys-slack-shortcut-bot-1",
+    "path": "workflows/Premium Automations/Slack/Enhance Security Operations with the Qualys Slack Shortcut Bot! (1).json",
+    "title": "Enhance Security Operations with the Qualys Slack Shortcut Bot! (1)",
+    "type": "workflow",
+    "tags": [
+      "Slack"
+    ],
+    "size_bytes": 23948
+  },
+  {
+    "id": "slack-enhance-security-operations-with-the-qualys-slack-shortcut-bot",
+    "path": "workflows/Premium Automations/Slack/Enhance Security Operations with the Qualys Slack Shortcut Bot!.json",
+    "title": "Enhance Security Operations with the Qualys Slack Shortcut Bot!",
+    "type": "workflow",
+    "tags": [
+      "Slack"
+    ],
+    "size_bytes": 23948
+  },
+  {
+    "id": "slack-enrich-pipedrives-organization-data-with-openai-gpt-4o-notify-it-in-slack",
+    "path": "workflows/Premium Automations/Slack/Enrich Pipedrive_s Organization Data with OpenAI GPT-4o & Notify it in Slack.json",
+    "title": "Enrich Pipedrive s Organization Data with OpenAI GPT 4o & Notify it in Slack",
+    "type": "workflow",
+    "tags": [
+      "Slack"
+    ],
+    "size_bytes": 10543
+  },
+  {
+    "id": "slack-it-ops-ai-slackbot-workflow---chat-with-your-knowledge-base",
+    "path": "workflows/Premium Automations/Slack/IT Ops AI SlackBot Workflow - Chat with your knowledge base.json",
+    "title": "IT Ops AI SlackBot Workflow   Chat with your knowledge base",
+    "type": "workflow",
+    "tags": [
+      "Slack"
+    ],
+    "size_bytes": 16494
+  },
+  {
+    "id": "slack-sentiment-analysis-tracking-on-support-issues-with-linear-and-slack-1",
+    "path": "workflows/Premium Automations/Slack/Sentiment Analysis Tracking on Support Issues with Linear and Slack (1).json",
+    "title": "Sentiment Analysis Tracking on Support Issues with Linear and Slack (1)",
+    "type": "workflow",
+    "tags": [
+      "Slack"
+    ],
+    "size_bytes": 17943
+  },
+  {
+    "id": "slack-sentiment-analysis-tracking-on-support-issues-with-linear-and-slack",
+    "path": "workflows/Premium Automations/Slack/Sentiment Analysis Tracking on Support Issues with Linear and Slack.json",
+    "title": "Sentiment Analysis Tracking on Support Issues with Linear and Slack",
+    "type": "workflow",
+    "tags": [
+      "Slack"
+    ],
+    "size_bytes": 17943
+  },
+  {
+    "id": "slack-slack-slash-commands-ai-chat-bot",
+    "path": "workflows/Premium Automations/Slack/Slack slash commands AI Chat Bot.json",
+    "title": "Slack slash commands AI Chat Bot",
+    "type": "workflow",
+    "tags": [
+      "Slack"
+    ],
+    "size_bytes": 6166
+  },
+  {
+    "id": "slack-venafi-cloud-slack-cert-bot",
+    "path": "workflows/Premium Automations/Slack/Venafi Cloud Slack Cert Bot.json",
+    "title": "Venafi Cloud Slack Cert Bot",
+    "type": "workflow",
+    "tags": [
+      "Slack"
+    ],
+    "size_bytes": 39701
+  },
+  {
+    "id": "telegram-ai-powered-childrens-arabic-storytelling-on-telegram",
+    "path": "workflows/Premium Automations/Telegram/AI-Powered Children_s Arabic Storytelling on Telegram.json",
+    "title": "AI Powered Children s Arabic Storytelling on Telegram",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 10992
+  },
+  {
+    "id": "telegram-ai-powered-childrens-english-storytelling-on-telegram-with-openai",
+    "path": "workflows/Premium Automations/Telegram/AI-Powered Children_s English Storytelling on Telegram with OpenAI.json",
+    "title": "AI Powered Children s English Storytelling on Telegram with OpenAI",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 10879
+  },
+  {
+    "id": "telegram-agentic-telegram-ai-bot-with-with-langchain-nodes-and-new-tools",
+    "path": "workflows/Premium Automations/Telegram/Agentic Telegram AI bot with with LangChain nodes and new tools.json",
+    "title": "Agentic Telegram AI bot with with LangChain nodes and new tools",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 4894
+  },
+  {
+    "id": "telegram-angie-personal-ai-assistant-with-telegram-voice-and-text",
+    "path": "workflows/Premium Automations/Telegram/Angie, Personal AI Assistant with Telegram Voice and Text.json",
+    "title": "Angie, Personal AI Assistant with Telegram Voice and Text",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 8535
+  },
+  {
+    "id": "telegram-automated-ai-image-analysis-and-response-via-telegram",
+    "path": "workflows/Premium Automations/Telegram/Automated AI image analysis and response via Telegram.json",
+    "title": "Automated AI image analysis and response via Telegram",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 7706
+  },
+  {
+    "id": "telegram-chat-with-openais-gpt-via-a-simple-telegram-bot",
+    "path": "workflows/Premium Automations/Telegram/Chat with OpenAIs GPT via a simple Telegram Bot.json",
+    "title": "Chat with OpenAIs GPT via a simple Telegram Bot",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 1924
+  },
+  {
+    "id": "telegram-detect-toxic-language-in-telegram-messages",
+    "path": "workflows/Premium Automations/Telegram/Detect toxic language in Telegram messages.json",
+    "title": "Detect toxic language in Telegram messages",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 2150
+  },
+  {
+    "id": "telegram-image-creation-with-openai-and-telegram",
+    "path": "workflows/Premium Automations/Telegram/Image Creation with OpenAI and Telegram.json",
+    "title": "Image Creation with OpenAI and Telegram",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 6120
+  },
+  {
+    "id": "telegram-send-a-random-recipe-once-a-day-to-telegram",
+    "path": "workflows/Premium Automations/Telegram/Send a random recipe once a day to Telegram.json",
+    "title": "Send a random recipe once a day to Telegram",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 7363
+  },
+  {
+    "id": "telegram-telegram-ai-bot-neurochainai-text-image---neurochainai-basic-api-integration",
+    "path": "workflows/Premium Automations/Telegram/Telegram AI Bot_ NeurochainAI Text & Image - NeurochainAI Basic API Integration.json",
+    "title": "Telegram AI Bot  NeurochainAI Text & Image   NeurochainAI Basic API Integration",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 19739
+  },
+  {
+    "id": "telegram-telegram-ai-chatbot",
+    "path": "workflows/Premium Automations/Telegram/Telegram AI Chatbot.json",
+    "title": "Telegram AI Chatbot",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 8622
+  },
+  {
+    "id": "telegram-telegram-ai-bot-assistant-ready-made-template-for-voice-text-messages",
+    "path": "workflows/Premium Automations/Telegram/Telegram AI bot assistant_ ready-made template for voice & text messages.json",
+    "title": "Telegram AI bot assistant  ready made template for voice & text messages",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 11167
+  },
+  {
+    "id": "telegram-telegram-ai-bot-with-langchain-nodes",
+    "path": "workflows/Premium Automations/Telegram/Telegram AI bot with LangChain nodes.json",
+    "title": "Telegram AI bot with LangChain nodes",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 8592
+  },
+  {
+    "id": "telegram-telegram-bot-with-supabase-memory-and-openai-assistant-integration",
+    "path": "workflows/Premium Automations/Telegram/Telegram Bot with Supabase memory and OpenAI assistant integration.json",
+    "title": "Telegram Bot with Supabase memory and OpenAI assistant integration",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 25732
+  },
+  {
+    "id": "telegram-telegram-chat-with-pdf",
+    "path": "workflows/Premium Automations/Telegram/Telegram chat with PDF.json",
+    "title": "Telegram chat with PDF",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 10228
+  },
+  {
+    "id": "telegram-telegram-to-spotify-with-openai",
+    "path": "workflows/Premium Automations/Telegram/Telegram to Spotify with OpenAI.json",
+    "title": "Telegram to Spotify with OpenAI",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 7742
+  },
+  {
+    "id": "telegram-translate-telegram-audio-messages-with-ai-55-supported-languages",
+    "path": "workflows/Premium Automations/Telegram/Translate Telegram audio messages with AI (55 supported languages).json",
+    "title": "Translate Telegram audio messages with AI (55 supported languages)",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 7111
+  },
+  {
+    "id": "telegram--deepseek-ai-agent-telegram-long-term-memory-",
+    "path": "workflows/Premium Automations/Telegram/🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠.json",
+    "title": "🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 16986
+  },
+  {
+    "id": "telegram--telegram-messaging-agent-for-textaudioimages",
+    "path": "workflows/Premium Automations/Telegram/🤖 Telegram Messaging Agent for Text_Audio_Images.json",
+    "title": "🤖 Telegram Messaging Agent for Text Audio Images",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 21189
+  },
+  {
+    "id": "telegram--ai-agent-chatbot-long-term-memory-note-storage-telegram",
+    "path": "workflows/Premium Automations/Telegram/🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram.json",
+    "title": "🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram",
+    "type": "workflow",
+    "tags": [
+      "Telegram"
+    ],
+    "size_bytes": 12986
+  },
+  {
+    "id": "whatsapp-automate-sales-meeting-prep-with-ai-apify-sent-to-whatsapp",
+    "path": "workflows/Premium Automations/WhatsApp/Automate Sales Meeting Prep with AI & APIFY Sent To WhatsApp.json",
+    "title": "Automate Sales Meeting Prep with AI & APIFY Sent To WhatsApp",
+    "type": "workflow",
+    "tags": [
+      "WhatsApp"
+    ],
+    "size_bytes": 43242
+  },
+  {
+    "id": "whatsapp-building-your-first-whatsapp-chatbot-1",
+    "path": "workflows/Premium Automations/WhatsApp/Building Your First WhatsApp Chatbot (1).json",
+    "title": "Building Your First WhatsApp Chatbot (1)",
+    "type": "workflow",
+    "tags": [
+      "WhatsApp"
+    ],
+    "size_bytes": 16598
+  },
+  {
+    "id": "whatsapp-building-your-first-whatsapp-chatbot",
+    "path": "workflows/Premium Automations/WhatsApp/Building Your First WhatsApp Chatbot.json",
+    "title": "Building Your First WhatsApp Chatbot",
+    "type": "workflow",
+    "tags": [
+      "WhatsApp"
+    ],
+    "size_bytes": 16598
+  },
+  {
+    "id": "whatsapp-complete-business-whatsapp-ai-powered-rag-chatbot-using-openai",
+    "path": "workflows/Premium Automations/WhatsApp/Complete business WhatsApp AI-Powered RAG Chatbot using OpenAI.json",
+    "title": "Complete business WhatsApp AI Powered RAG Chatbot using OpenAI",
+    "type": "workflow",
+    "tags": [
+      "WhatsApp"
+    ],
+    "size_bytes": 15334
+  },
+  {
+    "id": "whatsapp-respond-to-whatsapp-messages-with-ai-like-a-pro",
+    "path": "workflows/Premium Automations/WhatsApp/Respond to WhatsApp Messages with AI Like a Pro!.json",
+    "title": "Respond to WhatsApp Messages with AI Like a Pro!",
+    "type": "workflow",
+    "tags": [
+      "WhatsApp"
+    ],
+    "size_bytes": 21746
+  },
+  {
+    "id": "wordpress-auto-categorize-blog-posts-in-wordpress-using-ai",
+    "path": "workflows/Premium Automations/WordPress/Auto-Categorize blog posts in wordpress using A.I..json",
+    "title": "Auto Categorize blog posts in wordpress using A.I.",
+    "type": "workflow",
+    "tags": [
+      "WordPress"
+    ],
+    "size_bytes": 4773
+  },
+  {
+    "id": "wordpress-auto-tag-blog-posts-in-wordpress-with-ai",
+    "path": "workflows/Premium Automations/WordPress/Auto-Tag Blog Posts in WordPress with AI.json",
+    "title": "Auto Tag Blog Posts in WordPress with AI",
+    "type": "workflow",
+    "tags": [
+      "WordPress"
+    ],
+    "size_bytes": 16721
+  },
+  {
+    "id": "wordpress-automate-blog-creation-in-brand-voice-with-ai",
+    "path": "workflows/Premium Automations/WordPress/Automate Blog Creation in Brand Voice with AI.json",
+    "title": "Automate Blog Creation in Brand Voice with AI",
+    "type": "workflow",
+    "tags": [
+      "WordPress"
+    ],
+    "size_bytes": 17085
+  },
+  {
+    "id": "wordpress-automate-content-generator-for-wordpress-with-deepseek-r1",
+    "path": "workflows/Premium Automations/WordPress/Automate Content Generator for WordPress with DeepSeek R1.json",
+    "title": "Automate Content Generator for WordPress with DeepSeek R1",
+    "type": "workflow",
+    "tags": [
+      "WordPress"
+    ],
+    "size_bytes": 12277
+  },
+  {
+    "id": "wordpress-wordpress---ai-chatbot-to-enhance-user-experience---with-supabase-and-openai",
+    "path": "workflows/Premium Automations/WordPress/WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI.json",
+    "title": "WordPress   AI Chatbot to enhance user experience   with Supabase and OpenAI",
+    "type": "workflow",
+    "tags": [
+      "WordPress"
+    ],
+    "size_bytes": 33890
+  },
+  {
+    "id": "wordpress-write-a-wordpress-post-with-ai-starting-from-a-few-keywords",
+    "path": "workflows/Premium Automations/WordPress/Write a WordPress post with AI (starting from a few keywords).json",
+    "title": "Write a WordPress post with AI (starting from a few keywords)",
+    "type": "workflow",
+    "tags": [
+      "WordPress"
+    ],
+    "size_bytes": 22040
+  }
+]

@@ -1,0 +1,30 @@
+<%- include('../partials/header') %>
+
+<div class="container">
+    <div class="course-layout">
+        <%- include('partials/sidebar', { pages, currentPageSlug: 'index' }) %>
+        <div class="course-content page-content">
+            <h1>Welcome to the n8n Explainer Course</h1>
+            
+            <!-- Video Tutorials Added Here -->
+            <div class="video-section-grid" style="margin-top: 2rem; margin-bottom: 2rem;">
+                <div class="video-section">
+                    <h3>Getting Started with n8n</h3>
+                    <div class="video-container">
+                        <iframe src="https://www.youtube.com/embed/4hRrSa_nL4o" allow="autoplay; fullscreen; encrypted-media; picture-in-picture" allowfullscreen frameborder="0"></iframe>
+                    </div>
+                </div>
+                <div class="video-section">
+                    <h3>Advanced n8n Workflows</h3>
+                    <div class="video-container">
+                        <iframe src="https://www.youtube.com/embed/M4NoptLjiSo" allow="autoplay; fullscreen; encrypted-media; picture-in-picture" allowfullscreen frameborder="0"></iframe>
+                    </div>
+                </div>
+            </div>
+
+            <%- introContent %>
+        </div>
+    </div>
+</div>
+
+<%- include('../partials/footer') %>

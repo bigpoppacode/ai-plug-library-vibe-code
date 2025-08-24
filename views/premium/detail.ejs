@@ -1,0 +1,33 @@
+<%- include('../partials/header') %>
+
+<div class="container">
+    <div class="workflow-detail-header">
+        <h1><%= title %></h1>
+        <div class="detail-page-actions">
+            <a href="/premium" class="btn btn-secondary">&larr; Back to Premium Library</a>
+            <a href="<%= downloadLink %>" class="btn btn-download">Download <%= workflow.type %></a>
+        </div>
+    </div>
+
+    <div class="workflow-detail-grid">
+        <div class="workflow-column-main">
+            <div class="detail-section">
+                <h2>Overview</h2>
+                <div class="page-content-inner">
+                    <%- readme %>
+                </div>
+            </div>
+        </div>
+        <div class="workflow-column-side">
+            <div class="detail-section">
+                <h2><%= workflow.type.charAt(0).toUpperCase() + workflow.type.slice(1) %> Content</h2>
+                <div class="page-content-inner">
+                    <pre><code><%- json %></code></pre>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<%- include('../partials/footer') %>
+

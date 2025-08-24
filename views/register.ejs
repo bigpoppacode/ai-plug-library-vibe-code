@@ -1,0 +1,120 @@
+<%- include('partials/header-funnel') %>
+
+<div class="funnel-header ">
+    <div class="container">
+        <h1>Stop Wasting Time on Manual Tasks. Start Building Your Automated Empire.</h1>
+        <p class="sub-headline">Get Instant, Free Access to 2,500+ Pre-Built Automation Workflows That Agencies Charge Thousands For.</p>
+        <a href="#signup-form" class="btn btn-cta">Unlock My Workflows Now</a>
+    </div>
+</div>
+
+<div class="container">
+    <div id="signup-form" class="lead-card">
+        <h2>Create Your Free Account</h2>
+        <% if (locals.error) { %>
+            <div class="error-message"><%= error %></div>
+        <% } %>
+        <form action="/" method="POST">
+            <input class="form-input" type="text" placeholder="Enter your full name..." name="fullName" required />
+            <div class="form-group">
+                <input class="form-input" type="email" placeholder="Enter your email..." name="email" required />
+                <small class="form-text">Make sure your email is correct. If you can't verify your email, you won't be able to access your downloads.</small>
+            </div>
+            <input class="form-input" type="tel" placeholder="Enter your phone number (optional)..." name="phoneNumber" />
+            <input class="form-input" type="password" placeholder="Create a password (min 6 chars)..." name="password" minlength="6" required />
+            <button type="submit" class="form-submit">Get Instant Access</button>
+        </form>
+        <p class="auth-switch">
+            Already have an account? <a href="/auth/login" style="color: var(--primary-color) !important;">Login here</a>
+        </p>
+    </div>
+
+    <!-- === SOCIAL PROOF SECTIONS START === -->
+    <div class="social-proof-section">
+        <h2 class="unifying-headline">Join 700k+ People Who Trust Big Poppa Code</h2>
+        <div class="follower-grid">
+            <div class="follower-card">
+                <div class="follower-count" data-target="600000">0</div>
+                <div class="follower-platform">Instagram Followers</div>
+                <div class="context-badge">Top 1% of Tech Creators</div>
+                <p class="follower-caption">Trusted by a global community learning AI, Automation & Business.</p>
+            </div>
+            <div class="follower-card">
+                <div class="follower-count" data-target="100000">0</div>
+                <div class="follower-platform">YouTube Subscribers</div>
+                <div class="context-badge">130K+ Hours Watched</div>
+                <p class="follower-caption">Educating entrepreneurs and creators on the future of tech.</p>
+            </div>
+            <div class="follower-card">
+                <div class="follower-count" data-target="5000">0</div>
+                <div class="follower-platform">LinkedIn Connections</div>
+                <div class="context-badge">Global Thought Leader Connections</div>
+                <p class="follower-caption">Connecting with professionals and innovators worldwide.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="authority-section page-content">
+        <div class="press-logos">
+            <h4>Featured In</h4>
+            <div class="logos-container">
+                <span class="logo-placeholder">Fox</span>
+                <span class="logo-placeholder">MSN</span>
+                <span class="logo-placeholder">Grit Daily</span>
+                <span class="logo-placeholder">New York Weekly</span>
+                <span class="logo-placeholder">Bossip</span>
+            </div>
+            <p class="authority-caption">Recognized by leading media outlets for expertise in tech and entrepreneurship.</p>
+        </div>
+        
+        <div class="authority-grid">
+            <div class="authority-item">
+                <div class="icon">🏆</div><h3>Silver Presidential Service Award</h3>
+                <p>National recognition for leadership and service.</p>
+            </div>
+            <div class="authority-item">
+                <div class="icon">💰</div><h3>$3.5M in Venture Capital Raised</h3>
+                <p>Experience in funding and growing technology startups.</p>
+            </div>
+            <div class="authority-item">
+                <div class="icon">💼</div><h3>$1M+ in Freelance Contracts</h3>
+                <p>Proven results in building and scaling real-world business solutions.</p>
+            </div>
+            <div class="authority-item">
+                <div class="icon">🚀</div><h3>Senior Director of AI at a National Nonprofit</h3>
+                <p>Driving innovation and education at scale with an 8-figure budget.</p>
+            </div>
+            <div class="authority-item">
+                <div class="icon">🎓</div><h3>6+ Years Teaching at a Top Coding Bootcamp</h3>
+                <p>Hundreds of students launched into six-figure tech careers.</p>
+            </div>
+            <div class="authority-item">
+                <div class="icon">🎤</div><h3>Host of "Deeper Than Code" Podcast</h3>
+                <p>Conversations at the intersection of technology, entrepreneurship, and culture.</p>
+            </div>
+        </div>
+
+        <div class="cta-section">
+            <a href="#signup-form" class="btn btn-cta">Start Automating With Me</a>
+        </div>
+    </div>
+
+    <div class="page-content">
+        <h2>Hear From Partners, Clients, and Students Who Are Already Winning With Big Poppa Code</h2>
+        <div class="testimonial-video">
+            <div class="video-container">
+                <iframe src="https://player.cloudinary.com/embed/?public_id=testimonial-short-liberty-dqlpzk&cloud_name=seventh-ave-inc&player[showLogo]=false" allow="autoplay; fullscreen; encrypted-media; picture-in-picture" allowfullscreen frameborder="0"></iframe>
+            </div>
+        </div>
+    </div>
+    
+    <!-- === SOCIAL PROOF SECTIONS END === -->
+
+    <div class="page-content cta-section">
+        <h2>Ready to Build Your Automation Engine?</h2>
+        <p>Your free account gives you unlimited access to the entire library. Stop the busywork and start building the systems that will scale your business.</p>
+        <a href="#signup-form" class="btn btn-cta">Unlock My 2,500+ Workflows</a>
+    </div>
+</div>
+
+<%- include('partials/footer') %>

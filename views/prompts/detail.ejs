@@ -1,0 +1,17 @@
+<%- include('../partials/header') %>
+
+<div class="container">
+    <div class="workflow-detail-header blockchain-bg">
+        <h1><%= title %></h1>
+        <div class="detail-page-actions">
+            <a href="/prompts" class="btn btn-secondary">&larr; Back to Prompts</a>
+            <a href="/prompts/download/<%= category %>/<%= promptId %>" class="btn btn-download">Download Prompt</a>
+        </div>
+    </div>
+
+    <div class="page-content">
+        <%- content %>
+    </div>
+</div>
+
+<%- include('../partials/footer') %>

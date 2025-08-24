@@ -1,0 +1,56 @@
+<%- include('partials/header') %>
+
+<div class="container">
+    <div class="workflows-header">
+    <h1>Workflows Library</h1>
+    <p>Browse and download from over 2,500 pre-built automations, organized by category.</p>
+</div>
+    <div class="workflow-grid">
+        <% Object.keys(workflows).sort().forEach(category => { %>
+            <div class="category-section">
+                <details>
+                    <summary><%= category.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()) %></summary>
+                    <div class="category-header">
+                        <p class="category-description">
+                            <% const descriptions = {
+                                "AI Agent Development": "Build intelligent agents for complex tasks like customer support, data analysis, and content creation.",
+                                "Business Process Automation": "Automate core business operations like invoicing, reporting, and employee onboarding to improve efficiency.",
+                                "Cloud Storage & File Management": "Automatically manage files across services like Google Drive, Dropbox, and S3.",
+                                "Communication & Messaging": "Centralize communications by automating notifications across Slack, Discord, Telegram, and email.",
+                                "Creative Content & Video Automation": "Automate the creation and distribution of video content and social media assets.",
+                                "CRM & Sales": "Supercharge your sales process with automations for lead nurturing and CRM updates.",
+                                "Data Processing & Analysis": "Build powerful ETL pipelines to move and transform data between various sources.",
+                                "E-commerce & Retail": "Automate inventory management, order processing, and marketing for platforms like Shopify.",
+                                "Financial & Accounting": "Streamline financial operations with automated invoice processing and expense tracking.",
+                                "Marketing & Advertising": "Automate marketing campaigns, from social media scheduling to ad performance monitoring.",
+                                "Project Management": "Keep projects on track by automating tasks and reminders in tools like Jira and Asana.",
+                                "Social Media Management": "Manage all your social media channels with workflows that schedule posts and monitor engagement.",
+                                "Technical Infrastructure & DevOps": "Automate technical tasks like server monitoring, deployment notifications, and database backups.",
+                                "Web Scraping & Data Extraction": "Create agents that automatically extract data from websites for lead generation or market research."
+                            }; %>
+                            <%= descriptions[category.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())] || "Powerful automations to streamline your work." %>
+                        </p>
+                    </div>
+                    <div class="workflow-list">
+                        <% workflows[category].forEach(workflow => { %>
+                            <div class="workflow-item">
+                                <h3><%= workflow.name %></h3>
+                                <p class="workflow-synopsis"><%= workflow.synopsis %></p>
+                                <div class="workflow-links">
+                                    <a href="/workflows/<%= workflow.id %>" class="btn btn-details">
+                                        View Details
+                                    </a>
+                                    <a href="/download/<%= workflow.id %>" class="btn btn-download-link">
+                                        Download Here
+                                    </a>
+                                </div>
+                            </div>
+                        <% }); %>
+                    </div>
+                </details>
+            </div>
+        <% }); %>
+    </div>
+</div>
+
+<%- include('partials/footer') %>

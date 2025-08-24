@@ -1,0 +1,545 @@
+{
+  "name": "fal_ai_veo3",
+  "nodes": [
+    {
+      "parameters": {
+        "content": "# 🛠️ Veo 3 dans n8n\n\n## Comment configurer ce workflow pour votre propre espace\n\n**Auteur :** Thomas Berton de [azuro-ai.com](https://azuro-ai.com)\n\nCe guide vous montre comment mettre en place ce workflow dans votre propre environnement. J’espère que cela vous sera utile !\n\n---\n\n## ⚙️ Étape 1 : Configurer OpenAI pour le scripting\n\n1. Rendez-vous sur la [plateforme API d’OpenAI](https://platform.openai.com/api-keys)\n2. Créez un compte (si vous n’en avez pas encore un)\n3. Générez une clé API\n4. Créez une authentification avec cette clé via le nœud **OpenAI Chat Model**\n\n---\n\n## 📊 Étape 2 : Configurer le journal Google Sheets\n\n1. Faites une copie de ce [modèle Google Sheet](https://docs.google.com/spreadsheets/d/1TsNBdnvAsW415bkgNrb6_jO1zOwUu6psj2GpVXaA-zc/edit?usp=sharing)\n2. Utilisez-le pour consigner les idées et résultats générés dans votre workflow\n3. Connectez cette feuille dans n8n via le nœud **Google Sheets** et créez une authentification si nécessaire\n\n---\n\n## 🔐 Étape 3 : Configurer Fal AI\n\n1. Allez sur [Fal AI](https://fal.ai) et connectez-vous\n2. Générez votre clé API\n3. Dans n8n, créez une nouvelle authentification HTTP avec **Header Auth**, en utilisant votre clé Fal AI\n4. Utilisez cette authentification dans les nœuds **HTTP Request** concernés\n\n---\n\n## 🧠 Étape 4 : Personnaliser les prompts système\n\n1. Choisissez une niche ou un thème pour votre contenu\n2. Modifiez le prompt utilisateur dans l’agent “Ideas AI”\n3. Vous pouvez aussi adapter l’agent “Prompts AI” selon vos besoins spécifiques\n\n---\n\n### 🌐 Envie d’aller plus loin avec l’IA ?\n\nJe suis **Thomas Berton**, fondateur de l’agence [Azuro AI](https://azuro-ai.com).\nNous accompagnons les entreprises dans l’automatisation intelligente et la création de workflows IA sur mesure.\n👉 **Découvrez nos services sur [azuro-ai.com](https://azuro-ai.com)**.\n",
+        "height": 1420,
+        "width": 580,
+        "color": 7
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -300,
+        140
+      ],
+      "id": "ed687043-63de-4ef6-94e0-3623bb1cf27e",
+      "name": "Sticky Note12"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {}
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        500,
+        560
+      ],
+      "id": "e500bb31-5b5d-4928-a32f-e6efc9339526",
+      "name": "🕓 Déclencheur de Planification"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "Une idée sur [un vlogueur du XXIe siècle coincé en 1789 qui parle à sa caméra et filme la prise de la Bastille avec sa perche à selfie, au milieu des révolutionnaires].",
+        "hasOutputParser": true,
+        "options": {
+          "systemMessage": "=### ✅ ACTION\n\nGénère une seule idée immersive, réaliste et surréaliste liée à un sujet fourni par l’utilisateur, sous forme de tableau JSON d’une ligne, structuré avec les champs suivants : `Caption`, `Idea`, `Environment`, `Status`.\n\n### 🔁 ÉTAPES\n\n1. Reçois un sujet principal de la part de l’utilisateur (ex. : « street food au Vietnam »).\n2. Crée une idée unique, courte et surréaliste (moins de 13 mots), qui décrit un événement, moment ou action visuellement marquant impliquant un personnage.\n3. Décris un environnement cohérent avec l’idée (moins de 20 mots), précisant :\n\n   * le lieu,\n   * les éléments visuels en arrière-plan,\n   * les participants principaux,\n   * le style de la scène.\n     (les univers fictifs sont autorisés)\n4. Rédige une légende virale avec :\n\n   * une phrase courte et percutante,\n   * un emoji pertinent,\n   * exactement 12 hashtags en minuscules, dans cet ordre :\n\n     1. 4 hashtags liés au sujet\n     2. 4 hashtags parmi les plus populaires\n     3. 4 hashtags parmi les tendances actuelles (en direct)\n5. Ajoute `\"Status\": \"for production\"`\n6. Structure le tout en un tableau JSON d’une seule ligne.\n\n---\n\n### 🧑‍🎨 PERSONA\n\nAgis comme un créatif digital expert en storytelling immersif, capable de concevoir des idées visuelles virales, brèves et inoubliables, en croisant imaginaire surréaliste et réalisme cinématographique.\n\n---\n\n### 📌 EXEMPLES\n\n(Sujet : « vol de drones dans les temples abandonnés »)\n\n```json\n[\n  {\n    \"Caption\": \"Quand les drones réveillent les esprits oubliés 😱 #templeabandonne #drones #exploration #mystere #love #instagood #fun #life #ai #vr #future #wtf\",\n    \"Idea\": \"Un drone libère accidentellement une entité antique dans un temple effondré\",\n    \"Environment\": \"Temple humide, statues fissurées, drone flottant, brume dorée, style cinématographique mystique\",\n    \"Status\": \"for production\"\n  }\n]\n```\n\n---\n\n### 🧭 CONTEXTE\n\nCe prompt est destiné à un modèle de génération d’idées narratives, visuelles et virales pour des contenus immersifs courts. Il sera utilisé dans des environnements créatifs (brainstorming, production visuelle, réseaux sociaux, pitchs narratifs).\n\n---\n\n### 🚫 CONTRAINTES\n\n* Une seule idée par génération.\n* Idée : moins de 13 mots, surréaliste, avec un personnage impliqué.\n* Caption : percutante, avec un emoji, exactement 12 hashtags dans l’ordre imposé, en minuscules.\n* Environment : moins de 20 mots, décrit précisément le cadre de l’action, éléments visuels inclus.\n* Univers fictifs autorisés.\n* Sortie en JSON compact sur une seule ligne.\n\n---\n\n### 📄 MODÈLE (FORMAT DE SORTIE)\n\n[\n  {\n    \"Caption\": \"Phrase virale avec emoji #4hashtags_sujet #4hashtags_populaires #4hashtags_tendance\",\n    \"Idea\": \"Une action originale en moins de 13 mots\",\n    \"Environment\": \"Description visuelle en moins de 20 mots\",\n    \"Status\": \"for production\"\n  }\n]\n\n"
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 1.9,
+      "position": [
+        660,
+        560
+      ],
+      "id": "5903585e-e865-4876-9b87-af18a5a7a502",
+      "name": "🤖 Agent IA d'Idées"
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "[\n  {\n    \"Caption\": \"Diver Removes Nets Off Whale 🐋 #whalerescue #marinelife #oceanrescue #seahelpers #love #nature #instagood #explore #viral #savenature #oceanguardians #cleanoceans\",\n    \"Idea\": \"Diver carefully cuts tangled net from distressed whale in open sea\",\n    \"Environment\": \"Open ocean, sunlight beams through water, diver and whale, cinematic realism\",\n    \"Status\": \"for production\"\n  }\n]\n"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.2,
+      "position": [
+        980,
+        400
+      ],
+      "id": "0579d6a4-9558-4d6d-86a6-1fd14faa1498",
+      "name": "🧾 Parseur JSON d'Idée"
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1gVsMRBf0gKS2cmQXKzuxwl5PDjrP0D3FiiH8Q0hmv_M",
+          "mode": "id"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "Sheet1",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/16xf34Rc-TWs7rUCSFAsIS_1zaodLQsjN5dTaWMGlZOE/edit#gid=0"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "id": "=ROW()-1",
+            "idea": "={{ $json.output[0].Idea }}",
+            "caption": "={{ $json.output[0].Caption }}",
+            "production": "={{ $json.output[0].Status }}",
+            "environment_prompt": "={{ $json.output[0].Environment }}"
+          },
+          "matchingColumns": [
+            "id"
+          ],
+          "schema": [
+            {
+              "id": "id",
+              "displayName": "id",
+              "required": false,
+              "defaultMatch": true,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "idea",
+              "displayName": "idea",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "caption",
+              "displayName": "caption",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "production",
+              "displayName": "production",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "environment_prompt",
+              "displayName": "environment_prompt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "final_output",
+              "displayName": "final_output",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [
+        980,
+        560
+      ],
+      "id": "96f75e50-1625-4527-9350-62da44040b9b",
+      "name": "📝 Enregistrer l’Idée",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "0di17eX46xxnfvgB",
+          "name": "AZURO"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=Donne-moi un prompt Veo3 pour cette idée :\n{{ $json.idea }}\n\nVoici l’environnement :\n{{ $json.environment_prompt }}\n\n",
+        "hasOutputParser": true,
+        "options": {
+          "systemMessage": "=PROMPT système pour l’agent de prompts Google VEO3\n\nTu es un agent IA chargé d’écrire des prompts vidéo hyper-réalistes et cinématographiques pour Google VEO3. Chaque prompt doit décrire un court clip vidéo en style selfie, vivant et immersif, avec un personnage non nommé en train de parler ou d’agir dans un moment spécifique. La vidéo finale doit ressembler à une séquence trouvée ou un extrait de documentaire — ancrée, réaliste et captivante.\n\n---\n\nSTRUCTURE REQUISE (REMPLIR LES CHAMPS ENTRE CROCHETS) :\n\n\\[Paragraphe de description de la scène]\n\nPersonnage principal : \\[description du personnage]\nIl/elle dit : \\[insérer une ligne de dialogue qui correspond à l’ambiance de la scène]\nIl/elle : \\[décrire une action physique ou un mouvement subtil de la caméra, ex. : fait un panoramique, se déplace, regarde autour de lui/elle]\nHeure de la journée : \\[jour / nuit / crépuscule / etc.]\nObjectif : \\[description de l’objectif utilisé]\nAudio (suggéré) : \\[sons ambiants, ex. : rugissements de lion, vent, circulation lointaine, chants d’oiseaux]\nArrière-plan : \\[brève description de ce qui est visible derrière lui/elle]\n\n---\n\nRÈGLES DE GÉNÉRATION DU PROMPT :\n\n* Un seul paragraphe, entre 750 et 1500 caractères. Aucune ligne vide, aucun titre.\n* Un seul personnage humain. Ne jamais lui donner de nom.\n* Inclure une ligne de dialogue parlée, avec une indication de ton ou manière de livraison.\n* Le personnage doit effectuer une action physique, même subtile (ex. : un regard, un sourire, bouger la caméra).\n* Utiliser un cadrage de type selfie. Toujours décrire l’objectif, le type de film utilisé, et le comportement de la caméra.\n* La scène doit paraître réelle et cinématographique, comme un extrait que quelqu’un aurait filmé avec une caméra stylisée.\n* Toujours inclure les cinq éléments techniques clés : Heure de la journée, Objectif, Type de film, Audio, Arrière-plan.\n\n---\n\nÀ NE PAS FAIRE :\n\n* Ne pas nommer le personnage.\n* Ne pas inclure plus d’un personnage.\n* Ne pas décrire de sous-titres ni de texte à l’écran.\n* Ne pas sauter de lignes ou ajouter de mise en forme.\n* Ne pas écrire de scènes vagues ou abstraites — elles doivent être ancrées dans des détails concrets."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 1.9,
+      "position": [
+        1140,
+        560
+      ],
+      "id": "e15b4e2e-b050-4549-be0b-96df52441e18",
+      "name": "🧠 Agent IA de Prompts Veo 3"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://queue.fal.run/fal-ai/veo3",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "contentType": "raw",
+        "rawContentType": "application/json",
+        "body": "={ \"prompt\": \"{{ $json.output }}\" }\n",
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 2000
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        700,
+        820
+      ],
+      "id": "4f2597b9-0a30-4ec9-ac5c-0e67046f7d09",
+      "name": "🎬 Créer Vidéo",
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "rRCXSCeo16Zoo4Yj",
+          "name": "fal ai test"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "amount": 200
+      },
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [
+        920,
+        820
+      ],
+      "id": "64c8aba2-0b2c-4a07-b628-81b3d241069d",
+      "name": "⏳ Attente VEO3",
+      "webhookId": "a7bf329e-b1ca-4f59-b954-d57e551210f6"
+    },
+    {
+      "parameters": {
+        "url": "=https://queue.fal.run/fal-ai/veo3/requests/{{ $json.request_id }}",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1140,
+        820
+      ],
+      "id": "8871995d-afda-4e3d-95dc-ec968962fe36",
+      "name": "📥 Récupérer Vidéo",
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "rRCXSCeo16Zoo4Yj",
+          "name": "fal ai test"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "documentId": {
+          "__rl": true,
+          "mode": "id",
+          "value": "16xf34Rc-TWs7rUCSFAsIS_1zaodLQsjN5dTaWMGlZOE"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "Sheet1",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1FgwtfdRV3WqRo_nrGOYjmV2zqvb2MY_oAxCDi3HgeZA/edit#gid=0"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "idea": "={{ $('📝 Enregistrer l’Idée').first().json.idea }}",
+            "production": "done",
+            "final_output": "={{ $json.video.url }}"
+          },
+          "matchingColumns": [
+            "idea"
+          ],
+          "schema": [
+            {
+              "id": "id",
+              "displayName": "id",
+              "required": false,
+              "defaultMatch": true,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "idea",
+              "displayName": "idea",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "caption",
+              "displayName": "caption",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "production",
+              "displayName": "production",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "environment_prompt",
+              "displayName": "environment_prompt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "final_output",
+              "displayName": "final_output",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "row_number",
+              "displayName": "row_number",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "readOnly": true,
+              "removed": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [
+        920,
+        1080
+      ],
+      "id": "08c4f853-23e0-4dc6-bbb5-0dc7e15ecc68",
+      "name": "📄 Enregistrer Vidéo Finale",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "0di17eX46xxnfvgB",
+          "name": "AZURO"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "gpt-4.1",
+          "mode": "list",
+          "cachedResultName": "gpt-4.1"
+        },
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        680,
+        360
+      ],
+      "id": "f5fcd64e-9928-4206-a898-303923c84d5c",
+      "name": "🧠💬 Modèle Chat OpenAI",
+      "credentials": {
+        "openAiApi": {
+          "id": "j5Jqat7o1UmyaZoT",
+          "name": "Thomas Perso"
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1,
+      "position": [
+        1320,
+        340
+      ],
+      "id": "1c232ec0-d91b-4247-a47a-81949da9200c",
+      "name": "💭 Think"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "🕓 Déclencheur de Planification": {
+      "main": [
+        [
+          {
+            "node": "🤖 Agent IA d'Idées",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "🤖 Agent IA d'Idées": {
+      "main": [
+        [
+          {
+            "node": "📝 Enregistrer l’Idée",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "🧾 Parseur JSON d'Idée": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "🤖 Agent IA d'Idées",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "📝 Enregistrer l’Idée": {
+      "main": [
+        [
+          {
+            "node": "🧠 Agent IA de Prompts Veo 3",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "🧠 Agent IA de Prompts Veo 3": {
+      "main": [
+        [
+          {
+            "node": "🎬 Créer Vidéo",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "🎬 Créer Vidéo": {
+      "main": [
+        [
+          {
+            "node": "⏳ Attente VEO3",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "⏳ Attente VEO3": {
+      "main": [
+        [
+          {
+            "node": "📥 Récupérer Vidéo",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "📥 Récupérer Vidéo": {
+      "main": [
+        [
+          {
+            "node": "📄 Enregistrer Vidéo Finale",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "🧠💬 Modèle Chat OpenAI": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "🤖 Agent IA d'Idées",
+            "type": "ai_languageModel",
+            "index": 0
+          },
+          {
+            "node": "🧠 Agent IA de Prompts Veo 3",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "💭 Think": {
+      "ai_tool": [
+        [
+          {
+            "node": "🤖 Agent IA d'Idées",
+            "type": "ai_tool",
+            "index": 0
+          },
+          {
+            "node": "🧠 Agent IA de Prompts Veo 3",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "23f4d41b-90b7-4091-8736-302beb1a2a11",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "18941ef4b267809603248768676618d229885770b405bc4c8779e4c8621096b2"
+  },
+  "id": "z1LoFsE707dFT372",
+  "tags": []
+}

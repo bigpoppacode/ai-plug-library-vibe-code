@@ -1,0 +1,13 @@
+<div class="course-sidebar">
+    <h4>Course Navigation</h4>
+    <ul>
+        <li class="<%= currentPageSlug === 'index'? 'active' : '' %>">
+            <a href="/course">Course Introduction</a>
+        </li>
+        <% pages.filter(page => page.slug !== 'index').forEach(page => { %>
+            <li class="<%= currentPageSlug === page.slug ? 'active' : '' %>">
+                <a href="/course/<%= page.slug %>"><%= page.slug.split('_').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ') %></a>
+            </li>
+        <% }); %>
+    </ul>
+</div>

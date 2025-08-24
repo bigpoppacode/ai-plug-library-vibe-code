@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Get Your N8N Automation Bonus</title>
+  <meta name="description" content="Enter your info to get instant access to the N8N automation bonus and a free copy of 5 Million Dollars Worth of Game.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Poppins:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/custom.css">
+  <style>
+    body { font-family: 'Poppins', sans-serif; background-color: #f8f9fa; margin: 0; }
+    .header .new-logo { text-align: center; font-family: Helvetica, sans-serif; font-weight: 900; margin: 0; line-height: 1; -webkit-text-stroke: 0.4px white; }
+    .lead-card { background: #ffffff; border-radius: 12px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1); padding: 2.5rem; max-width: 600px; margin: 2rem auto; }
+    .lead-card h2 { color: #023864; margin-bottom: 1.5rem; font-weight: 700; text-align: center; font-size: 2rem; line-height: 1.3; }
+    .form-input { width: 100%; padding: 16px 20px; margin-bottom: 1.25rem; border: 2px solid #e1e1e1; border-radius: 8px; font-size: 1.1rem; transition: border-color 0.3s ease; box-sizing: border-box; font-weight: 500; }
+    .form-input:focus { outline: none; border-color: #023864; box-shadow: 0 0 0 3px rgba(2, 56, 100, 0.1); }
+    .form-submit { width: 100%; padding: 18px; background: #ffd700; border: none; border-radius: 8px; font-size: 1.2rem; font-weight: 700; color: #023864; cursor: pointer; transition: transform 0.2s ease, box-shadow 0.2s ease; text-transform: uppercase; letter-spacing: 0.5px; }
+    .form-submit:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #ffe033; }
+    .error { color: #dc3545; font-size: 1rem; margin-top: 0.5rem; text-align: center; font-weight: 500; display: none; }
+    .badge-list { list-style: none; padding: 0; margin: 1rem 0 0; display: grid; gap: 0.5rem; }
+    .badge-list li { background: #fff3cd; border-left: 6px solid #ffc107; padding: 10px 12px; border-radius: 6px; color: #856404; font-weight: 600; }
+  </style>
+</head>
+<body>
+  <div class="header blockchain-bg dark-tint">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12" align="center">
+          <div class="logo-container">
+            <h1 class="new-logo logo-p-1">CLAIM YOUR</h1>
+            <h1 class="new-logo logo-p-2">N8N AUTOMATION BONUS</h1>
+            <h1 class="new-logo logo-p-3">400+ Enterprise-Grade Workflows + Free 5 Million Dollars Worth of Game</h1>
+          </div>
+          <h3 style="color: #ffd700; font-weight: 600;">Enter your info below for instant access</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="lead-card">
+      <form action="/addLead/ai-bonus" method="post" onsubmit="return validateForm()">
+        <h2>Get Instant Access</h2>
+        <input class="form-input" type="text" placeholder="Enter your name..." name="name" required />
+        <input class="form-input" type="email" placeholder="Enter your email..." name="email" required />
+        <input class="form-input" type="tel" placeholder="Enter your phone (optional)" name="phone" />
+        <button type="submit" class="form-submit">Access My Bonus</button>
+        <div id="error-message" class="error">Your info was invalid. Please try again.</div>
+      </form>
+      <ul class="badge-list">
+        <li>🚀 400+ Battle-Tested n8n Automations</li>
+        <li>🤖 AI-Powered Workflows to Save 20+ Hours/Week</li>
+        <li>📖 Free: 5 Million Dollars Worth of Game (PDF)</li>
+      </ul>
+    </div>
+  </div>
+
+  <p>
+    <div style="text-align: center;"><span>BigPoppaCode & Progress and Fortune LLC &copy; <script>document.write(new Date().getFullYear())</script></span></div>
+    <p style="background-color: #fff; padding: 1%;" class="text-center">
+      <a href="/privacy-policy.html" style="color: #161313!important;">Privacy Policy</a> |
+      <a href="/disclaimer.html" style="color: #161313!important;">Disclaimer</a> |
+      <a href="/terms-and-conditions.html" style="color: #161313!important;">Terms and Conditions</a> |
+      <a href="/support.html" style="color: #161313!important;">Support</a>
+    </p>
+  </p>
+
+  <script>
+    function getQueryParam(param) {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(param);
+    }
+    function validateForm() {
+      const name = document.getElementsByName('name')[0].value.trim();
+      const email = document.getElementsByName('email')[0].value.trim();
+      const phone = document.getElementsByName('phone')[0].value.trim();
+      const errorMessage = document.getElementById('error-message');
+      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+      const phoneRegex = /^\+?(?:\d{1,3}|\(\d{1,3}\))[-\s]?\d{3}[-\s]?\d{4}$/;
+      const isPhoneValid = phone ? phoneRegex.test(phone) : true;
+      if (!name || !emailRegex.test(email) || !isPhoneValid) {
+        errorMessage.style.display = 'block';
+        return false;
+      }
+      errorMessage.style.display = 'none';
+      return true;
+    }
+    window.onload = function() {
+      const err = getQueryParam('error');
+      if (err) {
+        const errorMessage = document.getElementById('error-message');
+        errorMessage.textContent = decodeURIComponent(err);
+        errorMessage.style.display = 'block';
+      }
+    }
+  </script>
+</body>
+</html>
