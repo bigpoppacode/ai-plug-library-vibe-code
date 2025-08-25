@@ -14,241 +14,269 @@
 *(Generated in batches below.)*
 
 ### Prompt: "Conducting Data Driven Decision Making"
-- **What it’s for:** Understanding the foundational elements of data-driven decision-making.
+- **What it’s for:** Understanding the principles and benefits of data-driven decision-making in a business context.
 - **How to use:** 
-  - Identify key business objectives.
-  - Gather and analyze relevant data.
-  - Make informed decisions based on data insights.
-- **Example:** Input: "Increase customer retention rates." Output: "Analyze customer feedback and purchase history to identify trends."
-- **Automation play (n8n agent):** Set up a workflow to collect and analyze data using a combination of data sources and analytics tools.
-- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, OpenAI.
+  - Identify key decision areas.
+  - Gather relevant data.
+  - Analyze data for actionable insights.
+- **Example:** Input: Company sales data; Output: Optimize sales strategy based on trends.
+- **Automation play (n8n agent):** Automate data collection and analysis to provide regular insights.
+- **Suggested nodes/tools:** Google Sheets, OpenAI, HTTP Request.
 
 ### Prompt: "How can I effectively use data-driven decision-making techniques to support and enhance my [startup/company/brand]'s overall strategy and growth objectives?"
-- **What it’s for:** Aligning data insights with strategic goals for growth.
+- **What it’s for:** Aligning data insights with strategic planning and growth targets.
 - **How to use:** 
-  - Define growth objectives.
-  - Collect and analyze performance metrics.
-  - Adjust strategies based on data findings.
-- **Example:** Input: "Expand market share by 10%." Output: "Use market analysis data to target new customer segments."
-- **Automation play (n8n agent):** Automate data collection and reporting to support strategic planning.
-- **Suggested nodes/tools:** Google Analytics, Notion, Airtable, HTTP Request.
+  - Define strategic objectives.
+  - Map data sources to objectives.
+  - Monitor progress with data dashboards.
+- **Example:** Input: Market analysis data; Output: Adjust growth strategy to capture new opportunities.
+- **Automation play (n8n agent):** Set up alerts for key metric changes affecting strategy.
+- **Suggested nodes/tools:** Airtable, Notion, OpenAI.
 
 ### Prompt: "What are the most effective techniques for using data-driven decision-making to improve my [startup/company/brand]'s overall efficiency and resource allocation efforts?"
-- **What it’s for:** Enhancing operational efficiency through data insights.
+- **What it’s for:** Enhancing operational efficiency and optimizing resource use.
 - **How to use:** 
-  - Identify key efficiency metrics.
-  - Analyze resource utilization data.
-  - Make adjustments to optimize resource distribution.
-- **Example:** Input: "Reduce production costs." Output: "Analyze production data to identify waste and streamline processes."
-- **Automation play (n8n agent):** Use automation to track and report on resource usage.
-- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, OpenAI.
+  - Identify resource-intensive processes.
+  - Use data to find inefficiencies.
+  - Implement data-driven adjustments.
+- **Example:** Input: Resource usage logs; Output: Streamlined resource allocation.
+- **Automation play (n8n agent):** Automate monitoring of resource utilization and suggest improvements.
+- **Suggested nodes/tools:** Google Sheets, Webhook, OpenAI.
 
 ### Prompt: "What are the best practices for using data-driven decision-making to drive innovation and continuous improvement within my [startup/company/brand]?"
-- **What it’s for:** Leveraging data to foster innovation and improvement.
+- **What it’s for:** Fostering a culture of innovation through data insights.
 - **How to use:** 
-  - Set innovation goals.
-  - Collect feedback and performance data.
-  - Use data to iterate and refine processes.
-- **Example:** Input: "Launch a new product feature." Output: "Analyze user feedback to refine and improve the feature."
-- **Automation play (n8n agent):** Automate feedback collection and analysis to guide innovation efforts.
-- **Suggested nodes/tools:** OpenAI, Google Sheets, Airtable, HTTP Request.
+  - Set up feedback loops.
+  - Analyze data for innovation opportunities.
+  - Implement iterative improvements.
+- **Example:** Input: Customer feedback data; Output: New product features based on feedback.
+- **Automation play (n8n agent):** Automate feedback collection and analysis for continuous updates.
+- **Suggested nodes/tools:** Notion, OpenAI, HTTP Request.
 
 ### Prompt: "How can I effectively use data-driven decision-making to optimize my [startup/company/brand]'s overall customer acquisition, retention, and loyalty efforts?"
-- **What it’s for:** Enhancing customer-related strategies using data insights.
+- **What it’s for:** Enhancing customer-related strategies using data.
 - **How to use:** 
-  - Analyze customer behavior data.
-  - Develop targeted acquisition and retention strategies.
-  - Use loyalty program data to improve customer retention.
-- **Example:** Input: "Increase customer loyalty." Output: "Identify key drivers of loyalty through data analysis and tailor programs accordingly."
-- **Automation play (n8n agent):** Set up workflows for continuous data collection and analysis on customer metrics.
-- **Suggested nodes/tools:** Google Analytics, Airtable, HTTP Request, OpenAI.
+  - Analyze customer journey data.
+  - Identify churn patterns.
+  - Develop targeted retention strategies.
+- **Example:** Input: Customer churn data; Output: Loyalty program tailored to at-risk customers.
+- **Automation play (n8n agent):** Automate churn analysis and trigger loyalty campaigns.
+- **Suggested nodes/tools:** Airtable, Google Sheets, Webhook.
 
 ### Prompt: "What are the key considerations when selecting and using data-driven decision-making tools and software to streamline and optimize my [startup/company/brand]'s efforts?"
-- **What it’s for:** Choosing the right tools for effective data-driven decision-making.
+- **What it’s for:** Choosing the right tools for data-driven processes.
 - **How to use:** 
-  - Identify business needs and objectives.
-  - Evaluate tool features and compatibility.
-  - Implement tools and train staff on usage.
-- **Example:** Input: "Select a data visualization tool." Output: "Choose a tool that integrates with existing systems and offers real-time data visualization."
-- **Automation play (n8n agent):** Automate the evaluation process by gathering user feedback and performance data.
-- **Suggested nodes/tools:** HTTP Request, Notion, Airtable, Google Sheets.
+  - Evaluate tool features vs. needs.
+  - Consider integration capabilities.
+  - Assess scalability and support.
+- **Example:** Input: Tool comparison data; Output: Selection of a tool that fits business requirements.
+- **Automation play (n8n agent):** Automate tool performance tracking and integration testing.
+- **Suggested nodes/tools:** HTTP Request, Cron, Google Sheets.
 
 ### Prompt: "How can I effectively use data-driven decision-making techniques to inform and enhance my [startup/company/brand]'s overall marketing and advertising strategy?"
-- **What it’s for:** Improving marketing efforts through data insights.
+- **What it’s for:** Improving marketing strategies with data insights.
 - **How to use:** 
-  - Analyze market and customer data.
-  - Develop data-informed marketing strategies.
-  - Continuously optimize based on performance metrics.
-- **Example:** Input: "Increase online ad conversion rates." Output: "Analyze ad performance data and adjust targeting strategies."
-- **Automation play (n8n agent):** Automate data collection on marketing performance and adjust campaigns in real-time.
-- **Suggested nodes/tools:** Google Analytics, HTTP Request, Airtable, OpenAI.
+  - Analyze campaign performance data.
+  - Identify target audience segments.
+  - Optimize ad spend based on data.
+- **Example:** Input: Ad performance metrics; Output: Adjusted ad targeting for better ROI.
+- **Automation play (n8n agent):** Automate data collection from marketing platforms for real-time strategy adjustments.
+- **Suggested nodes/tools:** Google Sheets, OpenAI, Webhook.
 
 ### Prompt: "What are the most effective techniques for using data-driven decision-making to optimize my [startup/company/brand]'s overall product development and launch efforts?"
-- **What it’s for:** Enhancing product development through data insights.
+- **What it’s for:** Streamlining product development using data insights.
 - **How to use:** 
-  - Gather customer feedback and market data.
-  - Use data to inform product design and features.
-  - Track launch metrics to optimize future releases.
-- **Example:** Input: "Launch a new app feature." Output: "Use beta testing data to refine the feature before full launch."
-- **Automation play (n8n agent):** Automate data collection from product tests and user feedback.
-- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, OpenAI.
+  - Gather user feedback and usage data.
+  - Analyze market trends.
+  - Align product features with data insights.
+- **Example:** Input: User feedback data; Output: Refined product features leading to successful launch.
+- **Automation play (n8n agent):** Automate data collection from product usage and feedback channels.
+- **Suggested nodes/tools:** Airtable, Notion, HTTP Request.
 
 ### Prompt: "How can I effectively use data-driven decision-making techniques to support and enhance my [startup/company/brand]'s overall talent acquisition and retention efforts?"
 - **What it’s for:** Improving HR strategies through data insights.
 - **How to use:** 
-  - Analyze recruitment and retention data.
-  - Develop strategies based on data-driven insights.
-  - Monitor and adjust HR practices continuously.
-- **Example:** Input: "Reduce employee turnover." Output: "Analyze exit interview data to identify and address key issues."
-- **Automation play (n8n agent):** Set up automated data collection and analysis for HR metrics.
-- **Suggested nodes/tools:** Airtable, Google Sheets, HTTP Request, OpenAI.
+  - Analyze recruitment data.
+  - Identify retention trends.
+  - Develop data-backed HR policies.
+- **Example:** Input: Employee turnover data; Output: Improved retention strategy.
+- **Automation play (n8n agent):** Automate tracking of recruitment metrics and employee feedback.
+- **Suggested nodes/tools:** Google Sheets, OpenAI, Webhook.
 
 ### Prompt: "What are the best practices for using data-driven decision-making to optimize my [startup/company/brand]'s overall financial planning, budgeting, and forecasting efforts?"
-- **What it’s for:** Enhancing financial management through data insights.
+- **What it’s for:** Enhancing financial processes with data insights.
 - **How to use:** 
-  - Collect financial performance data.
-  - Use data to create accurate budgets and forecasts.
-  - Monitor performance and adjust plans as needed.
-- **Example:** Input: "Improve budget accuracy." Output: "Use historical financial data to refine budget estimates."
-- **Automation play (n8n agent):** Automate financial data collection and analysis for real-time insights.
-- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, OpenAI.
+  - Collect and analyze financial data.
+  - Forecast trends and budget needs.
+  - Adjust financial plans based on insights.
+- **Example:** Input: Historical financial data; Output: Accurate budget forecasts.
+- **Automation play (n8n agent):** Automate financial data analysis and forecasting updates.
+- **Suggested nodes/tools:** Airtable, Google Sheets, HTTP Request.
 
 ### Prompt: "How can I effectively use data-driven decision-making techniques to support and enhance my [startup/company/brand]'s overall risk management and compliance efforts?"
-- **What it’s for:** Strengthening risk management and compliance through data insights.
+- **What it’s for:** Strengthening risk and compliance strategies with data.
 - **How to use:** 
-  - Identify key risk indicators.
-  - Analyze data to assess and mitigate risks.
-  - Ensure compliance through continuous monitoring.
-- **Example:** Input: "Reduce compliance breaches." Output: "Analyze compliance data to identify and address high-risk areas."
-- **Automation play (n8n agent):** Set up automated alerts and reporting for compliance and risk management.
-- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, OpenAI.
+  - Identify potential risks using data.
+  - Monitor compliance metrics.
+  - Implement data-driven risk mitigation strategies.
+- **Example:** Input: Compliance audit data; Output: Risk mitigation plan.
+- **Automation play (n8n agent):** Automate risk monitoring and compliance checks.
+- **Suggested nodes/tools:** Notion, OpenAI, Webhook.
 
 ### Prompt: "How can I effectively use data-driven decision-making techniques to inform and enhance my [startup/company/brand]'s overall sales and revenue generation efforts?"
-- **What it’s for:** Boosting sales and revenue through data insights.
+- **What it’s for:** Boosting sales strategies with data insights.
 - **How to use:** 
-  - Analyze sales data and customer behavior.
-  - Develop targeted sales strategies based on insights.
-  - Continuously optimize sales processes.
-- **Example:** Input: "Increase sales conversion rates." Output: "Use customer purchase data to refine sales pitches."
-- **Automation play (n8n agent):** Automate sales data collection and real-time analysis for strategy adjustments.
-- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, OpenAI.
+  - Analyze sales data.
+  - Identify revenue growth opportunities.
+  - Implement data-driven sales strategies.
+- **Example:** Input: Sales performance data; Output: Adjusted sales tactics for increased revenue.
+- **Automation play (n8n agent):** Automate sales data analysis and strategy updates.
+- **Suggested nodes/tools:** Airtable, Google Sheets, Webhook.
 
 ### Prompt: "What are the key considerations when determining the optimal methodology and approach for my [startup/company/brand]'s data-driven decision-making efforts?"
-- **What it’s for:** Choosing the right data-driven decision-making approach.
+- **What it’s for:** Choosing the right data-driven methodologies for business processes.
 - **How to use:** 
-  - Define decision-making goals.
-  - Evaluate methodologies and tools.
-  - Implement and refine chosen approach.
-- **Example:** Input: "Select a data analysis method." Output: "Choose a method that aligns with business needs and data availability."
-- **Automation play (n8n agent):** Automate the evaluation and implementation of decision-making methodologies.
-- **Suggested nodes/tools:** HTTP Request, Airtable, Notion, Google Sheets.
+  - Evaluate business needs.
+  - Align methodologies with objectives.
+  - Continuously review and refine approaches.
+- **Example:** Input: Business process analysis; Output: Customized data-driven methodology.
+- **Automation play (n8n agent):** Automate methodology evaluation and refinement based on performance data.
+- **Suggested nodes/tools:** HTTP Request, Cron, OpenAI.
 
 ### Prompt: "How can I effectively use data-driven decision-making techniques to support and enhance my [startup/company/brand]'s overall supply chain and logistics management efforts?"
-- **What it’s for:** Improving supply chain and logistics through data insights.
+- **What it’s for:** Improving supply chain efficiency through data insights.
 - **How to use:** 
-  - Analyze supply chain data.
-  - Optimize logistics based on data-driven insights.
-  - Monitor and adjust processes continuously.
-- **Example:** Input: "Reduce shipping delays." Output: "Use data to identify bottlenecks and improve logistics."
-- **Automation play (n8n agent):** Automate data collection and analysis for logistics optimization.
-- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, OpenAI.
+  - Monitor logistics data.
+  - Identify bottlenecks.
+  - Optimize supply chain processes.
+- **Example:** Input: Logistics performance data; Output: Streamlined supply chain operations.
+- **Automation play (n8n agent):** Automate supply chain data monitoring and process improvement suggestions.
+- **Suggested nodes/tools:** Google Sheets, Webhook, HTTP Request.
 
 ### Prompt: "What are the most effective techniques for using data-driven decision-making to optimize my [startup/company/brand]'s overall customer satisfaction and experience efforts?"
-- **What it’s for:** Enhancing customer satisfaction through data insights.
+- **What it’s for:** Enhancing customer satisfaction using data insights.
 - **How to use:** 
-  - Collect and analyze customer feedback.
-  - Use insights to improve customer experience.
-  - Continuously monitor satisfaction metrics.
-- **Example:** Input: "Improve customer service." Output: "Analyze feedback to identify areas for improvement."
-- **Automation play (n8n agent):** Automate feedback collection and sentiment analysis.
-- **Suggested nodes/tools:** OpenAI, Google Sheets, Airtable, HTTP Request.
+  - Collect customer feedback.
+  - Analyze satisfaction metrics.
+  - Implement data-driven improvements.
+- **Example:** Input: Customer survey data; Output: Enhanced customer service processes.
+- **Automation play (n8n agent):** Automate feedback collection and satisfaction analysis.
+- **Suggested nodes/tools:** Airtable, OpenAI, Webhook.
 
 ### Prompt: "How can I effectively use data-driven decision-making techniques to support my [startup/company/brand]'s overall competitive positioning and market research efforts?"
-- **What it’s for:** Strengthening market position through data insights.
+- **What it’s for:** Strengthening market position using data insights.
 - **How to use:** 
-  - Gather market and competitor data.
-  - Analyze data to identify competitive advantages.
-  - Develop strategies based on insights.
-- **Example:** Input: "Gain market share." Output: "Use competitor analysis to identify and exploit market gaps."
-- **Automation play (n8n agent):** Set up automated market research and competitor analysis workflows.
-- **Suggested nodes/tools:** Google Analytics, HTTP Request, Airtable, OpenAI.
+  - Analyze competitor data.
+  - Identify market opportunities.
+  - Develop competitive strategies based on insights.
+- **Example:** Input: Competitor analysis data; Output: Improved market positioning strategy.
+- **Automation play (n8n agent):** Automate market analysis and competitive strategy adjustments.
+- **Suggested nodes/tools:** Notion, OpenAI, HTTP Request.
 
 ### Prompt: "What are the best practices for incorporating stakeholder feedback and insights into my data-driven decision-making strategy to ensure its ongoing relevance and effectiveness?"
-- **What it’s for:** Ensuring decision-making strategies remain relevant through stakeholder input.
+- **What it’s for:** Ensuring stakeholder alignment with data-driven strategies.
 - **How to use:** 
-  - Collect stakeholder feedback regularly.
-  - Integrate insights into decision-making processes.
-  - Continuously refine strategies based on feedback.
-- **Example:** Input: "Improve product strategy." Output: "Incorporate customer and partner feedback into product development."
-- **Automation play (n8n agent):** Automate feedback collection and integration into decision-making processes.
-- **Suggested nodes/tools:** Airtable, Google Sheets, HTTP Request, OpenAI.
+  - Gather stakeholder feedback.
+  - Align feedback with decision-making processes.
+  - Regularly review and adjust strategies.
+- **Example:** Input: Stakeholder feedback data; Output: Refined strategy incorporating stakeholder insights.
+- **Automation play (n8n agent):** Automate feedback collection and strategy refinement processes.
+- **Suggested nodes/tools:** Google Sheets, Notion, OpenAI.
 
 ### Prompt: "How can I effectively use data-driven decision-making techniques to support and enhance my [startup/company/brand]'s overall change management and transformation efforts?"
-- **What it’s for:** Facilitating change management through data insights.
+- **What it’s for:** Facilitating change management with data insights.
 - **How to use:** 
-  - Analyze change readiness and impact data.
-  - Develop strategies to manage change effectively.
-  - Monitor and adjust transformation efforts.
-- **Example:** Input: "Implement new technology." Output: "Use data to assess readiness and manage implementation."
-- **Automation play (n8n agent):** Automate tracking and reporting on change management metrics.
-- **Suggested nodes/tools:** Airtable, Google Sheets, HTTP Request, OpenAI.
+  - Analyze change impact data.
+  - Develop transformation strategies.
+  - Monitor and adjust change initiatives.
+- **Example:** Input: Change readiness data; Output: Effective change management plan.
+- **Automation play (n8n agent):** Automate change impact analysis and transformation strategy updates.
+- **Suggested nodes/tools:** Airtable, HTTP Request, OpenAI.
 
 ### Prompt: "What are the key considerations when selecting and using data-driven decision-making metrics and KPIs to measure and optimize my [startup/company/brand]'s efforts?"
-- **What it’s for:** Choosing the right metrics and KPIs for decision-making.
+- **What it’s for:** Choosing the right metrics and KPIs for data-driven strategies.
 - **How to use:** 
-  - Define key business objectives.
-  - Select metrics and KPIs that align with objectives.
-  - Continuously monitor and adjust based on performance data.
-- **Example:** Input: "Measure marketing effectiveness." Output: "Select KPIs such as conversion rates and ROI."
-- **Automation play (n8n agent):** Automate KPI tracking and reporting for real-time insights.
-- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, OpenAI.
+  - Identify key business objectives.
+  - Select relevant metrics and KPIs.
+  - Regularly review and adjust based on data.
+- **Example:** Input: Business goals; Output: Set of KPIs aligned with objectives.
+- **Automation play (n8n agent):** Automate KPI tracking and performance analysis.
+- **Suggested nodes/tools:** Google Sheets, Webhook, OpenAI.
 
 ### Prompt: "How can I effectively use data-driven decision-making techniques to support my [startup/company/brand]'s overall environmental sustainability and resource conservation efforts?"
-- **What it’s for:** Enhancing sustainability efforts through data insights.
+- **What it’s for:** Enhancing sustainability initiatives with data insights.
 - **How to use:** 
-  - Analyze environmental impact data.
-  - Develop strategies to reduce resource usage.
-  - Monitor and adjust sustainability practices.
-- **Example:** Input: "Reduce carbon footprint." Output: "Analyze energy usage data to identify reduction opportunities."
-- **Automation play (n8n agent):** Automate data collection and analysis for sustainability metrics.
-- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, OpenAI.
+  - Monitor environmental impact data.
+  - Identify conservation opportunities.
+  - Implement data-driven sustainability strategies.
+- **Example:** Input: Resource consumption data; Output: Enhanced sustainability initiatives.
+- **Automation play (n8n agent):** Automate environmental data tracking and conservation strategy updates.
+- **Suggested nodes/tools:** Airtable, HTTP Request, Webhook.
 
 ### Prompt: "How can I effectively use data-driven decision-making techniques to drive long-term growth and success for my [startup/company/brand] within our [industry/niche]?"
-- **What it’s for:** Driving long-term growth through data insights.
+- **What it’s for:** Achieving sustained growth using data insights.
 - **How to use:** 
-  - Analyze industry trends and data.
-  - Develop long-term growth strategies.
-  - Continuously refine strategies based on data insights.
-- **Example:** Input: "Achieve sustained growth." Output: "Use market trend data to inform strategic planning."
-- **Automation play (n8n agent):** Automate industry trend analysis and strategic planning.
-- **Suggested nodes/tools:** Google Analytics, Airtable, HTTP Request, OpenAI.
+  - Analyze industry trends.
+  - Identify growth opportunities.
+  - Develop long-term strategies based on data.
+- **Example:** Input: Industry trend data; Output: Long-term growth strategy.
+- **Automation play (n8n agent):** Automate trend analysis and growth strategy adjustments.
+- **Suggested nodes/tools:** Notion, Google Sheets, OpenAI.
 
 ### Prompt: "How can I effectively use data-driven decision-making techniques to support and enhance my [startup/company/brand]'s overall corporate social responsibility (CSR) efforts?"
-- **What it’s for:** Enhancing CSR efforts through data insights.
+- **What it’s for:** Strengthening CSR initiatives with data insights.
 - **How to use:** 
-  - Collect data on CSR impact and initiatives.
-  - Use insights to improve CSR strategies.
-  - Monitor and report on CSR performance.
-- **Example:** Input: "Improve community impact." Output: "Use data to identify and enhance high-impact initiatives."
-- **Automation play (n8n agent):** Set up automated data collection and reporting for CSR activities.
-- **Suggested nodes/tools:** Airtable, Google Sheets, HTTP Request, OpenAI.
+  - Collect CSR impact data.
+  - Align CSR efforts with data insights.
+  - Monitor and report on CSR progress.
+- **Example:** Input: CSR activity data; Output: Refined CSR strategy.
+- **Automation play (n8n agent):** Automate CSR data collection and impact analysis.
+- **Suggested nodes/tools:** Google Sheets, Airtable, OpenAI.
 
 ### Prompt: "What are the most effective techniques for using data-driven decision-making to optimize my [startup/company/brand]'s remote work and virtual collaboration efforts?"
-- **What it’s for:** Improving remote work through data insights.
+- **What it’s for:** Enhancing remote work strategies with data insights.
 - **How to use:** 
-  - Analyze remote work productivity data.
-  - Develop strategies to enhance virtual collaboration.
-  - Continuously monitor and adjust remote work practices.
-- **Example:** Input: "Increase remote team productivity." Output: "Use data to identify and address collaboration challenges."
-- **Automation play (n8n agent):** Automate productivity data collection and analysis for remote teams.
-- **Suggested nodes/tools:** Airtable, Google Sheets, HTTP Request, OpenAI.
+  - Monitor remote work data.
+  - Identify collaboration challenges.
+  - Implement data-driven improvements.
+- **Example:** Input: Remote work productivity data; Output: Improved virtual collaboration tools.
+- **Automation play (n8n agent):** Automate remote work data collection and strategy refinement.
+- **Suggested nodes/tools:** Notion, Webhook, OpenAI.
 
 ### Prompt: "How can I effectively use data-driven decision-making techniques to support my [startup/company/brand]'s overall technology and infrastructure management efforts?"
-- **What it’s for:** Enhancing technology management through data insights.
+- **What it’s for:** Optimizing technology management with data insights.
 - **How to use:** 
-  - Analyze technology performance data.
-  - Develop strategies to optimize infrastructure.
-  - Monitor and adjust technology management practices.
-- **Example:** Input: "Improve IT infrastructure efficiency." Output: "Use data to identify and resolve performance bottlenecks."
-- **Automation play (n8n agent):** Automate technology performance tracking and analysis.
-- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP
+  - Analyze tech usage data.
+  - Identify infrastructure bottlenecks.
+  - Implement data-driven tech improvements.
+- **Example:** Input: IT infrastructure data; Output: Optimized tech management plan.
+- **Automation play (n8n agent):** Automate tech data monitoring and improvement suggestions.
+- **Suggested nodes/tools:** Google Sheets, HTTP Request, Webhook.
+
+### Prompt: "What are the best practices for using data-driven decision-making techniques to support and enhance my [startup/company/brand]'s overall intellectual property (IP) management and protection efforts?"
+- **What it’s for:** Strengthening IP management with data insights.
+- **How to use:** 
+  - Monitor IP usage data.
+  - Identify protection gaps.
+  - Develop data-driven IP strategies.
+- **Example:** Input: IP audit data; Output: Enhanced IP protection plan.
+- **Automation play (n8n agent):** Automate IP data collection and protection strategy updates.
+- **Suggested nodes/tools:** Airtable, OpenAI, Webhook.
+
+### Prompt: "How can I effectively use data-driven decision-making techniques to support my [startup/company/brand]'s overall event planning and execution efforts?"
+- **What it’s for:** Improving event planning using data insights.
+- **How to use:** 
+  - Collect event feedback data.
+  - Analyze attendee engagement.
+  - Implement data-driven event improvements.
+- **Example:** Input: Event feedback data; Output: Improved event planning strategy.
+- **Automation play (n8n agent):** Automate event data collection and feedback analysis.
+- **Suggested nodes/tools:** Notion, OpenAI, Webhook.
+
+### Prompt: "What are the key considerations and factors to keep in mind when creating an effective data-driven decision-making strategy for my [startup/company/brand]'s customer success and support initiatives?"
+- **What it’s for:** Enhancing customer success strategies with data insights.
+- **How to use:** 
+  - Define customer success metrics.
+  - Align support initiatives with data insights.
+  - Continuously review and refine strategies.
+- **Example:** Input: Customer support data; Output: Enhanced customer

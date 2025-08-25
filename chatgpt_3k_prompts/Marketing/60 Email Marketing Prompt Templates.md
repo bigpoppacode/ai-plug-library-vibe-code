@@ -14,301 +14,211 @@
 *(Generated in batches below.)*
 
 ### Prompt: "60 Email Marketing Prompt Templates"
-- **What it’s for:** A comprehensive collection of prompts to enhance email marketing strategies.
-- **How to use:**  
-  - Review each prompt for relevance.
-  - Implement prompts in marketing strategies.
-- **Example:** Input: Need ideas for increasing open rates. Output: Utilize prompts focused on subject lines and personalization.
-- **Automation play (n8n agent):** Automate prompt selection based on marketing focus.
-- **Suggested nodes/tools:** Google Sheets, Airtable, Notion.
+- **What it’s for:** A comprehensive list of prompts for email marketing strategies.
+- **How to use:** Use each prompt to generate ideas or strategies for email marketing initiatives.
+- **Example:** Use a prompt like "Best [adjective] subject lines for increasing email open rates" to brainstorm subject lines.
+- **Automation play (n8n agent):** Set up a recurring email campaign using these prompts for content ideas.
+- **Suggested nodes/tools:** Google Sheets, Airtable, Cron, Email.
 
 ### Prompt: "Best [adjective] subject lines for increasing email open rates."
-- **What it’s for:** Crafting compelling subject lines to boost open rates.
-- **How to use:**  
-  - Insert an adjective (e.g., 'catchy') in the prompt.
-  - Generate a list of subject lines.
-- **Example:** Input: 'Catchy' Output: "Unlock Today's Special Deals!"
-- **Automation play (n8n agent):** Automate subject line generation with AI.
-- **Suggested nodes/tools:** OpenAI, Google Sheets, Notion.
+- **What it’s for:** Crafting subject lines that boost email open rates.
+- **How to use:** Replace [adjective] with a suitable descriptive word to tailor subject lines.
+- **Example:** Input: "Best catchy subject lines for increasing email open rates." Output: List of catchy subject lines.
+- **Automation play (n8n agent):** Automate subject line testing with A/B split tests.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Email.
 
 ### Prompt: "Find the most effective email copy for [specific audience/persona]."
-- **What it’s for:** Tailoring email content to engage specific audiences.
-- **How to use:**  
-  - Define the audience or persona.
-  - Analyze successful email copies.
-- **Example:** Input: Tech-savvy millennials Output: Engaging copy with tech jargon.
-- **Automation play (n8n agent):** Use AI to analyze and generate audience-specific copy.
-- **Suggested nodes/tools:** OpenAI, Airtable, Webhook.
+- **What it’s for:** Developing targeted email copy for specific audiences.
+- **How to use:** Specify the audience or persona to customize the email copy.
+- **Example:** Input: "Find the most effective email copy for millennials." Output: Tailored email copy.
+- **Automation play (n8n agent):** Create segmented email campaigns based on audience personas.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Email.
 
 ### Prompt: "Top [number] email design tips for better engagement."
-- **What it’s for:** Improving email design to enhance engagement.
-- **How to use:**  
-  - Specify the number of tips needed.
-  - Compile design tips.
-- **Example:** Input: 5 Output: Tips on layout, color, and CTA placement.
-- **Automation play (n8n agent):** Schedule regular updates on design trends.
-- **Suggested nodes/tools:** Google Sheets, Notion, Webhook.
+- **What it’s for:** Enhancing email design to improve engagement rates.
+- **How to use:** Specify the number of tips needed to generate a list.
+- **Example:** Input: "Top 5 email design tips for better engagement." Output: List of 5 design tips.
+- **Automation play (n8n agent):** Schedule design tip updates in a newsletter.
+- **Suggested nodes/tools:** Google Sheets, Email, Webhook.
 
 ### Prompt: "Best [adjective] email automation software for small businesses."
-- **What it’s for:** Identifying optimal automation software for small business needs.
-- **How to use:**  
-  - Add an adjective (e.g., 'affordable').
-  - Research software options.
-- **Example:** Input: 'Affordable' Output: Mailchimp, Sendinblue.
-- **Automation play (n8n agent):** Automate software comparison and updates.
-- **Suggested nodes/tools:** HTTP Request, Airtable, Webhook.
+- **What it’s for:** Identifying suitable email automation tools for small businesses.
+- **How to use:** Replace [adjective] with a relevant descriptor to refine the search.
+- **Example:** Input: "Best affordable email automation software for small businesses." Output: List of affordable tools.
+- **Automation play (n8n agent):** Integrate chosen software with n8n for automated workflows.
+- **Suggested nodes/tools:** HTTP Request, Airtable, Email.
 
 ### Prompt: "Find the most successful email segmentation strategies for [specific audience/persona]."
-- **What it’s for:** Optimizing email segmentation to improve targeting.
-- **How to use:**  
-  - Identify target audience/persona.
-  - Research segmentation strategies.
-- **Example:** Input: Young professionals Output: Segment by job role and interests.
-- **Automation play (n8n agent):** Automate audience data analysis for segmentation.
-- **Suggested nodes/tools:** Google Sheets, Airtable, Webhook.
+- **What it’s for:** Discovering effective segmentation strategies for targeted audiences.
+- **How to use:** Specify the audience or persona to tailor segmentation strategies.
+- **Example:** Input: "Find the most successful email segmentation strategies for tech enthusiasts." Output: List of strategies.
+- **Automation play (n8n agent):** Implement segmentation in email marketing platforms.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Email.
 
 ### Prompt: "Top [number] email personalization tactics to increase engagement."
-- **What it’s for:** Enhancing email personalization to boost engagement.
-- **How to use:**  
-  - Specify the number of tactics.
-  - List personalized tactics.
-- **Example:** Input: 3 Output: Name usage, tailored offers, dynamic content.
-- **Automation play (n8n agent):** Automate personalization based on user data.
-- **Suggested nodes/tools:** OpenAI, Google Sheets, Webhook.
+- **What it’s for:** Increasing engagement through personalized email tactics.
+- **How to use:** Specify the desired number of tactics.
+- **Example:** Input: "Top 3 email personalization tactics to increase engagement." Output: List of 3 tactics.
+- **Automation play (n8n agent):** Personalize email content based on user data.
+- **Suggested nodes/tools:** Google Sheets, Airtable, Email.
 
 ### Prompt: "Best [adjective] email list building strategies for small businesses."
-- **What it’s for:** Growing email lists with effective strategies.
-- **How to use:**  
-  - Insert an adjective (e.g., 'innovative').
-  - Identify list building strategies.
-- **Example:** Input: 'Innovative' Output: Interactive sign-up forms, webinars.
-- **Automation play (n8n agent):** Automate lead capture and list updates.
-- **Suggested nodes/tools:** Webhook, Airtable, Google Sheets.
+- **What it’s for:** Growing email lists effectively for small businesses.
+- **How to use:** Replace [adjective] with a suitable descriptor to focus strategies.
+- **Example:** Input: "Best innovative email list building strategies for small businesses." Output: List of innovative strategies.
+- **Automation play (n8n agent):** Automate list-building activities with sign-up forms and integrations.
+- **Suggested nodes/tools:** Webhook, Google Sheets, Email.
 
 ### Prompt: "Find the most effective A/B testing strategies for email campaigns."
-- **What it’s for:** Improving email performance through A/B testing.
-- **How to use:**  
-  - Research A/B testing techniques.
-  - Apply to email campaigns.
-- **Example:** Input: Test subject lines Output: Higher open rates with optimized line.
-- **Automation play (n8n agent):** Automate A/B test setup and analysis.
-- **Suggested nodes/tools:** Google Sheets, Airtable, Webhook.
+- **What it’s for:** Optimizing email campaigns through A/B testing.
+- **How to use:** Explore various A/B testing methods for email components.
+- **Example:** Input: "Find the most effective A/B testing strategies for subject lines." Output: List of strategies.
+- **Automation play (n8n agent):** Automate A/B testing processes and report results.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Email.
 
 ### Prompt: "Top [number] email marketing metrics to track for success."
-- **What it’s for:** Monitoring key metrics to measure email marketing success.
-- **How to use:**  
-  - Specify the number of metrics.
-  - Track identified metrics.
-- **Example:** Input: 5 Output: Open rate, CTR, bounce rate, conversions, ROI.
-- **Automation play (n8n agent):** Automate metric tracking and reporting.
-- **Suggested nodes/tools:** Google Sheets, Airtable, Webhook.
+- **What it’s for:** Identifying key metrics for evaluating email marketing performance.
+- **How to use:** Specify the number of metrics to receive a focused list.
+- **Example:** Input: "Top 5 email marketing metrics to track for success." Output: List of 5 metrics.
+- **Automation play (n8n agent):** Set up automated reporting for chosen metrics.
+- **Suggested nodes/tools:** Google Sheets, Airtable, Email.
 
-### Prompt: "Best [adjective] email marketing tools for solopreneurs."
-- **What it’s for:** Identifying top tools for solo entrepreneurs to enhance their email marketing efforts.
-- **How to use:** Specify the adjective that describes the type of tools you need (e.g., "affordable").
-- **Example:** Input: "Best affordable email marketing tools for solopreneurs." Output: List of 5 tools with brief descriptions.
-- **Automation play (n8n agent):** Set up a trigger to periodically fetch updated tool lists.
-- **Suggested nodes/tools:** HTTP Request, Airtable, Webhook.
+### Prompt: "Best [adjective] email newsletter templates for [specific industry/persona]."
+- **What it’s for:** Finding suitable email newsletter templates for specific industries or personas.
+- **How to use:** Replace [adjective] and [specific industry/persona] to tailor the search.
+- **Example:** Input: "Best modern email newsletter templates for the fashion industry." Output: List of templates.
+- **Automation play (n8n agent):** Automate the selection and deployment of templates.
+- **Suggested nodes/tools:** OpenAI, Airtable, Email.
 
-### Prompt: "Find the most effective email subject line lengths for better engagement."
-- **What it’s for:** Discovering optimal subject line lengths to improve email open rates.
-- **How to use:** Analyze existing email data to determine successful subject line lengths.
-- **Example:** Input: "Analyze last 100 email campaigns." Output: "Subject lines with 6-10 words have highest open rates."
-- **Automation play (n8n agent):** Automate data extraction from email platforms.
-- **Suggested nodes/tools:** Google Sheets, OpenAI, HTTP Request.
+### Prompt: "Find the most successful email marketing case studies for [specific industry/persona]."
+- **What it’s for:** Learning from successful email marketing campaigns in specific sectors.
+- **How to use:** Specify the industry or persona to narrow down case studies.
+- **Example:** Input: "Find the most successful email marketing case studies for the tech industry." Output: List of case studies.
+- **Automation play (n8n agent):** Integrate findings into strategy sessions or reports.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Email.
 
-### Prompt: "Top [number] email marketing automation workflows for ecommerce businesses."
-- **What it’s for:** Listing effective automation workflows to streamline ecommerce email marketing.
-- **How to use:** Specify the number of workflows needed (e.g., "Top 3").
-- **Example:** Input: "Top 3 email marketing automation workflows." Output: Detailed list of 3 workflows.
-- **Automation play (n8n agent):** Automate workflow implementation using templates.
-- **Suggested nodes/tools:** Webhook, Airtable, Cron.
+### Prompt: "Top [number] tips for improving your email click-through rates."
+- **What it’s for:** Boosting email click-through rates with actionable tips.
+- **How to use:** Specify the number of tips needed.
+- **Example:** Input: "Top 7 tips for improving your email click-through rates." Output: List of 7 tips.
+- **Automation play (n8n agent):** Implement tips in email campaigns and track improvements.
+- **Suggested nodes/tools:** Google Sheets, Email, Webhook.
 
-### Prompt: "Best [adjective] email marketing templates for event promotion."
-- **What it’s for:** Finding top email templates to effectively promote events.
-- **How to use:** Choose an adjective to refine your search (e.g., "creative").
-- **Example:** Input: "Best creative email marketing templates for event promotion." Output: Selection of 5 templates.
-- **Automation play (n8n agent):** Schedule updates for new template releases.
-- **Suggested nodes/tools:** Notion, HTTP Request, Webhook.
+### Prompt: "Best [adjective] email marketing tools for ecommerce businesses."
+- **What it’s for:** Identifying effective email marketing tools for ecommerce.
+- **How to use:** Replace [adjective] with a descriptor that fits the business needs.
+- **Example:** Input: "Best robust email marketing tools for ecommerce businesses." Output: List of robust tools.
+- **Automation play (n8n agent):** Integrate selected tools with ecommerce platforms.
+- **Suggested nodes/tools:** HTTP Request, Airtable, Email.
 
-### Prompt: "Find the most successful email marketing campaigns for SaaS businesses."
-- **What it’s for:** Identifying top-performing email campaigns within the SaaS industry.
-- **How to use:** Research and analyze past successful campaigns.
-- **Example:** Input: "Analyze top 10 SaaS email campaigns." Output: Summary of successful elements and strategies.
-- **Automation play (n8n agent):** Collect data from SaaS campaign archives.
-- **Suggested nodes/tools:** Google Sheets, HTTP Request, OpenAI.
+### Prompt: "Find the most creative ways to use email marketing for your business."
+- **What it’s for:** Discovering innovative email marketing strategies.
+- **How to use:** Explore different creative approaches to email marketing.
+- **Example:** Input: "Find the most creative ways to use email marketing for a bakery." Output: List of creative ideas.
+- **Automation play (n8n agent):** Implement creative strategies in email workflows.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Email.
 
-### Prompt: "Top [number] email marketing tips for social media promotion."
-- **What it’s for:** Gathering effective email marketing tips to enhance social media engagement.
-- **How to use:** Specify how many tips you need (e.g., "Top 5").
-- **Example:** Input: "Top 5 email marketing tips for social media promotion." Output: List of 5 actionable tips.
-- **Automation play (n8n agent):** Integrate with social media analytics for real-time insights.
-- **Suggested nodes/tools:** Webhook, Airtable, HTTP Request.
+### Prompt: "Top [number] email marketing mistakes to avoid."
+- **What it’s for:** Avoiding common pitfalls in email marketing.
+- **How to use:** Specify the number of mistakes to receive a concise list.
+- **Example:** Input: "Top 10 email marketing mistakes to avoid." Output: List of 10 mistakes.
+- **Automation play (n8n agent):** Create alerts for common mistakes in campaigns.
+- **Suggested nodes/tools:** Google Sheets, Airtable, Email.
 
-### Prompt: "Best [adjective] email marketing practices for lead nurturing."
-- **What it’s for:** Discovering top practices for nurturing leads through email marketing.
-- **How to use:** Choose an adjective to narrow down practices (e.g., "innovative").
-- **Example:** Input: "Best innovative email marketing practices for lead nurturing." Output: List of strategies with explanations.
-- **Automation play (n8n agent):** Automate lead nurturing email sequences.
-- **Suggested nodes/tools:** Notion, Cron, Webhook.
+### Prompt: "Best [adjective] email subject line formulas for [specific audience/persona]."
+- **What it’s for:** Crafting effective subject lines tailored to specific audiences.
+- **How to use:** Replace [adjective] and [specific audience/persona] to customize formulas.
+- **Example:** Input: "Best compelling email subject line formulas for young professionals." Output: List of formulas.
+- **Automation play (n8n agent):** Test and refine subject lines using automation.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Email.
 
-### Prompt: "Find the most effective email segmentation strategies for ecommerce businesses."
-- **What it’s for:** Identifying strategies to effectively segment email lists for ecommerce.
-- **How to use:** Analyze segmentation techniques in successful campaigns.
-- **Example:** Input: "Analyze segmentation in top ecommerce campaigns." Output: "Segmentation by purchase history increased CTR by 20%."
-- **Automation play (n8n agent):** Implement dynamic segmentation rules.
-- **Suggested nodes/tools:** Google Sheets, HTTP Request, OpenAI.
+### Prompt: "Find the most effective lead magnet ideas for building your email list."
+- **What it’s for:** Generating lead magnet ideas to grow email lists.
+- **How to use:** Explore various lead magnet concepts to attract subscribers.
+- **Example:** Input: "Find the most effective lead magnet ideas for a fitness app." Output: List of ideas.
+- **Automation play (n8n agent):** Automate lead magnet delivery and follow-up emails.
+- **Suggested nodes/tools:** Webhook, Google Sheets, Email.
 
-### Prompt: "Top [number] email marketing metrics to track for ecommerce success."
-- **What it’s for:** Identifying key metrics to monitor for successful ecommerce email marketing.
-- **How to use:** Determine the number of metrics to focus on (e.g., "Top 5").
-- **Example:** Input: "Top 5 email marketing metrics." Output: List of metrics with explanations.
-- **Automation play (n8n agent):** Set up automated tracking and reporting.
-- **Suggested nodes/tools:** Airtable, HTTP Request, Google Sheets.
+### Prompt: "Top [number] email marketing automation workflows for small businesses."
+- **What it’s for:** Streamlining email marketing through automation workflows.
+- **How to use:** Specify the number of workflows to get a detailed list.
+- **Example:** Input: "Top 3 email marketing automation workflows for small businesses." Output: List of 3 workflows.
+- **Automation play (n8n agent):** Implement workflows using automation platforms.
+- **Suggested nodes/tools:** Airtable, Email, Webhook.
 
-### Prompt: "Best [adjective] email marketing tips for cart abandonment recovery."
-- **What it’s for:** Finding effective tips to recover abandoned carts through email marketing.
-- **How to use:** Specify an adjective for targeted tips (e.g., "proven").
-- **Example:** Input: "Best proven email marketing tips for cart abandonment recovery." Output: 5 tips with success stories.
-- **Automation play (n8n agent):** Automate cart recovery email sequences.
-- **Suggested nodes/tools:** Webhook, Cron, Airtable.
+### Prompt: "Best [adjective] email marketing tips for mobile optimization."
+- **What it’s for:** Optimizing email marketing for mobile devices.
+- **How to use:** Replace [adjective] with a suitable descriptor to focus on specific tips.
+- **Example:** Input: "Best practical email marketing tips for mobile optimization." Output: List of practical tips.
+- **Automation play (n8n agent):** Test and optimize emails for mobile devices.
+- **Suggested nodes/tools:** Google Sheets, Email, Webhook.
 
-### Prompt: "Find the most successful email marketing campaigns for the holiday season."
-- **What it’s for:** Identifying top-performing holiday email campaigns to replicate success.
-- **How to use:** Research past campaigns for successful tactics.
-- **Example:** Input: "Analyze top holiday email campaigns." Output: Summary of key strategies and outcomes.
-- **Automation play (n8n agent):** Schedule holiday campaign analysis.
-- **Suggested nodes/tools:** Google Sheets, HTTP Request, OpenAI.
+### Prompt: "Find the most successful email marketing campaigns for [specific industry/persona]."
+- **What it’s for:** Learning from successful campaigns in targeted industries.
+- **How to use:** Specify the industry or persona to focus on successful campaigns.
+- **Example:** Input: "Find the most successful email marketing campaigns for nonprofits." Output: List of campaigns.
+- **Automation play (n8n agent):** Analyze and apply successful strategies to new campaigns.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Email.
 
-### Prompt: "Top [number] tips for writing effective welcome emails."
-- **What it’s for:** Compiling best practices for crafting impactful welcome emails.
-- **How to use:** Specify the number of tips needed (e.g., "Top 5").
-- **Example:** Input: "Top 5 tips for writing effective welcome emails." Output: List with detailed descriptions.
-- **Automation play (n8n agent):** Automate welcome email series.
-- **Suggested nodes/tools:** Airtable, Webhook, Cron.
+### Prompt: "Top [number] tips for writing effective email marketing copy."
+- **What it’s for:** Improving email copy to enhance marketing effectiveness.
+- **How to use:** Specify the number of tips to receive targeted advice.
+- **Example:** Input: "Top 6 tips for writing effective email marketing copy." Output: List of 6 tips.
+- **Automation play (n8n agent):** Create templates with effective copywriting tips.
+- **Suggested nodes/tools:** Google Sheets, Airtable, Email.
 
-### Prompt: "Best [adjective] email marketing tools for content marketing."
-- **What it’s for:** Finding tools that enhance email marketing for content creators.
-- **How to use:** Choose an adjective to refine tool selection (e.g., "versatile").
-- **Example:** Input: "Best versatile email marketing tools for content marketing." Output: List of 5 tools with features.
-- **Automation play (n8n agent):** Connect tools for seamless content distribution.
-- **Suggested nodes/tools:** HTTP Request, Notion, Webhook.
+### Prompt: "[Product/Service/Keyword] [adjective] hacks for [specific social media platform] success"
+- **What it’s for:** Developing strategies for success on social media platforms.
+- **How to use:** Fill in the blanks with relevant product/service, adjective, and platform.
+- **Example:** Input: "Instagram marketing creative hacks for beauty brands." Output: List of creative hacks.
+- **Automation play (n8n agent):** Schedule social media posts using these hacks.
+- **Suggested nodes/tools:** Webhook, Social Media Scheduler, Google Sheets.
 
-### Prompt: "Find the most effective email marketing tactics for boosting customer retention."
-- **What it’s for:** Identifying strategies to enhance customer retention through email.
-- **How to use:** Analyze past tactics and their effectiveness.
-- **Example:** Input: "Analyze retention tactics in email marketing." Output: "Personalized offers increased retention by 15%."
-- **Automation play (n8n agent):** Implement retention-focused email automations.
-- **Suggested nodes/tools:** Google Sheets, HTTP Request, OpenAI.
+### Prompt: "[Product/Service/Keyword] [adjective] hacks for [specific email marketing platform] success"
+- **What it’s for:** Discovering strategies for success on email marketing platforms.
+- **How to use:** Fill in the blanks with relevant product/service, adjective, and platform.
+- **Example:** Input: "Mailchimp automation powerful hacks for e-commerce." Output: List of powerful hacks.
+- **Automation play (n8n agent):** Implement hacks directly into email marketing workflows.
+- **Suggested nodes/tools:** Webhook, Email, Google Sheets.
 
-### Prompt: "Top [number] email marketing tips for building customer loyalty."
-- **What it’s for:** Gathering strategies to foster customer loyalty through email.
-- **How to use:** Specify how many tips you need (e.g., "Top 3").
-- **Example:** Input: "Top 3 email marketing tips for building customer loyalty." Output: List of actionable strategies.
-- **Automation play (n8n agent):** Automate loyalty program communications.
-- **Suggested nodes/tools:** Webhook, Airtable, Cron.
+### Prompt: "Best [adjective] email marketing practices for B2B businesses."
+- **What it’s for:** Identifying effective email marketing practices for B2B sectors.
+- **How to use:** Replace [adjective] with a descriptor to tailor practices.
+- **Example:** Input: "Best strategic email marketing practices for B2B businesses." Output: List of strategic practices.
+- **Automation play (n8n agent):** Automate B2B email campaigns using best practices.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Email.
 
-### Prompt: "Best [adjective] email marketing strategies for affiliate marketing."
-- **What it’s for:** Discovering effective strategies to boost affiliate marketing via email.
-- **How to use:** Choose an adjective to focus your strategy (e.g., "innovative").
-- **Example:** Input: "Best innovative email marketing strategies for affiliate marketing." Output: 5 strategies with examples.
-- **Automation play (n8n agent):** Schedule strategy deployment and tracking.
-- **Suggested nodes/tools:** Notion, HTTP Request, Webhook.
+### Prompt: "Find the most effective email marketing tactics for B2C businesses."
+- **What it’s for:** Developing successful email marketing strategies for B2C sectors.
+- **How to use:** Explore different tactics to apply in B2C marketing.
+- **Example:** Input: "Find the most effective email marketing tactics for B2C retail." Output: List of tactics.
+- **Automation play (n8n agent):** Implement B2C tactics in email campaigns.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Email.
 
-### Prompt: "Find the most successful email marketing campaigns for lead generation."
-- **What it’s for:** Identifying top campaigns that have excelled in generating leads.
-- **How to use:** Research and analyze high-performing campaigns.
-- **Example:** Input: "Analyze lead generation email campaigns." Output: "Campaign X increased leads by 30% using webinars."
-- **Automation play (n8n agent):** Automate lead capture and follow-up.
-- **Suggested nodes/tools:** Google Sheets, HTTP Request, OpenAI.
+### Prompt: "Top [number] email marketing tips for small business owners."
+- **What it’s for:** Providing actionable email marketing advice for small business owners.
+- **How to use:** Specify the number of tips needed.
+- **Example:** Input: "Top 8 email marketing tips for small business owners." Output: List of 8 tips.
+- **Automation play (n8n agent):** Create a series of automated tips for small business newsletters.
+- **Suggested nodes/tools:** Google Sheets, Airtable, Email.
 
-### Prompt: "Top [number] tips for using email marketing to promote webinars."
-- **What it’s for:** Collecting best practices for using email to promote webinars effectively.
-- **How to use:** Specify the number of tips needed (e.g., "Top 5").
-- **Example:** Input: "Top 5 tips for promoting webinars via email." Output: List of promotional techniques.
-- **Automation play (n8n agent):** Automate webinar promotion campaigns.
-- **Suggested nodes/tools:** Airtable, Webhook, Cron.
+### Prompt: "Best [adjective] email marketing strategies for startups."
+- **What it’s for:** Crafting effective email marketing strategies for startups.
+- **How to use:** Replace [adjective] with a suitable descriptor to focus strategies.
+- **Example:** Input: "Best innovative email marketing strategies for startups." Output: List of innovative strategies.
+- **Automation play (n8n agent):** Implement startup-focused strategies in email campaigns.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Email.
 
-### Prompt: "Best [adjective] email marketing practices for influencer marketing."
-- **What it’s for:** Finding top practices to enhance influencer marketing through email.
-- **How to use:** Choose an adjective to narrow down practices (e.g., "effective").
-- **Example:** Input: "Best effective email marketing practices for influencer marketing." Output: List of 5 practices.
-- **Automation play (n8n agent):** Automate influencer outreach and follow-up.
-- **Suggested nodes/tools:** Notion, HTTP Request, Webhook.
+### Prompt: "Find the most successful email marketing campaigns for nonprofits."
+- **What it’s for:** Learning from successful nonprofit email marketing campaigns.
+- **How to use:** Explore different nonprofit campaigns for inspiration.
+- **Example:** Input: "Find the most successful email marketing campaigns for environmental nonprofits." Output: List of campaigns.
+- **Automation play (n8n agent):** Integrate successful elements into nonprofit campaigns.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Email.
 
-### Prompt: "Find the most effective email marketing segmentation strategies for B2B businesses."
-- **What it’s for:** Identifying strategies to effectively segment B2B email lists.
-- **How to use:** Analyze segmentation techniques in successful B2B campaigns.
-- **Example:** Input: "Analyze segmentation in top B2B campaigns." Output: "Segmenting by industry increased engagement by 25%."
-- **Automation play (n8n agent):** Implement dynamic B2B segmentation.
-- **Suggested nodes/tools:** Google Sheets, HTTP Request, OpenAI.
-
-### Prompt: "Top [number] email marketing metrics to track for B2C businesses."
-- **What it’s for:** Identifying key metrics to monitor for successful B2C email marketing.
-- **How to use:** Determine the number of metrics to focus on (e.g., "Top 5").
-- **Example:** Input: "Top 5 email marketing metrics for B2C." Output: List of metrics with explanations.
-- **Automation play (n8n agent):** Set up automated tracking and reporting.
-- **Suggested nodes/tools:** Airtable, HTTP Request, Google Sheets.
-
-### Prompt: "Best [adjective] email marketing tips for building brand awareness."
-- **What it’s for:** Finding tips to enhance brand awareness through email marketing.
-- **How to use:** Specify an adjective for targeted tips (e.g., "creative").
-- **Example:** Input: "Best creative email marketing tips for brand awareness." Output: 5 tips with examples.
-- **Automation play (n8n agent):** Automate brand-focused email sequences.
-- **Suggested nodes/tools:** Webhook, Cron, Airtable.
-
-### Prompt: "Find the most successful email marketing campaigns for customer referrals."
-- **What it’s for:** Identifying top campaigns that have excelled in generating customer referrals.
-- **How to use:** Research and analyze high-performing referral campaigns.
-- **Example:** Input: "Analyze customer referral email campaigns." Output: "Campaign Y increased referrals by 40% using incentives."
-- **Automation play (n8n agent):** Automate referral program communications.
-- **Suggested nodes/tools:** Google Sheets, HTTP Request, OpenAI.
-
-### Prompt: "How to use [specific product/service/keyword] to improve your [specific metric] for [specific email marketing platform]"
-- **What it’s for:** Leveraging specific tools to enhance email marketing performance metrics.
-- **How to use:** Fill in the placeholders with relevant details.
-- **Example:** Input: "How to use CRM software to improve your open rates for Mailchimp." Output: Step-by-step guide.
-- **Automation play (n8n agent):** Integrate product/service with email platform.
-- **Suggested nodes/tools:** HTTP Request, Webhook, Airtable.
-
-### Prompt: "[Number] ways [specific product/service/keyword] can help your [specific email marketing platform] campaigns"
-- **What it’s for:** Exploring how certain products/services can enhance email marketing campaigns.
-- **How to use:** Fill in placeholders with relevant details and specify the number of ways.
-- **Example:** Input: "5 ways CRM software can help your Mailchimp campaigns." Output: List of 5 methods.
-- **Automation play (n8n agent):** Automate product/service integration with campaigns.
-- **Suggested nodes/tools:** Notion, Webhook, HTTP Request.
-
-### Prompt: "[Product/Service/Keyword] [adjective] strategies for [specific email marketing platform] success"
-- **What it’s for:** Formulating strategies using specific tools for email platform success.
-- **How to use:** Fill in placeholders with relevant details.
-- **Example:** Input: "CRM software innovative strategies for Mailchimp success." Output: List of strategies with examples.
-- **Automation play (n8n agent):** Schedule strategy implementation.
-- **Suggested nodes/tools:** Airtable, Webhook, Cron.
-
-### Prompt: "[Number] tips for creating effective [specific email marketing platform] subject lines with [specific product/service/keyword]"
-- **What it’s for:** Generating tips for crafting impactful subject lines using specific tools.
-- **How to use:** Fill in placeholders and specify the number of tips.
-- **Example:** Input: "5 tips for creating effective Mailchimp subject lines with CRM software." Output: List of 5 tips.
-- **Automation play (n8n agent):** Automate subject line testing and optimization.
-- **Suggested nodes/tools:** Google Sheets, HTTP Request, OpenAI.
-
-### Prompt: "[Product/Service/Keyword] [adjective] techniques for improving your [specific email marketing platform] open rates"
-- **What it’s for:** Identifying techniques to boost open rates using specific tools.
-- **How to use:** Fill in placeholders with relevant details.
-- **Example:** Input: "CRM software advanced techniques for improving your Mailchimp open rates." Output: List of techniques.
-- **Automation play (n8n agent):** Automate open rate analysis and improvements.
-- **Suggested nodes/tools:** Notion, HTTP Request, Webhook.
-
-### Prompt: "[Number] ways [specific product/service/keyword] can help you optimize your [specific email marketing platform] templates"
-- **What it’s for:** Exploring optimization methods for email templates using specific tools.
-- **How to use:** Fill in placeholders and specify the number of ways.
-- **Example:** Input: "3 ways CRM software can help you optimize your Mailchimp templates." Output: List of 3 methods.
-- **Automation play (n8n agent):** Automate template optimization processes.
-- **Suggested nodes/tools:** Airtable, Webhook, Cron.
-
-### Prompt: "[Product/Service/Keyword] [adjective] tips for creating engaging [specific email marketing platform] content"
-- **What it’s for:** Generating tips for crafting engaging content using specific tools.
-- **How to use:** Fill in placeholders with relevant details.
-- **Example:** Input: "CRM software creative tips for creating engaging Mailchimp content." Output: List of tips.
-- **Automation play (n8n agent):** Automate content creation and distribution.
-- **Suggested nodes/tools:** Google Sheets, HTTP Request, OpenAI.
+### Prompt: "Top [number] tips for building a successful email marketing funnel."
+- **What it’s for:** Creating effective email marketing funnels.
+- **How to use:** Specify the number of tips to receive a focused list.
+- **Example:** Input: "Top 5 tips for building a successful email marketing funnel." Output: List of 5 tips.
+- **Automation play (n8n agent):** Automate funnel steps with integrated workflows.
+- **Suggested nodes/tools:** Airtable, Email, Webhook.

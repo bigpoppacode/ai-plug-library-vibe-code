@@ -1,0 +1,20 @@
+1. Write a step-by-step guide to calculate ROI for [product/service/business]. Include formula and example.
+2. Draft a template spreadsheet layout for tracking ROI across campaigns for [product/service/business].
+3. Create a sample ROI calculation using actual numbers (e.g., $10,000 investment, $15,000 return).
+4. Write a guide explaining the difference between ROI and ROAS for [product/service/business].
+5. Draft an explanation of how to factor time savings into ROI calculations for [product/service/business].
+6. Provide a framework for calculating ROI on digital marketing efforts for [product/service/business].
+7. Write instructions for calculating ROI on employee training and development initiatives for [product/service/business].
+8. Draft a guide for calculating ROI on technology investments for [product/service/business].
+9. Create an ROI calculator formula for [product/service/business] that factors in recurring revenue and customer lifetime value.
+10. Write a short case study demonstrating ROI improvements for [product/service/business] after implementing automation.
+11. Draft an explanation of how to calculate ROI when results are qualitative (e.g., customer satisfaction, brand awareness).
+12. Provide a framework for comparing ROI across different channels (social, email, PPC) for [product/service/business].
+13. Write a guide to calculating ROI for a subscription-based business model for [product/service/business].
+14. Draft an explanation of how to adjust ROI calculations for inflation or currency exchange in [product/service/business].
+15. Create a formula to measure ROI for partnerships and collaborations involving [product/service/business].
+16. Write instructions for calculating ROI of content marketing campaigns for [product/service/business].
+17. Draft an explanation of the importance of tracking ROI over time, not just as a one-off calculation, for [product/service/business].
+18. Provide best practices for presenting ROI data to stakeholders of [product/service/business].
+19. Write a guide on how to calculate ROI for events and trade shows attended by [product/service/business].
+20. Develop a process for setting ROI benchmarks for future projects in [product/service/business].

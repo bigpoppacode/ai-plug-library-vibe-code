@@ -1,0 +1,20 @@
+1. Define the ideal customer profile for [product/service/business]. Include demographics, psychographics, and behavioral traits.
+2. Conduct a segmentation analysis for [product/service/business]. Identify key customer segments and describe their needs.
+3. Create three customer personas for [product/service/business]. Include goals, challenges, buying behaviors, and preferred communication channels.
+4. Evaluate the current customer base for [product/service/business]. Identify common characteristics and patterns.
+5. Analyze the market size and growth potential for [product/service/business]. Provide data-driven insights.
+6. Develop a survey to gather insights about potential customers of [product/service/business]. Include at least 10 questions.
+7. Write a focus group discussion guide to test interest in [product/service/business].
+8. Identify the geographic markets most suitable for [product/service/business]. Justify based on data such as population, income, or cultural fit.
+9. Discuss how customer pain points can be used to define the target market for [product/service/business].
+10. Analyze competitor target markets in [industry]. Suggest gaps or underserved niches for [product/service/business].
+11. Write a step-by-step plan for using social media analytics to refine the target market for [product/service/business].
+12. Suggest ways to use Google Analytics or web traffic data to better understand and refine the target market for [product/service/business].
+13. Provide a framework for determining whether B2B, B2C, or hybrid targeting makes sense for [product/service/business].
+14. Analyze generational differences (Gen Z, Millennials, Gen X, Boomers) and how they may impact the target market for [product/service/business].
+15. Write a LinkedIn post describing the ideal target market for [product/service/business] and inviting feedback from professionals.
+16. Create a step-by-step process for validating the target market of [product/service/business] using surveys, interviews, and beta testing.
+17. Discuss how trends in technology adoption affect the target market for [product/service/business].
+18. Analyze how lifestyle and values (eco-conscious, luxury-seeking, budget-minded, etc.) shape the target market for [product/service/business].
+19. Provide recommendations for refining the target market of [product/service/business] every 6–12 months based on feedback and data.
+20. Write a competitive positioning statement that clearly defines the target market and value proposition of [product/service/business].

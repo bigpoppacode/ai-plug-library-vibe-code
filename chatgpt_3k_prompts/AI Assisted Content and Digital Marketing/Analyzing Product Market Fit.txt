@@ -1,0 +1,20 @@
+1. Define the target market for [product/service/business]. Discuss how to segment this market effectively and identify the key customer groups most likely to benefit from the offering.
+2. Evaluate the current level of demand for [product/service/business]. Provide recommendations for conducting surveys, interviews, or focus groups to validate product-market fit.
+3. Analyze the alignment between the features of [product/service/business] and the needs of its target customers. Suggest improvements to increase relevance and adoption.
+4. Examine customer feedback data for [product/service/business]. Identify patterns that indicate satisfaction or dissatisfaction, and discuss how these insights can be used to refine the offering.
+5. Assess the competitive landscape for [product/service/business]. Compare customer value propositions and highlight differentiation opportunities.
+6. Discuss the role of pricing strategy in achieving product-market fit for [product/service/business]. Provide suggestions for testing and optimizing pricing models.
+7. Evaluate customer acquisition cost (CAC) vs. customer lifetime value (CLV) for [product/service/business]. Explain how to balance these metrics for sustainable growth.
+8. Investigate how customer churn impacts product-market fit for [product/service/business]. Suggest strategies to reduce churn and improve retention.
+9. Explore how distribution channels influence product-market fit. Provide recommendations for optimizing channels to reach the target audience more effectively.
+10. Analyze how product positioning and branding affect customer perception of product-market fit. Recommend adjustments to strengthen alignment with customer expectations.
+11. Examine how early adopters are using [product/service/business]. Provide insights into leveraging early adopters’ feedback to improve mainstream appeal.
+12. Assess whether [product/service/business] solves a critical pain point for customers. Provide suggestions for enhancing value delivery.
+13. Investigate the importance of timing in achieving product-market fit. Discuss how industry trends and customer readiness affect adoption.
+14. Discuss the role of innovation in maintaining product-market fit. Provide ideas for continuous improvement to stay ahead of competitors.
+15. Evaluate the scalability of [product/service/business]. Analyze whether growth potential exists in new markets, geographies, or customer segments.
+16. Assess the impact of product usability and user experience (UX) on product-market fit. Suggest improvements that can drive adoption and satisfaction.
+17. Investigate whether current marketing messages clearly communicate the value proposition of [product/service/business]. Recommend refinements for better resonance.
+18. Explore how partnerships or alliances could strengthen product-market fit. Provide examples of strategic collaborations that can expand reach and credibility.
+19. Discuss how network effects (if applicable) influence product-market fit for [product/service/business]. Provide ideas to accelerate growth through community building.
+20. Analyze the long-term sustainability of product-market fit for [product/service/business]. Provide strategies for adapting to evolving customer needs and market dynamics.

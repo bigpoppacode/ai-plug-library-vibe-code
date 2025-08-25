@@ -14,270 +14,331 @@
 *(Generated in batches below.)*
 
 ### Prompt: "Conducting customer feedback survey"
-- **What it’s for:** Gathering insights from customers to improve products and services.
+- **What it’s for:** Gathering insights from customers to improve products or services.
 - **How to use:** 
-  - Define survey objectives.
-  - Choose relevant questions.
-  - Select a distribution method.
-- **Example:** Input: "Rate your satisfaction with our product (1-5)." Output: "Average satisfaction score: 4.2."
-- **Automation play (n8n agent):** Trigger survey distribution via email after a purchase.
-- **Suggested nodes/tools:** Google Forms, Email, HTTP Request, Cron.
+  - Define clear objectives.
+  - Design questions tailored to your goals.
+  - Distribute via email, social media, or in-app.
+- **Example:** Input: "Rate your satisfaction with our product." Expected output: Numerical rating.
+- **Automation play (n8n agent):** Automate survey distribution and data collection.
+- **Suggested nodes/tools:** Google Forms, Airtable, Email, Webhook.
 
 ### Prompt: "What are the key elements that should be included in a customer feedback survey to ensure that it is effective and informative?"
-- **What it’s for:** Ensuring comprehensive and actionable survey data.
+- **What it’s for:** Designing an impactful survey.
 - **How to use:** 
-  - Include clear objective questions.
-  - Use a mix of quantitative and qualitative items.
-  - Ensure anonymity and privacy.
-- **Example:** Input: "What features do you find most valuable?" Output: "Feature X is most valued."
-- **Automation play (n8n agent):** Automatically compile responses into a summary report.
-- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request.
+  - Include clear, concise questions.
+  - Use a mix of quantitative and qualitative queries.
+  - Ensure anonymity and confidentiality.
+- **Example:** Input: "How likely are you to recommend us?" Expected output: Net Promoter Score.
+- **Automation play (n8n agent):** Set up a template for future surveys.
+- **Suggested nodes/tools:** Google Sheets, Typeform, Notion.
 
 ### Prompt: "How can I use a customer feedback survey to gather valuable insights and feedback from my [company/organization]'s customers about their experiences and expectations?"
-- **What it’s for:** Understanding customer expectations and experiences.
+- **What it’s for:** Extracting actionable insights.
 - **How to use:** 
-  - Develop targeted questions.
-  - Analyze response patterns.
-  - Identify common themes.
-- **Example:** Input: "What improvements would you like to see?" Output: "Improved customer service."
-- **Automation play (n8n agent):** Send insights to a dashboard for real-time monitoring.
-- **Suggested nodes/tools:** Notion, Google Sheets, Data Studio.
+  - Ask specific experience-related questions.
+  - Include open-ended questions for detailed feedback.
+- **Example:** Input: "Describe your last purchase experience." Expected output: Customer narratives.
+- **Automation play (n8n agent):** Automatically categorize feedback for analysis.
+- **Suggested nodes/tools:** OpenAI for sentiment analysis, Airtable.
 
 ### Prompt: "What are the most effective techniques for designing a customer feedback survey that is easy to understand and complete?"
-- **What it’s for:** Creating user-friendly surveys to maximize response rates.
+- **What it’s for:** Ensuring high response rates.
 - **How to use:** 
   - Use simple language.
   - Limit survey length.
-  - Provide clear instructions.
-- **Example:** Input: "Rate your satisfaction (1-5)." Output: "Clear and concise responses."
-- **Automation play (n8n agent):** Monitor completion rates and adjust survey length dynamically.
-- **Suggested nodes/tools:** Google Forms, Typeform, HTTP Request.
+  - Provide progress indicators.
+- **Example:** Input: "Rate our service quality." Expected output: Quick completion.
+- **Automation play (n8n agent):** Validate question clarity using AI.
+- **Suggested nodes/tools:** OpenAI, Google Forms.
 
 ### Prompt: "How can I use a customer feedback survey to identify areas where my [company/organization] can improve its products, services, and customer experiences?"
-- **What it’s for:** Pinpointing weaknesses and opportunities for improvement.
+- **What it’s for:** Spotting improvement opportunities.
 - **How to use:** 
-  - Collect and categorize feedback.
-  - Prioritize areas based on frequency and impact.
-- **Example:** Input: "What is one thing we could improve?" Output: "Enhance product durability."
-- **Automation play (n8n agent):** Send prioritized improvement suggestions to product teams.
-- **Suggested nodes/tools:** Airtable, Google Sheets, Slack.
+  - Collect feedback on specific products/services.
+  - Analyze trends and common themes.
+- **Example:** Input: "What could we do better?" Expected output: List of improvement areas.
+- **Automation play (n8n agent):** Generate improvement reports.
+- **Suggested nodes/tools:** Google Sheets, Airtable.
 
 ### Prompt: "What are the key metrics and KPIs I should track to measure the effectiveness of my [company/organization]'s customer feedback survey?"
-- **What it’s for:** Evaluating survey impact and effectiveness.
+- **What it’s for:** Evaluating survey performance.
 - **How to use:** 
-  - Track response rate.
-  - Measure Net Promoter Score (NPS).
-  - Analyze completion time.
-- **Example:** Input: "Survey response rate." Output: "80% completion rate."
-- **Automation play (n8n agent):** Generate weekly KPI reports for management.
-- **Suggested nodes/tools:** Google Analytics, Data Studio, Google Sheets.
+  - Monitor response rates.
+  - Assess completion rates.
+  - Track feedback quality.
+- **Example:** Input: Survey analytics. Expected output: Dashboard with KPIs.
+- **Automation play (n8n agent):** Automate KPI tracking and reporting.
+- **Suggested nodes/tools:** Google Analytics, Data Studio, Airtable.
 
 ### Prompt: "What are the best practices for promoting and distributing my [company/organization]'s customer feedback survey to ensure that it reaches a diverse and representative sample of customers?"
-- **What it’s for:** Achieving a broad and diverse survey reach.
+- **What it’s for:** Maximizing survey reach.
 - **How to use:** 
-  - Use multiple channels (email, social media).
-  - Incentivize participation.
-  - Tailor messages to different demographics.
-- **Example:** Input: "Email campaign to past customers." Output: "Increased response diversity."
-- **Automation play (n8n agent):** Schedule and automate survey distribution across channels.
-- **Suggested nodes/tools:** Email, Social Media, HTTP Request, Webhook.
+  - Use multiple channels for distribution.
+  - Personalize survey invitations.
+- **Example:** Input: Email list segmentation. Expected output: Diverse respondent pool.
+- **Automation play (n8n agent):** Schedule and track distribution efforts.
+- **Suggested nodes/tools:** Email, Social Media, Webhook.
 
 ### Prompt: "How can I use a customer feedback survey to measure customer satisfaction and loyalty with my [company/organization]'s products and services?"
-- **What it’s for:** Assessing customer loyalty and satisfaction levels.
+- **What it’s for:** Assessing customer sentiment.
 - **How to use:** 
-  - Include satisfaction scale questions.
-  - Utilize NPS questions.
-- **Example:** Input: "How likely are you to recommend us?" Output: "NPS score of 8."
-- **Automation play (n8n agent):** Calculate and visualize NPS over time for trend analysis.
-- **Suggested nodes/tools:** Google Sheets, Data Studio, HTTP Request.
+  - Include satisfaction and loyalty questions.
+  - Use scales and NPS.
+- **Example:** Input: "How satisfied are you?" Expected output: Satisfaction score.
+- **Automation play (n8n agent):** Aggregate and visualize satisfaction data.
+- **Suggested nodes/tools:** Google Sheets, Data Studio.
+
+### Prompt: "What are the key considerations when using a customer feedback survey to identify and address potential customer churn risks?"
+- **What it’s for:** Reducing customer attrition.
+- **How to use:** 
+  - Focus on dissatisfaction drivers.
+  - Analyze feedback patterns.
+- **Example:** Input: "Why might you stop using our service?" Expected output: Churn risk indicators.
+- **Automation play (n8n agent):** Alert system for high churn risk feedback.
+- **Suggested nodes/tools:** OpenAI, Google Sheets.
+
+### Prompt: "How can I use a customer feedback survey to measure the effectiveness of my [company/organization]'s customer service and support efforts?"
+- **What it’s for:** Evaluating support quality.
+- **How to use:** 
+  - Ask specific service-related questions.
+  - Include rating scales and open feedback.
+- **Example:** Input: "Rate our support response time." Expected output: Service quality metrics.
+- **Automation play (n8n agent):** Generate service performance reports.
+- **Suggested nodes/tools:** Google Forms, Airtable.
+
+### Prompt: "How can I effectively use a customer feedback survey to gather actionable insights and feedback that can inform my [company/organization]'s strategic decision-making processes?"
+- **What it’s for:** Strategic planning.
+- **How to use:** 
+  - Collect detailed feedback on strategic topics.
+  - Analyze feedback for trends.
+- **Example:** Input: "What strategic changes would you suggest?" Expected output: Strategic insights.
+- **Automation play (n8n agent):** Integrate insights into decision-making dashboards.
+- **Suggested nodes/tools:** Airtable, Notion, Google Sheets.
+
+### Prompt: "What are the most effective techniques for using a customer feedback survey to measure and improve my [company/organization]'s brand reputation and customer perceptions?"
+- **What it’s for:** Enhancing brand image.
+- **How to use:** 
+  - Include brand perception questions.
+  - Track changes over time.
+- **Example:** Input: "How do you perceive our brand?" Expected output: Reputation metrics.
+- **Automation play (n8n agent):** Automate perception tracking and reporting.
+- **Suggested nodes/tools:** Google Sheets, Data Studio.
+
+### Prompt: "How can I use a customer feedback survey to identify and address potential issues or challenges with my [company/organization]'s products or services?"
+- **What it’s for:** Problem-solving.
+- **How to use:** 
+  - Solicit detailed product/service feedback.
+  - Prioritize common issues.
+- **Example:** Input: "What issues have you faced?" Expected output: List of challenges.
+- **Automation play (n8n agent):** Automate issue logging and tracking.
+- **Suggested nodes/tools:** Airtable, Google Forms.
+
+### Prompt: "What are the key considerations when using a customer feedback survey to gather feedback and insights about my [company/organization]'s marketing and advertising campaigns?"
+- **What it’s for:** Improving marketing efforts.
+- **How to use:** 
+  - Ask about campaign reach and impact.
+  - Analyze feedback for effectiveness.
+- **Example:** Input: "How did you hear about us?" Expected output: Campaign effectiveness insights.
+- **Automation play (n8n agent):** Automate campaign feedback analysis.
+- **Suggested nodes/tools:** Google Sheets, Notion.
+
+### Prompt: "How can I use a customer feedback survey to measure and optimize my [company/organization]'s customer retention and loyalty strategies?"
+- **What it’s for:** Enhancing retention strategies.
+- **How to use:** 
+  - Include retention and loyalty questions.
+  - Monitor loyalty trends.
+- **Example:** Input: "What keeps you coming back?" Expected output: Retention drivers.
+- **Automation play (n8n agent):** Track retention metrics and optimize strategies.
+- **Suggested nodes/tools:** Airtable, Google Sheets.
 
 ### Prompt: "How can I effectively use a customer feedback survey to foster a culture of customer-centricity and continuous improvement within my [company/organization]?"
-- **What it’s for:** To align company culture with customer needs and promote ongoing improvements.
+- **What it’s for:** To develop a culture that prioritizes customer needs and continuous improvement.
 - **How to use:** 
-  - Regularly distribute surveys.
-  - Share results with all departments.
-  - Implement feedback-driven changes.
-- **Example:** Input: Monthly survey on service satisfaction. Output: Improved service training.
-- **Automation play (n8n agent):** Automate survey distribution and result collection.
-- **Suggested nodes/tools:** Google Forms, Google Sheets, Slack, Email.
+  - Design survey around customer-centric values.
+  - Share results with teams for actionable insights.
+  - Implement feedback loops for ongoing improvement.
+- **Example:** Input: "Survey on customer service experience" → Output: "Monthly team meetings to discuss survey insights and improvements."
+- **Automation play (n8n agent):** Automate survey distribution and data collection.
+- **Suggested nodes/tools:** Google Forms, Airtable, Slack, Email, Cron.
 
 ### Prompt: "What are the best practices for analyzing and interpreting the results of a customer feedback survey to inform strategic decision-making and action planning?"
-- **What it’s for:** To derive actionable insights from survey data.
+- **What it’s for:** To guide strategic decisions using survey data.
 - **How to use:** 
-  - Use statistical tools for data analysis.
-  - Identify key trends and patterns.
-  - Develop action plans based on insights.
-- **Example:** Input: Survey data analysis. Output: Strategic initiatives.
-- **Automation play (n8n agent):** Automate data analysis and reporting.
-- **Suggested nodes/tools:** Google Sheets, Python Script, Power BI, Email.
+  - Aggregate data for trends and patterns.
+  - Use visualization tools for clarity.
+  - Align insights with strategic goals.
+- **Example:** Input: "Survey data on product features" → Output: "Heatmap of feature preferences."
+- **Automation play (n8n agent):** Automate data visualization and report generation.
+- **Suggested nodes/tools:** Google Sheets, Data Studio, Tableau, OpenAI.
 
 ### Prompt: "How can I use a customer feedback survey to identify and prioritize areas for improvement or investment in my [company/organization]'s products, services, and customer experiences?"
-- **What it’s for:** To focus resources on high-impact improvements.
+- **What it’s for:** To pinpoint and prioritize improvement areas.
 - **How to use:** 
-  - Analyze feedback for common issues.
-  - Prioritize based on impact and feasibility.
-- **Example:** Input: Feature dissatisfaction data. Output: Product upgrade plan.
-- **Automation play (n8n agent):** Automate prioritization and task assignment.
-- **Suggested nodes/tools:** Airtable, Trello, Google Sheets, Slack.
+  - Use surveys to rank product/service features.
+  - Map feedback to potential investment areas.
+- **Example:** Input: "Survey on feature satisfaction" → Output: "Priority list for development team."
+- **Automation play (n8n agent):** Automate feedback categorization and prioritization.
+- **Suggested nodes/tools:** Airtable, Trello, Google Sheets, HTTP Request.
 
 ### Prompt: "What are the key considerations when using a customer feedback survey to benchmark and compare my [company/organization]'s performance against industry competitors and best practices?"
-- **What it’s for:** To gauge competitive standing and adopt best practices.
+- **What it’s for:** To compare company performance with industry standards.
 - **How to use:** 
-  - Collect industry-specific feedback.
-  - Analyze against competitor data.
-- **Example:** Input: Industry benchmark survey. Output: Competitive analysis report.
-- **Automation play (n8n agent):** Automate competitor data collection.
-- **Suggested nodes/tools:** Web Scraper, Google Sheets, Email.
+  - Include benchmarking questions in surveys.
+  - Analyze against industry data.
+- **Example:** Input: "Survey on customer satisfaction" → Output: "Benchmark report with industry averages."
+- **Automation play (n8n agent):** Automate benchmarking analysis and report distribution.
+- **Suggested nodes/tools:** Google Sheets, HTTP Request, Email, Notion.
 
 ### Prompt: "How can I use a customer feedback survey to validate and test hypotheses about customer preferences, behaviors, and needs?"
-- **What it’s for:** To confirm assumptions about customer behavior.
+- **What it’s for:** To test and validate customer-related hypotheses.
 - **How to use:** 
-  - Design surveys around specific hypotheses.
-  - Analyze responses for validation.
-- **Example:** Input: Hypothesis on feature use. Output: Validated customer preference.
-- **Automation play (n8n agent):** Automate hypothesis testing process.
-- **Suggested nodes/tools:** Typeform, Google Sheets, Python Script.
+  - Design surveys to test specific hypotheses.
+  - Analyze results for validation.
+- **Example:** Input: "Hypothesis: Customers prefer online chat" → Output: "Survey results confirm preference for online chat."
+- **Automation play (n8n agent):** Automate hypothesis testing workflow.
+- **Suggested nodes/tools:** OpenAI, Google Forms, Airtable, HTTP Request.
 
 ### Prompt: "What are the most effective techniques for using a customer feedback survey to gather feedback and insights that can inform marketing, sales, and business development strategies?"
-- **What it’s for:** To tailor strategies to customer insights.
+- **What it’s for:** To refine marketing, sales, and business strategies.
 - **How to use:** 
-  - Segment feedback by customer type.
-  - Align strategies with gathered insights.
-- **Example:** Input: Segment-specific feedback. Output: Targeted marketing campaign.
-- **Automation play (n8n agent):** Automate feedback segmentation and strategy updates.
-- **Suggested nodes/tools:** HubSpot, Google Sheets, Salesforce.
+  - Target surveys at customer experience touchpoints.
+  - Use feedback to adjust strategies.
+- **Example:** Input: "Survey on marketing effectiveness" → Output: "Adjust campaign based on feedback."
+- **Automation play (n8n agent):** Automate collection and categorization of feedback.
+- **Suggested nodes/tools:** Google Forms, Airtable, Webhook, Slack.
 
 ### Prompt: "How can I use a customer feedback survey to measure and improve the effectiveness of my [company/organization]'s customer loyalty and referral programs?"
-- **What it’s for:** To enhance loyalty and referral efforts.
+- **What it’s for:** To enhance loyalty and referral initiatives.
 - **How to use:** 
-  - Collect feedback on program satisfaction.
-  - Adjust programs based on feedback.
-- **Example:** Input: Loyalty program feedback. Output: Enhanced referral incentives.
-- **Automation play (n8n agent):** Automate feedback collection and program updates.
-- **Suggested nodes/tools:** Airtable, Mailchimp, Google Sheets.
+  - Survey participants of loyalty programs.
+  - Analyze feedback for program improvements.
+- **Example:** Input: "Survey on referral program satisfaction" → Output: "Enhance rewards based on feedback."
+- **Automation play (n8n agent):** Automate feedback collection and analysis.
+- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, Email.
 
 ### Prompt: "What are the key considerations when using a customer feedback survey to gather feedback and insights about my [company/organization]'s customer engagement and communication strategies?"
-- **What it’s for:** To improve customer communication strategies.
+- **What it’s for:** To refine engagement and communication strategies.
 - **How to use:** 
-  - Focus surveys on engagement quality.
-  - Analyze feedback for communication gaps.
-- **Example:** Input: Communication strategy survey. Output: Improved engagement plan.
-- **Automation play (n8n agent):** Automate feedback loop for engagement strategy.
-- **Suggested nodes/tools:** Slack, Google Sheets, Email.
+  - Focus surveys on engagement touchpoints.
+  - Use insights to adjust communication methods.
+- **Example:** Input: "Survey on communication preferences" → Output: "Shift to more digital communication."
+- **Automation play (n8n agent):** Automate survey distribution and feedback analysis.
+- **Suggested nodes/tools:** Google Forms, Airtable, Slack, Webhook.
 
 ### Prompt: "How can I use a customer feedback survey to identify and address potential issues or opportunities with my [company/organization]'s website and digital presence?"
-- **What it’s for:** To enhance digital user experience.
+- **What it’s for:** To improve digital presence through customer insights.
 - **How to use:** 
-  - Collect feedback on website usability.
-  - Implement changes based on insights.
-- **Example:** Input: Website usability survey. Output: Improved site navigation.
-- **Automation play (n8n agent):** Automate usability feedback collection and action items.
-- **Suggested nodes/tools:** Google Forms, Trello, Webhook.
+  - Survey users about website experience.
+  - Identify and implement digital improvements.
+- **Example:** Input: "Survey on website usability" → Output: "Redesign navigation based on feedback."
+- **Automation play (n8n agent):** Automate feedback integration into web development processes.
+- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, Cron.
 
 ### Prompt: "What are the most effective techniques for using a customer feedback survey to gather feedback and insights about my [company/organization]'s customer expectations and preferences?"
 - **What it’s for:** To align offerings with customer expectations.
 - **How to use:** 
-  - Design surveys to capture expectation gaps.
-  - Adjust offerings to meet preferences.
-- **Example:** Input: Expectation feedback. Output: Adjusted service offerings.
-- **Automation play (n8n agent):** Automate expectation feedback loop.
-- **Suggested nodes/tools:** Typeform, Airtable, Google Sheets.
+  - Craft surveys to uncover expectations.
+  - Adjust offerings based on insights.
+- **Example:** Input: "Survey on product expectations" → Output: "Adjust features based on feedback."
+- **Automation play (n8n agent):** Automate data collection and integration into product development.
+- **Suggested nodes/tools:** Google Forms, Airtable, Slack, HTTP Request.
 
 ### Prompt: "How can I use a customer feedback survey to measure and optimize the impact of my [company/organization]'s customer education and thought leadership initiatives?"
 - **What it’s for:** To assess and enhance educational efforts.
 - **How to use:** 
-  - Gather feedback on educational content.
-  - Optimize based on feedback.
-- **Example:** Input: Content feedback survey. Output: Improved educational materials.
-- **Automation play (n8n agent):** Automate feedback collection and content updates.
-- **Suggested nodes/tools:** Google Forms, Notion, Email.
+  - Survey participants of educational programs.
+  - Use feedback to refine content and delivery.
+- **Example:** Input: "Survey on webinar usefulness" → Output: "Enhance content based on feedback."
+- **Automation play (n8n agent):** Automate survey distribution and feedback analysis.
+- **Suggested nodes/tools:** Google Sheets, Airtable, Slack, Webhook.
 
 ### Prompt: "What are the best practices for using a customer feedback survey to measure and improve the effectiveness of my [company/organization]'s omnichannel customer experiences?"
-- **What it’s for:** To ensure seamless customer interactions across channels.
+- **What it’s for:** To optimize omnichannel customer interactions.
 - **How to use:** 
   - Survey across all channels.
-  - Use insights to improve channel integration.
-- **Example:** Input: Omnichannel experience survey. Output: Enhanced integration plan.
-- **Automation play (n8n agent):** Automate omnichannel feedback collection and analysis.
-- **Suggested nodes/tools:** HubSpot, Google Sheets, Slack.
+  - Use insights to unify and improve experiences.
+- **Example:** Input: "Survey on omnichannel satisfaction" → Output: "Improve integration of online and offline channels."
+- **Automation play (n8n agent):** Automate feedback integration into omnichannel strategy.
+- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, Cron.
 
 ### Prompt: "How can I use a customer feedback survey to identify and address potential issues or opportunities with my [company/organization]'s supply chain and logistics processes?"
-- **What it’s for:** To optimize supply chain operations.
+- **What it’s for:** To enhance supply chain and logistics through customer insights.
 - **How to use:** 
-  - Collect feedback from key stakeholders.
-  - Implement process improvements.
-- **Example:** Input: Logistics feedback survey. Output: Streamlined supply chain.
-- **Automation play (n8n agent):** Automate supply chain feedback loop.
-- **Suggested nodes/tools:** Airtable, Google Sheets, Email.
+  - Survey customers on delivery experiences.
+  - Address logistics issues highlighted in feedback.
+- **Example:** Input: "Survey on delivery satisfaction" → Output: "Improve delivery speed based on feedback."
+- **Automation play (n8n agent):** Automate feedback collection and logistics adjustments.
+- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, Cron.
 
 ### Prompt: "What are the key considerations when using a customer feedback survey to measure and improve the effectiveness of my [company/organization]'s customer onboarding and adoption processes?"
-- **What it’s for:** To enhance onboarding experiences.
+- **What it’s for:** To refine onboarding and adoption experiences.
 - **How to use:** 
-  - Gather feedback from new customers.
-  - Adjust onboarding processes accordingly.
-- **Example:** Input: Onboarding feedback survey. Output: Improved adoption rate.
-- **Automation play (n8n agent):** Automate onboarding feedback collection.
-- **Suggested nodes/tools:** Typeform, Trello, Slack.
+  - Survey new customers on onboarding experience.
+  - Use feedback to enhance onboarding processes.
+- **Example:** Input: "Survey on onboarding satisfaction" → Output: "Improve onboarding materials based on feedback."
+- **Automation play (n8n agent):** Automate feedback collection and process refinement.
+- **Suggested nodes/tools:** Google Sheets, Airtable, Slack, Webhook.
 
 ### Prompt: "How can I use a customer feedback survey to measure and optimize the effectiveness of my [company/organization]'s customer upselling and cross-selling strategies?"
-- **What it’s for:** To boost upselling and cross-selling success.
+- **What it’s for:** To enhance upselling and cross-selling tactics.
 - **How to use:** 
-  - Collect customer insights on additional offers.
-  - Refine strategies based on feedback.
-- **Example:** Input: Upsell strategy survey. Output: Enhanced cross-sell approach.
-- **Automation play (n8n agent):** Automate upsell feedback loop.
-- **Suggested nodes/tools:** HubSpot, Google Sheets, Email.
+  - Survey customers on sales interactions.
+  - Use insights to refine strategies.
+- **Example:** Input: "Survey on upselling experience" → Output: "Adjust approach based on feedback."
+- **Automation play (n8n agent):** Automate feedback integration into sales strategy.
+- **Suggested nodes/tools:** Google Forms, Airtable, HTTP Request, Slack.
 
 ### Prompt: "What are the most effective techniques for using a customer feedback survey to gather feedback and insights about my [company/organization]'s brand positioning and messaging?"
-- **What it’s for:** To refine brand image and communication.
+- **What it’s for:** To refine brand messaging through customer insights.
 - **How to use:** 
-  - Survey for brand perception.
-  - Align messaging with customer insights.
-- **Example:** Input: Brand perception survey. Output: Adjusted brand messaging.
-- **Automation play (n8n agent):** Automate brand feedback collection.
-- **Suggested nodes/tools:** Typeform, Notion, Slack.
+  - Survey on brand perception.
+  - Use feedback to adjust brand messaging.
+- **Example:** Input: "Survey on brand message clarity" → Output: "Revise messaging based on feedback."
+- **Automation play (n8n agent):** Automate survey distribution and feedback analysis.
+- **Suggested nodes/tools:** Google Forms, Airtable, Slack, Webhook.
 
 ### Prompt: "How can I use a customer feedback survey to identify and address potential issues or opportunities with my [company/organization]'s customer segmentation and targeting strategies?"
-- **What it’s for:** To refine segmentation and targeting efforts.
+- **What it’s for:** To refine segmentation and targeting strategies.
 - **How to use:** 
-  - Analyze feedback for segmentation gaps.
-  - Adjust targeting strategies.
-- **Example:** Input: Segmentation feedback survey. Output: Optimized targeting plan.
-- **Automation play (n8n agent):** Automate segmentation feedback loop.
-- **Suggested nodes/tools:** Google Sheets, Airtable, Email.
+  - Survey different customer segments.
+  - Use insights to adjust targeting strategies.
+- **Example:** Input: "Survey on segment satisfaction" → Output: "Refine targeting based on feedback."
+- **Automation play (n8n agent):** Automate feedback integration into marketing strategies.
+- **Suggested nodes/tools:** Google Forms, Airtable, HTTP Request, Slack.
 
 ### Prompt: "What are the key considerations when using a customer feedback survey to measure and improve the effectiveness of my [company/organization]'s customer retention and churn management strategies?"
-- **What it’s for:** To reduce churn and enhance retention.
+- **What it’s for:** To enhance retention and reduce churn.
 - **How to use:** 
-  - Collect feedback on retention strategies.
-  - Implement changes to reduce churn.
-- **Example:** Input: Retention strategy survey. Output: Improved churn rate.
-- **Automation play (n8n agent):** Automate retention feedback collection.
-- **Suggested nodes/tools:** HubSpot, Google Sheets, Slack.
+  - Survey customers on retention factors.
+  - Use feedback to refine churn strategies.
+- **Example:** Input: "Survey on retention drivers" → Output: "Improve retention programs based on feedback."
+- **Automation play (n8n agent):** Automate feedback collection and strategy refinement.
+- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, Cron.
 
 ### Prompt: "How can I use a customer feedback survey to gather feedback and insights about my [company/organization]'s competitive positioning and differentiation?"
-- **What it’s for:** To understand and enhance competitive edge.
+- **What it’s for:** To enhance competitive positioning.
 - **How to use:** 
-  - Survey for differentiation insights.
-  - Refine positioning strategies.
-- **Example:** Input: Competitive positioning survey. Output: Enhanced differentiation plan.
-- **Automation play (n8n agent):** Automate competitive feedback analysis.
-- **Suggested nodes/tools:** Google Sheets, Notion, Email.
+  - Survey on competitive perception.
+  - Use insights to refine differentiation strategies.
+- **Example:** Input: "Survey on competitive advantage" → Output: "Adjust positioning based on feedback."
+- **Automation play (n8n agent):** Automate feedback analysis and strategy adjustment.
+- **Suggested nodes/tools:** Google Forms, Airtable, HTTP Request, Slack.
 
 ### Prompt: "What are the most effective techniques for using a customer feedback survey to identify and prioritize key areas for innovation and differentiation within my [company/organization]?"
-- **What it’s for:** To drive innovation and stand out in the market.
+- **What it’s for:** To drive innovation and differentiation.
 - **How to use:** 
-  - Gather feedback on innovation opportunities.
-  - Prioritize based on potential impact.
-- **Example:** Input: Innovation feedback survey. Output: Prioritized innovation roadmap.
-- **Automation play (n8n agent):** Automate innovation feedback loop.
-- **Suggested nodes/tools:** Airtable, Trello, Slack.
+  - Survey on innovation opportunities.
+  - Prioritize based on customer feedback.
+- **Example:** Input: "Survey on innovation needs" → Output: "Focus on top feedback for development."
+- **Automation play (n8n agent):** Automate feedback prioritization and integration into R&D.
+- **Suggested nodes/tools:** Google Forms, Airtable, Trello, HTTP Request.
 
 ### Prompt: "How can I use a customer feedback survey to measure and optimize the return on investment (ROI) of my [company/organization]'s customer experience and customer satisfaction initiatives?"
-- **What it’s for:** To evaluate and enhance CX and satisfaction ROI.
+- **What it’s for:** To optimize ROI of customer initiatives.
 - **How to use:** 
-  - Collect feedback on satisfaction initiatives.
-  - Analyze for ROI improvements.
-- **Example:** Input: CX initiative feedback. Output: Optimized satisfaction strategy.
-- **Automation play (n8n agent):** Automate ROI feedback collection and analysis.
-- **Suggested nodes/tools:** Google Sheets, Power BI, Email.
+  - Link survey feedback to financial metrics.
+  - Use insights to adjust initiatives.
+- **Example:** Input: "Survey on satisfaction ROI" → Output: "Adjust initiatives based on ROI feedback."
+- **Automation play (n8n agent):** Automate the linking of survey data to financial analysis.
+- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request, Google Analytics.

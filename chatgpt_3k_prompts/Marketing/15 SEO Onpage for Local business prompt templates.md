@@ -14,145 +14,113 @@
 *(Generated in batches below.)*
 
 ### Prompt: "15 SEO Onpage for Local business prompt templates"
-- **What it’s for:** To guide local businesses in optimizing their SEO on-page elements.
-- **How to use:** 
-  - Identify your business type.
-  - Apply each template to relevant pages.
-- **Example:** "Dentist in NYC: Optimize title tags, headers, and schema."
-- **Automation play (n8n agent):** Integrate with a task manager to schedule regular SEO updates.
-- **Suggested nodes/tools:** Google Sheets, Airtable, Webhook.
+- **What it’s for:** Comprehensive guide for optimizing local business websites for search engines.
+- **How to use:** Use each prompt for targeted SEO tasks.
+- **Example:** Optimize keywords, tags, and content for a local bakery.
+- **Automation play (n8n agent):** Create workflows that trigger SEO tasks based on schedule.
+- **Suggested nodes/tools:** Cron, Google Sheets, HTTP Request, Webhook.
 
 ### Prompt: "Best local keyword optimization for [business type]."
-- **What it’s for:** Enhance local search visibility by optimizing keywords.
-- **How to use:** 
-  - Insert business type.
-  - Research and apply local keywords.
-- **Example:** "Restaurant: Use 'best Italian restaurant in Brooklyn'."
-- **Automation play (n8n agent):** Automate keyword tracking and updates.
+- **What it’s for:** Identifying and optimizing local keywords for better search ranking.
+- **How to use:** Input business type and location.
+- **Example:** Bakery in New York → Keywords: "New York bakery, fresh bread NYC."
+- **Automation play (n8n agent):** Automate keyword research and updates.
 - **Suggested nodes/tools:** Google Sheets, OpenAI, HTTP Request.
 
 ### Prompt: "Best title tag for [location]-based keywords for [business type]."
-- **What it’s for:** Create effective title tags for local SEO.
-- **How to use:** 
-  - Replace placeholders with location and business type.
-  - Use suggested format.
-- **Example:** "NYC Dentist: Affordable Dental Care in NYC."
-- **Automation play (n8n agent):** Regularly update title tags via CMS integration.
-- **Suggested nodes/tools:** Notion, Webhook, Cron.
+- **What it’s for:** Crafting effective title tags for local SEO.
+- **How to use:** Input location and business type.
+- **Example:** "Best Bakery in New York | Fresh Bread Daily."
+- **Automation play (n8n agent):** Generate and update title tags automatically.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Airtable.
 
 ### Prompt: "Best meta description for [location]-based keywords for [business type]."
-- **What it’s for:** Craft compelling meta descriptions to improve CTR.
-- **How to use:** 
-  - Customize with location and business type.
-  - Keep under 160 characters.
-- **Example:** "Enjoy top-rated dental services in NYC. Book now!"
-- **Automation play (n8n agent):** Automate updates in CMS for meta descriptions.
-- **Suggested nodes/tools:** Notion, Webhook, Cron.
+- **What it’s for:** Creating compelling meta descriptions for local search results.
+- **How to use:** Input location and business type.
+- **Example:** "Discover the finest bakery in New York with fresh, daily-baked goods."
+- **Automation play (n8n agent):** Schedule updates for meta descriptions.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, HTTP Request.
 
 ### Prompt: "Best header tags optimization for [location]-based keywords for [business type]."
-- **What it’s for:** Improve page structure and relevancy for local SEO.
-- **How to use:** 
-  - Use H1 for primary keyword.
-  - Subheadings (H2, H3) for related terms.
-- **Example:** "H1: Best Dentist in NYC | H2: Affordable Dental Care"
-- **Automation play (n8n agent):** Schedule periodic audits of header tags.
-- **Suggested nodes/tools:** Google Sheets, Webhook.
+- **What it’s for:** Structuring headers for improved local SEO.
+- **How to use:** Input location and business type.
+- **Example:** H1: "New York Bakery"; H2: "Best Fresh Bread in NYC."
+- **Automation play (n8n agent):** Automate header tag updates.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Airtable.
 
 ### Prompt: "Best content optimization strategy for [location]-based keywords for [business type]."
-- **What it’s for:** Enhance content to rank better locally.
-- **How to use:** 
-  - Integrate local keywords naturally.
-  - Focus on local relevance.
-- **Example:** "Discuss local events in blog posts."
-- **Automation play (n8n agent):** Automate content updates and keyword insertion.
-- **Suggested nodes/tools:** OpenAI, Webhook.
+- **What it’s for:** Enhancing content relevance for local searches.
+- **How to use:** Input location and business type.
+- **Example:** Include local landmarks and events in content.
+- **Automation play (n8n agent):** Automate content audits and updates.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, HTTP Request.
 
 ### Prompt: "Best image optimization strategy for [location]-based keywords for [business type]."
-- **What it’s for:** Ensure images contribute to SEO efforts.
-- **How to use:** 
-  - Use descriptive filenames.
-  - Include alt text with local keywords.
-- **Example:** "Filename: nyc-dentist-office.jpg | Alt: 'NYC Dentist Office'"
-- **Automation play (n8n agent):** Automate image optimization tasks.
-- **Suggested nodes/tools:** HTTP Request, Webhook.
+- **What it’s for:** Optimizing images for local search engine visibility.
+- **How to use:** Input location and business type.
+- **Example:** Use alt text like "New York bakery bread."
+- **Automation play (n8n agent):** Schedule image optimization tasks.
+- **Suggested nodes/tools:** Google Sheets, Airtable, HTTP Request.
 
 ### Prompt: "Best schema markup strategy for [location]-based keywords for [business type]."
-- **What it’s for:** Enhance search engine understanding of your page.
-- **How to use:** 
-  - Implement local business schema.
-  - Include location and business details.
-- **Example:** "Use JSON-LD for local business schema."
-- **Automation play (n8n agent):** Regularly update schema markup.
-- **Suggested nodes/tools:** HTTP Request, Webhook.
+- **What it’s for:** Implementing schema markup to enhance local SEO.
+- **How to use:** Input location and business type.
+- **Example:** Add local business schema to bakery website.
+- **Automation play (n8n agent):** Automate schema updates.
+- **Suggested nodes/tools:** HTTP Request, Google Sheets, Airtable.
 
 ### Prompt: "Best internal linking strategy for [location]-based keywords for [business type]."
-- **What it’s for:** Improve site navigation and SEO through internal links.
-- **How to use:** 
-  - Link to relevant local content.
-  - Use descriptive anchor text.
-- **Example:** "Link 'NYC Dental Services' to service page."
-- **Automation play (n8n agent):** Automate link audits and updates.
-- **Suggested nodes/tools:** Webhook, Cron.
+- **What it’s for:** Improving site structure with internal links for local SEO.
+- **How to use:** Input location and business type.
+- **Example:** Link "New York bakery" to related pages.
+- **Automation play (n8n agent):** Automate internal link audits.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Airtable.
 
 ### Prompt: "Best mobile optimization strategy for [location]-based keywords for [business type]."
-- **What it’s for:** Ensure your site is mobile-friendly for local users.
-- **How to use:** 
-  - Test mobile responsiveness.
-  - Optimize load times.
-- **Example:** "Use responsive design for all pages."
-- **Automation play (n8n agent):** Monitor mobile performance metrics.
-- **Suggested nodes/tools:** HTTP Request, Cron.
+- **What it’s for:** Enhancing mobile site performance for local searches.
+- **How to use:** Input location and business type.
+- **Example:** Ensure mobile site loads quickly and is user-friendly.
+- **Automation play (n8n agent):** Trigger mobile optimization checks regularly.
+- **Suggested nodes/tools:** HTTP Request, Google Sheets, Airtable.
 
 ### Prompt: "Best website speed optimization strategy for [location]-based keywords for [business type]."
-- **What it’s for:** Improve site speed to enhance user experience and SEO.
-- **How to use:** 
-  - Minimize image sizes.
-  - Use a content delivery network (CDN).
-- **Example:** "Compress images to reduce load time."
-- **Automation play (n8n agent):** Automate speed tests and optimizations.
-- **Suggested nodes/tools:** HTTP Request, Cron.
+- **What it’s for:** Improving website load times for better local SEO.
+- **How to use:** Input location and business type.
+- **Example:** Minimize large images and enable caching.
+- **Automation play (n8n agent):** Schedule regular speed tests.
+- **Suggested nodes/tools:** HTTP Request, Google Sheets, Cron.
 
 ### Prompt: "Best navigation optimization strategy for [location]-based keywords for [business type]."
-- **What it’s for:** Enhance user experience with intuitive navigation.
-- **How to use:** 
-  - Simplify menu structure.
-  - Use descriptive labels.
-- **Example:** "Use 'Services' instead of 'What We Do'."
-- **Automation play (n8n agent):** Regularly audit navigation elements.
-- **Suggested nodes/tools:** Webhook, Cron.
+- **What it’s for:** Enhancing site navigation for local users.
+- **How to use:** Input location and business type.
+- **Example:** Clear links to "New York bakery menu."
+- **Automation play (n8n agent):** Automate navigation structure updates.
+- **Suggested nodes/tools:** Airtable, Google Sheets, HTTP Request.
 
 ### Prompt: "Best website design strategy for [location]-based keywords for [business type]."
-- **What it’s for:** Create a user-friendly design that supports local SEO.
-- **How to use:** 
-  - Use clean, professional design.
-  - Highlight local elements.
-- **Example:** "Include local landmarks in design."
-- **Automation play (n8n agent):** Schedule design reviews and updates.
-- **Suggested nodes/tools:** Webhook, Airtable.
+- **What it’s for:** Tailoring website design for local appeal.
+- **How to use:** Input location and business type.
+- **Example:** Use local imagery and colors in design.
+- **Automation play (n8n agent):** Automate design audits and updates.
+- **Suggested nodes/tools:** Airtable, Google Sheets, HTTP Request.
 
 ### Prompt: "Best call-to-action strategy for [location]-based keywords for [business type]."
-- **What it’s for:** Encourage user actions with effective CTAs.
-- **How to use:** 
-  - Use action-oriented language.
-  - Include local keywords.
-- **Example:** "Call Now for NYC Dental Appointments!"
-- **Automation play (n8n agent):** Automate CTA testing and updates.
-- **Suggested nodes/tools:** Google Sheets, Webhook.
+- **What it’s for:** Creating effective CTAs for local engagement.
+- **How to use:** Input location and business type.
+- **Example:** "Visit our New York bakery today!"
+- **Automation play (n8n agent):** Schedule CTA updates.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Airtable.
 
 ### Prompt: "Best landing page optimization strategy for [location]-based keywords for [business type]."
-- **What it’s for:** Enhance landing pages to convert local traffic.
-- **How to use:** 
-  - Focus on local benefits.
-  - Use testimonials and local proof.
-- **Example:** "Feature NYC customer reviews prominently."
-- **Automation play (n8n agent):** Automate landing page testing and updates.
-- **Suggested nodes/tools:** Webhook, Airtable.
+- **What it’s for:** Optimizing landing pages for local conversions.
+- **How to use:** Input location and business type.
+- **Example:** Highlight local offers on landing page.
+- **Automation play (n8n agent):** Automate landing page audits.
+- **Suggested nodes/tools:** HTTP Request, Google Sheets, Airtable.
 
 ### Prompt: "Best blog optimization strategy for [location]-based keywords for [business type]."
-- **What it’s for:** Optimize blog content for local SEO.
-- **How to use:** 
-  - Write about local events and news.
-  - Use local keywords naturally.
-- **Example:** "Blog about 'Top 5 NYC Dental Tips'."
-- **Automation play (n8n agent):** Automate blog post scheduling and updates.
-- **Suggested nodes/tools:** OpenAI, Airtable.
+- **What it’s for:** Enhancing blog content for local SEO.
+- **How to use:** Input location and business type.
+- **Example:** Write blog posts about local events.
+- **Automation play (n8n agent):** Automate blog content updates.
+- **Suggested nodes/tools:** OpenAI, Google Sheets, Airtable.
