@@ -6,7 +6,7 @@ const {
     getCoursePage
 } = require('../controllers/courseController');
 
-router.get('/', protect, getCourseIndexPage);
-router.get('/:slug', protect, getCoursePage);
+router.get('/', protect, getCourseIndexPage('course', 'The N8N Automation Course'));
+router.get('/:slug', protect, getCoursePage('course'));
 
 module.exports = router;

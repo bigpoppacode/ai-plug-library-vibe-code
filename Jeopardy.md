@@ -1,3 +1,69 @@
+# Jeopardy Expansion
+
+## Prompting
+| Prompting |
+| :--- |
+| **100** – This is the core structure of a well-written prompt (Role, Goal, Context, Constraints, Output). |
+| **200** – The INVEST framework is used for writing this kind of requirements artifact that maps well into prompts. |
+| **300** – This is the difference between zero-shot and few-shot prompting. |
+| **400** – This is why you include clarifying instructions like *“If unsure, respond with ‘I don’t know’.”* in a prompt. |
+
+**Answers**
+- 100 – What is the Prompt Scaffold?  
+- 200 – What are User Stories?  
+- 300 – Zero-shot gives no examples; few-shot provides sample inputs/outputs.  
+- 400 – To mitigate hallucinations and force honesty.  
+
+---
+
+## n8n (Advanced)
+| n8n Advanced |
+| :--- |
+| **100** – This node is used to execute custom JavaScript on each item in an n8n workflow. |
+| **200** – This n8n feature allows you to version and deploy workflows as code. |
+| **300** – The difference between Merge “append” and Merge “multiplex.” |
+| **400** – This node is often paired with Webhook to respond dynamically with enriched data. |
+
+**Answers**
+- 100 – What is the Function Item node?  
+- 200 – What is n8n CLI with workflow JSON?  
+- 300 – Append concatenates items; multiplex pairs them index-wise.  
+- 400 – What is the Respond to Webhook node?  
+
+---
+
+## AI Content Creation
+| AI Content Creation |
+| :--- |
+| **100** – This OpenAI model is often used to draft social captions and ad copy. |
+| **200** – This workflow step turns long-form scripts into voiceovers using AI. |
+| **300** – This tool automatically clips long videos into multiple Shorts. |
+| **400** – This is the principle behind “Create once, repurpose everywhere.” |
+
+**Answers**
+- 100 – What is GPT-4/GPT-5?  
+- 200 – What is ElevenLabs?  
+- 300 – What is Opus Clip?  
+- 400 – What is the AI Content Engine?  
+
+---
+
+## Vibe Coding
+| Vibe Coding |
+| :--- |
+| **100** – This is the high-level philosophy of vibe coding. |
+| **200** – This naming convention keeps frontend styles consistent. |
+| **300** – This lesson teaches you how to map features into Models, Views, Controllers, and Routes. |
+| **400** – This checklist step ensures secrets and API keys aren’t exposed. |
+
+**Answers**
+- 100 – What is design first, instruct AI, review, refine, test?  
+- 200 – What is BEM (Block Element Modifier)?  
+- 300 – What is the MVC pattern?  
+- 400 – What is the Pre-Commit Checklist?  
+
+---
+
 # The AI Plug Library n8n Automation Jeopardy Quiz
 
 Test your knowledge of the n8n automations in this repository.

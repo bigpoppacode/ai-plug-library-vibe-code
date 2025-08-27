@@ -188,6 +188,9 @@ module.exports = {
         const content = fs.readFileSync(jeopardyPath, 'utf8');
         res.render('study', { title: 'Study Guide', content: marked(content) });
     },
+    getCoursesPage: (req, res) => {
+        res.render('courses', { title: 'Courses' });
+    },
     getWorkflowsPage,
     getWorkflowDetailsPage,
     downloadWorkflow

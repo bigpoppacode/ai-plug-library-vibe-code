@@ -10,6 +10,9 @@ const authRoutes = require('./routes/authRoutes');
 const pageRoutes = require('./routes/pageRoutes');
 const courseRoutes = require('./routes/courseRoutes');
 const promptRoutes = require('./routes/promptRoutes'); // New prompt routes
+const promptsCourseRoutes = require('./routes/promptsCourseRoutes');
+const aiCreatorCourseRoutes = require('./routes/aiCreatorCourseRoutes');
+const vibeCodingCourseRoutes = require('./routes/vibeCodingCourseRoutes');
 
 // Middleware Imports
 const { checkUser } = require('./middleware/authMiddleware');
@@ -42,6 +45,9 @@ mongoose.connect(process.env.MONGO_URI, {
 app.use('/auth', authRoutes);
 app.use('/course', courseRoutes);
 app.use('/prompts', promptRoutes); // Mount prompt routes
+app.use('/prompts-course', promptsCourseRoutes);
+app.use('/ai-creator-course', aiCreatorCourseRoutes);
+app.use('/vibe-coding-course', vibeCodingCourseRoutes);
 app.use('/', pageRoutes);
 
 
