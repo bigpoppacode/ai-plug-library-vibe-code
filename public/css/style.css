@@ -943,3 +943,103 @@ Responsive Design
     margin-top: 0.5rem;
     text-align: left;
 }
+
+.text-gold {
+    color: var(--gold-color);
+}
+
+/* ---
+Resource Cards
+--- */
+.resource-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.resource-card {
+    background: var(--white);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.resource-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+}
+
+.resource-card h3 {
+    margin-top: 0;
+    font-size: 1.25rem;
+    color: var(--thug-color);
+}
+
+.resource-card p {
+    color: #555;
+    flex-grow: 1;
+    margin-bottom: 1.5rem;
+}
+
+.resource-card .btn {
+    align-self: flex-start;
+}
+
+/* ---
+Playbook Page
+--- */
+.playbook-section {
+    margin-bottom: 3rem;
+}
+
+.playbook-content {
+    background: #f9f9f9;
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+}
+
+/* ---
+Support Section
+--- */
+.support-section {
+    background: var(--thug-color);
+    color: var(--white);
+    padding: 2rem;
+    border-radius: 12px;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.support-section h2 {
+    color: var(--gold-color);
+    margin-top: 0;
+    border-bottom: none;
+}
+
+.support-section p {
+    font-size: 1.25rem;
+    margin: 0;
+}
+
+/* ---
+Value Proposition Section
+--- */
+.value-prop-section {
+    background: var(--tertiary-color);
+    color: var(--light-text);
+    padding: 2rem;
+    border-radius: 12px;
+    margin-top: 2rem;
+    border: 1px solid var(--gold-color);
+}
+
+.value-prop-section h3 {
+    color: var(--gold-color);
+    margin-top: 0;
+}

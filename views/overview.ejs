@@ -38,6 +38,21 @@
             <p>After you've mastered automation, this library is your arsenal for AI-powered communication. Browse by category, find a prompt that solves a specific business problem, and deploy it. This is how you save time and create value with AI.</p>
             <a href="/prompts" class="btn btn-secondary">Browse Prompts</a>
         </div>
+
+        <div class="hub-section">
+            <h2>5. Execute & Scale: The Playbooks</h2>
+            <p><strong>Purpose:</strong> To provide step-by-step guides for executing complex workflows and business strategies.</p>
+            <p>These playbooks are your roadmaps to success. They combine prompts, workflows, and strategies into a cohesive plan. Use them to build powerful content engines, develop full-stack applications, and scale your operations.</p>
+            <div class="resource-grid">
+                <% playbooks.forEach(playbook => { %>
+                    <div class="resource-card">
+                        <h3><%= playbook.title %></h3>
+                        <p><%= playbook.description %></p>
+                        <a href="/playbooks" class="btn btn-secondary">Open Playbook</a>
+                    </div>
+                <% }) %>
+            </div>
+        </div>
     </div>
 </div>
 

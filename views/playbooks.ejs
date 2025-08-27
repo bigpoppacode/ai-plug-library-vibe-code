@@ -1,0 +1,21 @@
+<%- include('partials/header') %>
+
+<div class="container">
+    <h1 class="text-gold">Playbooks</h1>
+    <div class="page-content">
+        <div class="intro-section">
+            <p>Welcome to the Playbooks section. Here you'll find a collection of structured guides and prompt libraries to help you build, automate, and scale your projects. Each playbook is designed to be a step-by-step manual for success.</p>
+        </div>
+
+        <% playbooks.forEach(playbook => { %>
+            <div class="playbook-section">
+                <h2><%= playbook.title %></h2>
+                <div class="playbook-content">
+                    <%- playbook.content %>
+                </div>
+            </div>
+        <% }) %>
+    </div>
+</div>
+
+<%- include('partials/footer') %>

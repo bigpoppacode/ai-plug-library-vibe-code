@@ -179,14 +179,55 @@ module.exports = {
         res.render('register', { title: 'Register & Access Workflows' });
     },
     getOverviewPage: (req, res) => {
-        const overviewPath = path.join(__dirname, '..', 'PROJECT_OVERVIEW.md');
-        const content = fs.readFileSync(overviewPath, 'utf8');
-        res.render('overview', { title: 'Project Overview', content: marked(content) });
+        const playbooksDir = path.join(__dirname, '..', 'playbooks');
+        const files = fs.readdirSync(playbooksDir).filter(file => file.endsWith('.md'));
+
+        const playbooks = files.map(file => {
+            const filePath = path.join(playbooksDir, file);
+            const content = fs.readFileSync(filePath, 'utf8');
+            const descriptionMatch = content.match(/This playbook (.*?)\./);
+            const description = descriptionMatch ? descriptionMatch[0] : 'A guide to help you build and automate.';
+
+            return {
+                title: generateHumanReadableName(path.parse(file).name),
+                description: description
+            };
+        });
+
+        res.render('overview', {
+            title: 'Overview',
+            playbooks: playbooks
+        });
     },
     getStudyGuidePage: (req, res) => {
         const jeopardyPath = path.join(__dirname, '..', 'Jeopardy.md');
         const content = fs.readFileSync(jeopardyPath, 'utf8');
         res.render('study', { title: 'Study Guide', content: marked(content) });
+    },
+    getResourcesPage: (req, res) => {
+        res.render('resources', { title: 'Resources' });
+    },
+    getResourceDetailPage: (req, res) => {
+        const resourceName = req.params.resourceName;
+        res.render(`resources/${resourceName}`, { title: resourceName.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()) });
+    },
+    getPlaybooksPage: (req, res) => {
+        const playbooksDir = path.join(__dirname, '..', 'playbooks');
+        const files = fs.readdirSync(playbooksDir).filter(file => file.endsWith('.md'));
+
+        const playbooks = files.map(file => {
+            const filePath = path.join(playbooksDir, file);
+            const content = fs.readFileSync(filePath, 'utf8');
+            return {
+                title: generateHumanReadableName(path.parse(file).name),
+                content: marked(content)
+            };
+        });
+
+        res.render('playbooks', {
+            title: 'Playbooks',
+            playbooks: playbooks
+        });
     },
     getCoursesPage: (req, res) => {
         res.render('courses', { title: 'Courses' });
